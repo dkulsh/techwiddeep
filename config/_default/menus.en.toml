@@ -19,6 +19,7 @@ weight = 2
 [[main]]
 weight = 4
 name = "Pages"
+url = "#"
 
 [[main]]
 parent = "Pages"
@@ -26,9 +27,19 @@ name = "Blogs"
 url = "/blog"
 
 [[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
+parent = "Blogs"
+name = "Technology"
+url = "/blog/technology"
+
+[[main]]
+parent = "Blogs"
+name = "Lifestyle"
+url = "/blog/lifestyle"
+
+# [[main]]
+# parent = "Pages"
+# name = "Contact"
+# url = "/contact"
 
 # [[main]]
 # parent = "Pages"

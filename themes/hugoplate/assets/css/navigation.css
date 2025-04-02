@@ -38,12 +38,28 @@
   @apply bg-body dark:bg-darkmode-body z-10 min-w-[180px] rounded p-4 shadow-sm hidden lg:invisible lg:absolute lg:block lg:opacity-0;
 }
 
+.nav-dropdown-list.sub-dropdown {
+  @apply left-full top-0 mt-0 hidden lg:invisible lg:absolute lg:block lg:opacity-0;
+}
+
 .nav-dropdown-item {
   @apply [&:not(:last-child)]:mb-2;
 }
 
 .nav-dropdown-link {
   @apply text-text-dark hover:text-primary dark:text-darkmode-text dark:hover:text-darkmode-primary block py-1 font-semibold transition;
+}
+
+.nav-dropdown:hover .nav-dropdown-list {
+  @apply lg:visible lg:opacity-100;
+}
+
+.nav-dropdown-item.group:hover .sub-dropdown {
+  @apply lg:visible lg:opacity-100;
+}
+
+.nav-dropdown-item.group .sub-dropdown {
+  @apply lg:invisible lg:opacity-0;
 }
 
 /* theme-switcher */
