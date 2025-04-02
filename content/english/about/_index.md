@@ -1,9 +1,17 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Hey, I am Deep !"
 meta_title: "About"
 description: "this is meta description"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+###### THE SEX & CASH THEORY
+
+I write software for CASH. And write about IT industry for SEX.
+
+_The creative person basically has two kinds of jobs: One is the sexy, creative kind. The second is the kind that pays the bills. Sometimes the task in hand covers both bases, but not often._
+– Hugh Macleod
+
+Not the best techie, not the best thinker, not the best manager, not the best communicator. But if you're looking for a techie with thinking abilities, common sense, management and communication ... we're in business !!
+
