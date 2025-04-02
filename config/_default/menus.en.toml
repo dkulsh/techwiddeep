@@ -18,44 +18,49 @@ weight = 2
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "Blogs"
 url = "#"
 
 [[main]]
-parent = "Pages"
-name = "Blogs"
-url = "/blog"
+parent = "Blogs"
+name = "Books"
+url = "/blog/books"
+weight = 1
 
 [[main]]
 parent = "Blogs"
-name = "Technology"
-url = "/blog/technology"
+name = "Nerdy Stuff"
+url = "/blog/nerdy-stuff"
+weight = 2
 
 [[main]]
 parent = "Blogs"
-name = "Lifestyle"
-url = "/blog/lifestyle"
-
-# [[main]]
-# parent = "Pages"
-# name = "Contact"
-# url = "/contact"
-
-# [[main]]
-# parent = "Pages"
-# name = "Books"
-# url = "/authors"
+name = "Blog Series"
+url = "/blog/series"
+weight = 3
 
 [[main]]
-parent = "Pages"
+parent = "Blog Series"
+name = "Resume Building"
+url = "/blog/series/resume-building"
+weight = 1
+
+[[main]]
+parent = "Blogs"
+name = "Opinions"
+url = "/blog/opinions"
+weight = 4
+
+[[main]]
+parent = "Blogs"
 name = "Categories"
 url = "/categories"
+weight = 5
 
 # [[main]]
 # parent = "Pages"
 # name = "404 Page"
 # url = "/404"
-
 
 # footer menu
 # [[footer]]
