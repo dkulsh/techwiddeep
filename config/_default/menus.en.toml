@@ -46,6 +46,12 @@ url = "/blog/series/resume-building"
 weight = 1
 
 [[main]]
+parent = "Blog Series"
+name = "Co-operation at IT Companies"
+url = "/blog/series/cooperation-at-it-companies"
+weight = 2
+
+[[main]]
 parent = "Blogs"
 name = "Opinions"
 url = "/blog/opinions"
