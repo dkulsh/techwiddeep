@@ -1,6 +1,6 @@
 ---
-title: "The Obstacle is the Way"
-meta_title: "The Obstacle is the Way - Book Review"
+title: "The Obstacle Is the Way"
+meta_title: "The Obstacle Is the Way - Book Review"
 description: "A review of Ryan Holiday's book about stoic philosophy - obstacles exist to make us better. Stories of Rockefeller, Grant, and others who turned challenges into opportunities."
 date: 2021-10-12
 image: "/images/books/the-obstacle-is-the-way/the-obstacle-is-the-way-cover.jpeg"
@@ -11,182 +11,148 @@ draft: false
 toc: false
 ---
 
+# The Obstacle Is the Way: A Review
+
 ![Cover Image](/images/books/the-obstacle-is-the-way/the-obstacle-is-the-way-cover.jpeg)
 
-The book discusses a stoic philosophy - *obstacles exist to make us better*.
+Ryan Holiday’s *The Obstacle Is the Way* champions stoic philosophy: *obstacles exist to make us better*. I loved this book, with pencil marks throughout.
 
-I loved this book and have pencil marks all over it.
+Problems resemble video game levels—each demands practice, creativity, persistence, or teamwork. Every obstacle hones us into:
 
-Problems are like video game levels. Each requires practice, creativity, persistence, or teamwork to overcome. In that sense, every problem is an opportunity to become better:
+- More creative individuals.
+- Harder workers.
+- Better resource users.
+- Stronger team players.
 
-- A more creative person
-- More hardworking
-- More resourceful
-- A better team player
-
-Let's explore some inspiring stories from the book that illustrate this philosophy.
-
-#### Rockefeller
-
-##### Obstacle Is the Way
-
-John D. Rockefeller used the Great Depression as a learning tool. He overcame this challenge to become one of the richest men in the world.
-
-Was he born this way? No, this was learned behavior.
-
-While many others experienced the same problems as Rockefeller did, few reacted as he did.
-
-Not many trained themselves to see the opportunity inside the obstacle. *People saw the bad economy and not the learning opportunity*.
-
-The obstacle (economic depression) gave way to Rockefeller.
-
-This mindset applies to our professional lives as well.
-
-*As a software engineer:*
-
-- *Not getting enough interview calls?*
-  - Maybe the resume needs to be polished
-  - More applications
-  - Better-suited profiles
-
-- *Not getting a salary hike?*
-  - Maybe we need to sell ourselves better
-  - Maybe it's time to upskill
-  - *Maybe we need to start a company and not work at a job anymore*
-
-As you see, solving each problem helps us move to the "next level" in our lives.
+Let’s explore inspiring stories illustrating this philosophy.
 
 ---
 
-Building on this idea of turning obstacles into opportunities, consider the story of a famous general.
+#### Rockefeller’s Lesson
 
-#### Ulysses S. Grant
+> **Idea**: *Obstacles offer growth opportunities.*
 
-##### Steady Nerves
+John D. Rockefeller turned the Great Depression into a lesson, becoming one of history’s wealthiest.
 
-General Grant once sat for a photoshoot. The studio was dark, so the photographer sent an assistant up to the roof to uncover the skylight.
+Born this way? No—learned.
 
-The assistant shattered the window, sending shards of glass from the roof like knives.
+Many faced the same crisis, but few responded like him. He saw opportunity in adversity. *Others saw economic ruin, not learning potential.*
 
-The horrified photographer saw Grant look up to see the hole. Then he looked back at the camera as if nothing had happened.
+The obstacle yielded to Rockefeller.
 
-*General Grant had mastered steadying his nerves.* No wonder he won the war for the Union.
+This mindset applies professionally.
 
-These lessons extend to everyday challenges in the workplace.
+As a software engineer:
 
-- The manager has been unfair?
-- Subordinate did not deliver code?
-- Did the client change the requirements?
+- *Few interview calls?* Polish your resume, apply more, target better fits.
+- *No raise?* Sell yourself better, upskill, or start your own venture.
 
-*Does getting upset provide you with more options?*
+Solving problems advances us to the “next level.”
 
----
-
-Shifting perspective can reveal hidden opportunities, as shown in this wartime example.
-
-#### Blitzkrieg
-
-##### Flip to See the Opportunity
-
-The term Blitzkrieg means lightning war. During World War II, Germans used the tactic as an offensive that caught the enemy unprepared.
-
-After Allied General Dwight Eisenhower ordered looking at Blitzkrieg as an opportunity, *the Allied forces trapped Germans into what was called a "meat grinder"*.
-
-Even small setbacks can be reframed positively.
-
-Did not save the document? You will have to do it again 😞😔😣
-
-- You will be twice as good 😏😊😀😃
-
-Rival at work?
-
-- He keeps you alert and hardens you
-- Raises the stakes
-
-End of your rope?
-
-- You can experiment with the silliest approaches
-
-Flip and see the opportunity.
+Building on turning obstacles into opportunities, consider a famous general’s story.
 
 ---
 
-Persistence starts with small steps, as demonstrated by this meteorology pioneer.
+#### Ulysses S. Grant’s Composure
 
-#### Espy
+> **Idea**: *Master steady nerves amid chaos.*
 
-##### 25 More to Go
+General Grant sat for a photoshoot in a dark studio. An assistant shattered the skylight, raining glass like knives.
 
-James Pollard Espy was a great nineteenth-century pioneer of meteorology. *He did not read or write until age eighteen*.
+Horrified, the photographer watched Grant glance up, then resume posing unfazed.
 
-On a chance encounter with orator Henry Clay, his friend shouted for him, "He wants to be like you, even though he can't read."
+*Grant mastered steadying his nerves.* No wonder he won the Civil War.
 
-Clay grabbed one of his posters, with the word CLAY on it. He said, "You see that, boy?"
+These lessons extend to workplace challenges:
 
-Pointing to a letter: "That's an A. Now, you've only got twenty-five more letters to go."
+- Unfair manager?
+- Undelivered code?
+- Changed requirements?
 
-*(Mental level of difficulty cleared) Within one year, Espy started college.*
+*Does upset expand options?*
 
-We often get bogged down by overthinking instead of acting.
-
-We dive endlessly into:
-
-- What things "mean"
-- Whether it is "fair"
-- What is "behind" this
-
-Then we wonder why we don't have the energy to actually deal with our problems 😁😄😃😂
-
-If we had just got to work, we'd probably be done already!
+Shifting perspective reveals hidden opportunities, as in this wartime tactic.
 
 ---
 
-Creative solutions can bypass traditional barriers, as seen in this business rivalry.
+#### Blitzkrieg’s Reversal
 
-#### What Works Is Right
+> **Idea**: *Flip obstacles to uncover advantages.*
 
-##### Buy 'Em Out
+Blitzkrieg (“lightning war”) was Germany’s WWII offensive, catching enemies off-guard.
 
-In 1915, two American fruit companies fought for a piece of disputed land. This was at the border of Honduras and Guatemala.
+Allied General Dwight Eisenhower reframed it as opportunity, trapping Germans in a “meat grinder.”
 
-The bigger company, United Fruit, dispatched an army of lawyers to both countries. The lawyers worked to find every piece of legal paper and fight at the highest levels in the courts.
+Even minor setbacks flip positively:
 
-*The smaller company simply bought the land from all owners!*
+- Didn’t save the document? Redo it 😞😔😣—*twice as good* 😏😊😀😃.
+- Workplace rival? Sharpens you, raises stakes.
+- At rope’s end? Experiment wildly.
 
-They cleared the level with a creative solution.
+Flip to see opportunity.
 
-This approach raises questions about ethics and effectiveness.
-
-I know a few successful individuals that got 'creative' with parts of their resume.
-
-Right or wrong?
-
-The question is: Did it work?
+Persistence starts small, as this pioneer shows.
 
 ---
 
-Inner strength is built through deliberate effort, much like this president's journey.
+#### Espy’s Breakthrough
 
-#### Roosevelt
+> **Idea**: *Break big challenges into steps.*
 
-##### Inner Fort
+Nineteenth-century meteorology pioneer James Pollard Espy couldn’t read or write until 18.
 
-The macho US president Theodore Roosevelt spent his early years struggling with asthma.
+Inspired by orator Henry Clay, his friend shouted, “He wants to be like you, even though he can’t read.”
 
-Until his father came to his room and said, "Theodore, you have the mind but you haven't got the body. I am giving you the tools to make your body. It's going to be hard drudgery and I think you have the determination to go through with it."
+Clay pointed to his poster’s “CLAY”: “See that, boy? That’s an A. You’ve only 25 more letters to go.”
 
-Exercising hours each day for years, *Roosevelt worked the weakness out of his body*.
+*Mental barrier cleared—Espy started college within a year.*
 
-With hard work, he cleared the level and went on to become the president.
+We bog down overthinking instead of acting—diving into “meaning,” “fairness,” “motives.” Then wonder why no energy for problems 😁😄😃😂.
 
-We must fortify our own resilience to face life's challenges.
+Just work—we’d be done!
 
-Each one of us knows our inner fort. We also know the time the fort was breached.
-
-Build and strengthen it. *Sooner or later, life will invade.*
+Creative solutions bypass barriers, as in this rivalry.
 
 ---
 
-Ben Franklin said, "The things that hurt, instruct."
+#### Creative Buyout
+
+> **Idea**: *Innovation trumps convention.*
+
+In 1915, two fruit companies disputed Honduras-Guatemala border land.
+
+United Fruit sent lawyers to litigate in courts.
+
+*The smaller company bought the land from all owners!*
+
+Creative solution cleared the level.
+
+This raises ethics vs. effectiveness.
+
+Some “creatively” enhance resumes. Right or wrong? Did it work?
+
+Inner strength builds deliberately, like this president’s.
+
+---
+
+#### Roosevelt’s Fortitude
+
+> **Idea**: *Build resilience through effort.*
+
+Young Theodore Roosevelt battled asthma until his father said: “Theodore, you have the mind but not the body. I’m giving tools to build it. It’ll be hard, but you’ve the determination.”
+
+Exercising daily for years, *Roosevelt eradicated his weakness*.
+
+Hard work cleared the level—he became president.
+
+We must fortify resilience—life will test it.
+
+Each knows their inner fort and breaches. Strengthen it. *Life invades eventually.*
+
+---
+
+Ben Franklin said, “The things that hurt, instruct.”
 
 In other words, clear the level!
+
+Explore more book reviews in our [Books category](#) to continue your journey of growth. Share your feedback, like, comment, or reach out!

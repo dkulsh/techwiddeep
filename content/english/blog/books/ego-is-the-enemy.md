@@ -1,6 +1,6 @@
 ---
-title: "Ego is the Enemy"
-meta_title: "Ego is the Enemy - Book Review"
+title: "Ego Is the Enemy"
+meta_title: "Ego Is the Enemy - Book Review"
 description: "A review of Ryan Holiday's book about how ego can be our worst enemy in success and failure. Insights on humility, work, and handling success."
 date: 2021-10-28
 image: "/images/books/ego-is-the-enemy/ego-is-the-enemy-cover.jpeg"
@@ -11,200 +11,157 @@ draft: false
 toc: false
 ---
 
-The book starts by laying bare the successes and failures of the author himself. From a book consultant, strategist, one of the US's youngest talents to many failures. To ending up in the hospital with a panic attack
+# Ego Is the Enemy: A Review
 
-To lay bare one's failure takes courage and humility. For this, my respect for the author grew
+Ryan Holiday opens *Ego Is the Enemy* by sharing his highs and lows—from book consultant and strategist, one of the US’s youngest talents, to multiple failures. Ending up in the hospital with a panic attack. Laying bare one’s failures takes courage and humility—I respect that.
 
-Ryan explains his success blindspots with too much storytelling. "Your talent becomes your identity and your accomplishments become your worth." In the software world
+Holiday attributes his blind spots to ego: “Your talent becomes your identity, and accomplishments your worth.” In tech:
 
-My identity becomes
+My identity becomes:
 
-I am an Infoscion (employee of Infosys)
+- *I’m an Infoscion* (Infosys employee).
+- *I’m a Googler*.
+- *I’m ex-McKinsey*.
 
-I am a Googler
+My worth? A bank balance of $20,000 or $200,000. Neither lasts forever—changes hurt.
 
-I am an ex-McKinsey
+These insights set the stage for the key ideas in the book. Here are some I loved!
 
-My worth becomes my bank balance of
+---
 
-20 lakhs or
+#### Be or Do: The Choice
 
-2 crores
+> **Idea**: True impact comes from action, not appearance.
 
-Since neither the company nor the bank balance stays forever, the change hits one's identity. And it hurts!
+John Boyd, a pivotal modern warfare strategist, remains obscure because *he was a strategist, not just appearing as one*. As Boyd said:
 
-These insights set the stage for the key ideas in the book. Here are some of the ideas I loved.
+> “One day you’ll decide: *Be* somebody—compromise, turn your back on friends, gain club membership, promotions, assignments. Or *do something*—no promotions, no favors, but no compromises. Stay true to friends and yourself. Your work might matter.”
 
-#### Be a Software Engineer or Look Like a Software Engineer
+*Having authority differs from being the authority.*
 
-John Boyd was one of the most influential strategists in modern warfare. Yet, most of us have never heard of him
+*Having rights differs from being right.*
 
-The reason is: *He was a strategist and did not only look like one*. As Boyd said:
+Today:
 
-"One day you're going to have to make a decision...
+*Influencing differs from being an influencer.*
 
-- You can *be* somebody. You will have to make compromises and you will have to turn your back on your friends.
+*Mentoring differs from being a mentor.*
 
-But you will have a club membership and you will get promoted and you will get good assignments.
+*Impressing differs from being impressive.*
 
-OR
-
-- You can *do something*.
-
-You may not get promoted and you may not get good assignments and you certainly will not be a favorite of your superiors. But you will not have to compromise. You will be true to your friends and to yourself.
-
-Your work might make a difference."
-
-Having authority is different from *being* the authority.
-
-Having the right is different from *being* right.
-
-And from today's context:
-
-Influencing someone is different from *being* an influencer.
-
-Mentoring is different from *being* a mentor.
-
-Impressing someone is different from *being* impressive.
-
-*To be a software engineer or to do software engineering? Which way will you go?*
+*To be a software engineer or to do software engineering? Which path will you choose?*
 
 Building on this distinction, the book explores how ego permeates our lives.
 
-#### Omnipresent
+---
 
-Ego is everywhere
+#### Ego Is Omnipresent
 
-I have...
+Ego lurks everywhere. I’ve seen:
 
-- Witnessed talented engineers snubbing their bosses. A few months later they were fired.
+- Talented engineers defy bosses—fired months later.
+- Bosses claim subordinates’ ideas—exposed in crises, admitting no “details” knowledge, losing credibility.
 
-- Bosses take credit for their subordinates' ideas. During hard times, they had to admit (embarrassingly) that they did not work on the "details" of the idea. And this discredited them.
+Ego has always existed, but social media—Facebook, Instagram, followers, likes—amplifies it.
 
-While ego has always been around, with Facebook, Instagram, followers, likes, shares... it has just become more
+In this environment, values tie to validation, ruled by emotions. Success seems talent-based, but *talent is just the start*.
 
-Growing up in such an environment, our values make us dependent on validation and are ruled by our emotions. In such an environment, every success is assumed to be rooted in talent. But, *talent is only the starting point*
+Your ego asks: Will you maximize your talent? Or *be your own worst enemy?*
 
-Your ego asks you...
+This dependency on validation leads to inaction.
 
-Will you be able to make the most of your talent?
+---
 
-Or *will you be your own worst enemy?*
+#### Talk vs. Work
 
-This dependency on external validation leads to another issue: excessive talking over doing.
+> **Idea**: Real progress demands hard, unglamorous effort.
 
-#### Talk Talk Talk
+Talk is easy—work is tough, tiring, boring.
 
-"What's on your mind, Deep?" says Facebook.
+Talk:
 
-"What's happening?" says Twitter.
+- Discussing blog ideas in a coffee shop.
+- Reading blogs for “inspiration.”
 
-"Start a post" says LinkedIn.
+Work:
 
-Blabbering on these platforms is easy, even sexy by today's standards
+- Alone in a room, brainstorming next ideas.
+- Rereading the blog six times.
+- Shifting passive to active voice.
+- Adding transitions.
 
-What is hard?
-
-- Sitting in a room, thinking of ideas for the next blog.
-
-- Reading the blog for the sixth time.
-
-- Changing a sentence from passive to active voice.
-
-- Using transition words.
-
-Talk is cheap. *Real work is hard, tiring, and boring*
+Talk is cheap. *Real work is hard, tiring, and boring.*
 
 Beyond talking, pride can further hinder progress.
 
-#### Pride
+---
 
-- I am a writer because I have a blog.
+#### The Pitfalls of Pride
 
-- I am an influencer because I have followers.
+- *I’m a writer because I have a blog.*
+- *I’m an influencer because I have followers.*
+- *I’m important because 20 report to me.*
 
-- I am important because 20 people report to me.
+That’s pride.
 
-That's pride
+Good work thrives on feedback—but pride drowns it out.
 
-Also, good work comes from feedback. And feedback happens when we douse our pride.
-
-However, when my pride talks louder than the feedback's volume, then I will not hear feedback
-
-Instead, work.
-
-- How many revisions of the last blog were discarded?
-
-- Which new demographic did I target in my latest post?
-
-*Fun fact: Tamil superstar Rajinikanth is famous for ensuring entertainment for every demographic—young, adults, and old.*
-
-No wonder he is a superstar.
-
-- How many new people did I try to help?
-
-Lower the pride. Turn up the work!
+Lower pride. Amp up the work!
 
 Success brings its own challenges, often amplified by ego.
 
+---
+
 #### Dangers of Success
 
-At the top of a mountain, we breathe less air. This is because of the environment.
+At a mountain’s peak, air thins due to environment. At success’s peak, reality thins—stop listening, learning, forgetting basics—due to ego.
 
-Pretty much the same way, at the top of our success, we ingest less reality—like stop listening, stop learning, lose grasp on the basics. This happens because of ego
+Handling success (like failure) requires effort.
 
-Handling success (like handling failure) takes effort.
+*Can you handle success? Or will it ruin you?*
 
-*Can you handle success? Or will it be the worst thing that happened to you?*
+Unhandled success:
 
-What does not handling success look like?
+- Celebrity scandals with drugs, prostitutes.
+- Sports stars’ lost fortunes.
+- Fallen dictators, kings.
 
-- Drug and prostitute situations among celebrities.
+Handled success:
 
-- Lost fortunes among sports stars.
+- Mahendra Singh Dhoni—avoids headlines for wrong reasons; joined Indian Para commandos as Lt. Colonel.
+- Roger Federer—fame without scandals or multiple marriages.
+- Genghis Khan—military genius, lifelong student.
 
-- Failed dictators and kings from history.
+As knowledge grows, ignorance’s shore expands. Humility grasps you know less amid more.
 
-What does handling success look like?
+At the top—*work*. It sustains you.
 
-- Someone like Mahendra Singh Dhoni. He is not in the news for the wrong reasons. Might also be the reason he joined the Indian Para commando unit as a Lt. Colonel.
+To sustain success, prioritize what truly matters.
 
-- A Roger Federer. He is famous and hasn't had many wives or scandals. He is able to handle success.
+---
 
-- Genghis Khan. A great success. A great military mind, he was always a student.
+#### What Truly Matters?
 
-As our island of knowledge grows, so does our shore of ignorance.
+Double salary far from home? Or less near family?
 
-It takes a special kind of humility to grasp that you know less, even as you know and grasp more and more
+Work-from-home? Or rigid office?
 
-Once at the top of the mountain—*work*. It is the only thing that will keep us there
+Stable low-risk pay? Or startup’s high risk/reward?
 
-To sustain success, one must prioritize what truly matters.
+Reflect on what’s essential. Without it, success won’t fulfill—or last. Worse, it won’t endure!
 
-#### What Is Important?
+Especially with money: Without knowing your needs, default becomes *more*.
 
-Double salary away from home? Or less near family?
+Energy diverts from calling to bank-filling. Without essentials, happiness eludes—regardless of job, millions, or billions.
 
-Work-from-home flexibility? Or a grueling office schedule?
+*Not to aspire or seek from ego.*
 
-Low-risk stable salary? Or high risk/reward of a startup?
-
-It is important to sit down and think about what is truly important. Without this, success will not be pleasurable or nearly as complete as it could be. Worse, it won't last!
-
-This is especially true with money. If you don't know how much you need, the default easily becomes: *more*
-
-And so without thinking, energy is diverted from a person's calling and towards filling a bank account. Without the important things in our lives, we won't find happiness. It won't matter whether you have a good job, are a millionaire, or are a billionaire
-
-*Not to aspire or seek out of ego.*
-
-*To have success without ego.*
+*To succeed without ego.*
 
 *To push through failure with strength, not ego.*
 
-In conclusion, I liked the book (should be obvious by now)
+In conclusion, I liked the book (obvious by now). It’s a reference I return to often.
 
-Even more, it is like a reference for me—to keep coming back whenever I need to
+A good read. *Ego is the enemy.*
 
-A good read
-
-*Ego is the enemy and some added content.*
+Explore more book reviews in our [Books category](#) to continue your journey of growth. Share your feedback, like, comment, or reach out!

@@ -1,7 +1,7 @@
 ---
-title: "Book : Thinking in Bets"
+title: "Book: Thinking in Bets"
 meta_title: "Thinking in Bets - Book Review"
-description: "A review of Annie Duke's book about decision making through the lens of poker. Learn to separate results from decisions and embrace uncertainty in life's choices."
+description: "A review of Annie Duke's book about decision-making through the lens of poker. Learn to separate results from decisions and embrace uncertainty in life's choices."
 date: 2021-09-25
 image: "/images/books/thinking-in-bets/thinking-in-bets-cover.jpeg"
 categories: ["Books", "Psychology"]
@@ -11,124 +11,86 @@ draft: false
 toc: false
 ---
 
-The book discusses "decision making" as a subject.
+# Thinking in Bets: A Review
 
-Annie Duke, the author, has been a poker world champion. Since every decision in poker has an immediate monetary result, the game gives a great perspective on decision making. That is aside from losing or winning millions (in Annie's case).
+This book explores decision-making through a unique lens, drawing from Annie Duke’s experience as a poker world champion. In poker, every decision has immediate monetary consequences, offering a powerful perspective on choices—beyond just winning or losing millions. Let’s dive into the book’s core insights!
 
-#### Separating Results from Decisions
+---
 
-The book calls out the tight coupling we tend to create between results and our decisions. And by the way, I loved this concept.
+#### Separate Results from Decisions
+
+> **Idea**: *Results don’t always reflect the quality of your decisions.*
+
+Let’s start with a key principle: we often wrongly tie outcomes to decision quality. I loved this concept.
 
 ![Poker Table](/images/books/thinking-in-bets/poker-table.jpg)
 
-1. If I drive drunk and reach my destination safely, then it is easy to assume that drunk driving is *not* a bad idea.
+- Driving drunk and reaching home safely doesn’t mean drunk driving is a good idea. You might just be *lucky*.
+- Driving sober and getting into an accident doesn’t mean sobriety was a bad choice. You might be *unlucky*.
 
-Since the result was good, the decision was good too. However, a good result does *not* automatically imply a good decision. We might have been lucky this time.
+This resonates in tech environments:
 
-2. Similarly, if I drive sober and meet an accident, then it is easy to assume that driving sober was a bad idea.
+- At IT companies, overtime may yield results, but that doesn’t mean it’s a good idea—it’s often counterproductive, leading to burnout and poor code quality.
+- Conversely, avoiding overtime and missing a deadline doesn’t mean the decision was wrong.
 
-This time the bad result can imply a bad decision. Same as earlier, a bad result does *not* automatically imply a bad decision. We might have been unlucky this time.
+> *Decisions and results aren’t tightly coupled.*
 
-The reason I correlated with the concept was that I see it in action at software companies.
+This understanding sets the stage for handling uncertainty in decision-making.
 
-1. At IT organizations, techies are pushed to work overtime. Sometimes this produces results.
+---
 
-However, the results do *not* mean that overtime hours was a good idea (it is a bad one). Therefore, good code should not be tied to overtime work. Eventually, the team will burn out and will start producing poor code.
+#### Embrace the Unknown
 
-2. Similarly, if I do *not* push my team to work overtime and they fail to produce results, then the result does *not* mean that the decision to give time was a bad idea.
+> **Idea**: *Accepting uncertainty is crucial for better decisions.*
 
-*Essentially, decisions and results are not tightly coupled.*
-
-Building on this idea, the book explores how uncertainty affects our choices.
-
-#### Embracing the Unknown
-
-The future is unknown, and uncertainty plays a lot of mischief in our lives.
+The future is unpredictable, and our biases—blind spots, motivated reasoning, outcome bias, and luck—cloud our judgment.
 
 ![Uncertainty Illustration](/images/books/thinking-in-bets/uncertainty-illustration.jpg)
 
-We attempt to map our decisions to an unknown future, to the best of our abilities. However, our weaknesses keep us from doing well. These are blind spots, motivated reasoning, outcome bias, and sometimes luck.
+We try to map decisions to an unknown future, but our weaknesses lead to poor analysis of both the future and the past. Annie Duke emphasizes that failure is inevitable and acceptable. Even with great poker cards, luck can favor your opponent. Lick your wounds and move on!
 
-Due to these reasons, Annie explains, not only do we think poorly about the future, but also analyze the past poorly.
+> *The future is unknown, and embracing it as such strengthens decision-making.*
 
-Regardless of how hard we try, sometimes we will fail. This uncertainty is a fact. The book brings in a perspective that such failure ought to be acceptable.
+With this mindset, let’s explore what stood out in the book.
 
-One might have great cards at the poker table, but there is always a chance that the other person might get lucky. Let's lick our wounds and move on!
+---
 
-*The nature of the future is unknown, and accepting it as is (unknown) is an important factor in making decisions.*
+#### What Stood Out
 
-With these concepts in mind, let's look at what stood out in the book.
+> **Principle**: Practical strategies make decision-making actionable.
 
-#### What I Loved
+Unlike books that merely advocate better decisions, *Thinking in Bets* offers *practical steps*. Here’s what I loved:
 
-Unlike many other books that only talk about improving decision-making, *Thinking in Bets* discusses practical strategies towards making better decisions.
+- **Decision Swear Jar**:
+  - Avoid absolutes like “100% confident,” “someone is wrong,” or “bad luck.”
+  - Correcting verbal habits builds awareness for better choices.
 
-- **A decision swear jar**
-
-  - Next time we are 100% confident of a result.
-
-  - Someone is "wrong."
-
-  - We moan about bad luck.
-
-Most things in life are not absolutes, and our vocabulary should reflect this reality—it helps make better decisions.
-
-Making the physical habit of correcting verbal mistakes is a great way to realize them (and then correct them too).
-
-- **Betting to get a better reality.**
+- **Betting for Clarity**:
 
 ![Betting Illustration](/images/books/thinking-in-bets/betting-beliefs.jpg)
 
-The book encourages people to try and bet money on their beliefs. How much money will you bet on the fact that you are good at your job? $500, $10,000, a million?
+  - Bet money on your beliefs (e.g., “I’m good at my job—$500?”). Fear of loss opens your mind to others’ viewpoints.
 
-The fear of losing so much money encourages us to be more open to the other person's viewpoint.
+- **Give Credit, Accept Mistakes**:
+  - When others are promoted, recognize their energy, accountability, or assertiveness—not just luck.
+  - When promoted, reflect on what could be improved, acknowledging luck’s role.
 
-I loved this idea!
+- **Hide Results When Seeking Opinions**:
+  - Asking, “Should I study Android?” without mentioning “I applied to 50 jobs and got no replies” prevents biased advice. Results skew perspectives.
 
-- **Be a good credit-giver and a better mistakes-acceptor.**
+- **Decision Review Group**:
+  - Like code reviews in IT, form a group to critique life decisions, fostering improvement.
 
-The next time someone is promoted at your office, check whether:
+These strategies provide a roadmap for better choices, but the book has flaws.
 
-  - They are more energetic.
+---
 
-  - They are more accountable.
+#### Final Thoughts
 
-  - They are more willing to say no.
+The book can feel verbose, repeating themes of uncertainty and decision-making. As a poker player, not a writer, Annie Duke’s prose lacks the magnetic pull of books like *The Power of Habit* by Charles Duhigg, which turns a dry topic into a captivating narrative.
 
-The same way, when we get promoted, then instead of gloating, let us figure out what more could have been done.
+Still, I’m glad I read *Thinking in Bets*. It didn’t ignite a burning need to improve my decisions but offered *practical steps* to make better choices and avoid lamenting failures as mere skill gaps. Life is a long poker game—better decisions win most hands, but sometimes, it’s just *bad luck*.
 
-Other people's promotions are *not* always luck. There are skills involved.
-
-Our promotions are *not* always skill. There is luck involved.
-
-- **When asking for opinions, let's not share the end result.**
-
-If I were to ask you whether to study Android, what would you say? That Android is the hip technology and can help me get to a better career?
-
-What if I told you that I applied for 50 jobs but haven't heard back?
-
-Maybe the peak career time for Android has passed. This is the reason we should *not* share the results when asking for opinions.
-
-- **A review group for life's decisions.**
-
-I could relate to this topic with "code review" groups at IT organizations. Each one helping the other improve their code.
-
-These strategies provide actionable ways to improve, but the book has its flaws too.
-
-#### Wrap Up
-
-The book did become verbose at times, repeating the ideas of uncertainty and the need for better decisions.
-
-Also, Annie is a poker player and not a writer. It kind of shows. The writing was not magnetic. The subject didn't help either.
-
-The book *Power of Habit* comes to mind. Charles Duhigg made the boring subject of habits into an interesting book. The sequence of anecdotes, revelations, and storytelling was both educating and entertaining.
-
-All in all, I am glad I read this book.
-
-While it did *not* give me the need to make better decisions, it did give me "practical steps" to help me get to better decisions and *not* lament failures as simply a lack of my skill.
-
-Life is a long poker game. Better decisions will help us win most games, but despite our best skills, we will lose. And sometimes, it's just bad luck!
-
-That is *Thinking in Bets*.
+That’s *Thinking in Bets*! Explore more book reviews in our [Books category](#) to continue your journey of growth. Share your feedback, like, comment, or reach out!
 
 ![Book Cover](/images/books/thinking-in-bets/book-cover.png)
