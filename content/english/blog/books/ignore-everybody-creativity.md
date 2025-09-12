@@ -101,3 +101,4 @@ Acknowledging goals is essential. And finally, the core message.
 ![Image](/images/books/ignore-everybody-creativity/nobody-cares-trouble.jpeg) *(Image by Hugh MacLeod)*
 
 Explore more book reviews in our [Books category](#) to continue your journey of growth. Share your feedback, like, comment, or reach out!
+

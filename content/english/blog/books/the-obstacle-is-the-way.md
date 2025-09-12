@@ -156,3 +156,4 @@ Ben Franklin said, “The things that hurt, instruct.”
 In other words, clear the level!
 
 Explore more book reviews in our [Books category](#) to continue your journey of growth. Share your feedback, like, comment, or reach out!
+

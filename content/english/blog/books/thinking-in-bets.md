@@ -94,3 +94,4 @@ Still, I’m glad I read *Thinking in Bets*. It didn’t ignite a burning need t
 That’s *Thinking in Bets*! Explore more book reviews in our [Books category](#) to continue your journey of growth. Share your feedback, like, comment, or reach out!
 
 ![Book Cover](/images/books/thinking-in-bets/book-cover.png)
+

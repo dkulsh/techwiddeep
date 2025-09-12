@@ -106,3 +106,5 @@ Deida’s approach to masculinity—emphasizing *following your inner calling*�
 
 This book stands out for its bold take on masculinity and purpose. I highly recommend it to all men seeking authenticity.
 
+
+

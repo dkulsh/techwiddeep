@@ -165,3 +165,4 @@ In conclusion, I liked the book (obvious by now). It’s a reference I return to
 A good read. *Ego is the enemy.*
 
 Explore more book reviews in our [Books category](#) to continue your journey of growth. Share your feedback, like, comment, or reach out!
+
