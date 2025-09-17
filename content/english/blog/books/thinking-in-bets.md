@@ -95,3 +95,7 @@ That’s *Thinking in Bets*! Explore more book reviews in our [Books category](#
 
 ![Book Cover](/images/books/thinking-in-bets/book-cover.png)
 
+
+
+
+
