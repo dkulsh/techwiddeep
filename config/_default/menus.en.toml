@@ -58,6 +58,12 @@ url = "/blog/series/good-techies-bad-careers"
 weight = 3
 
 [[main]]
+parent = "Blog Series"
+name = "Cheat Codes"
+url = "/blog/series/cheat-codes"
+weight = 4
+
+[[main]]
 parent = "Blogs"
 name = "Opinions"
 url = "/blog/opinions"

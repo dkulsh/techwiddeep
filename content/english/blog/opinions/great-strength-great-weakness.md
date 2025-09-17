@@ -69,3 +69,4 @@ Next time you beat yourself up over a weakness, remember—it is also your stren
 
 *Excerpt From: Gordon Livingston.*  
 *"Too Soon Old, Too Late Smart"*
+

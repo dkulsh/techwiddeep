@@ -214,3 +214,4 @@ How would you feel about being remembered as a programmer?
 Remember: *Ego Is the Enemy*
 
 Write back if you have an opinion. Like what you read? Do like, comment, and share.
+

@@ -40,3 +40,4 @@ Unfortunately, this is just the way evolution built us. We are wired to protect 
 This is one of those instances where being smart doesn't help us. As with visual illusions, we can't make our minds work differently than they do, no matter how smart we are.
 
 *Excerpt from: Annie Duke. "Thinking in Bets"*
+
