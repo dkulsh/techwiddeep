@@ -52,6 +52,12 @@ url = "/blog/series/cooperation-at-it-companies"
 weight = 2
 
 [[main]]
+parent = "Blog Series"
+name = "Good Techies Bad Careers"
+url = "/blog/series/good-techies-bad-careers"
+weight = 3
+
+[[main]]
 parent = "Blogs"
 name = "Opinions"
 url = "/blog/opinions"
