@@ -64,8 +64,8 @@ jobs:
         run: |
           echo "Installing TailwindCSS v4.0.14..."
           npm install -g tailwindcss@4.0.14
-          echo "Adding TailwindCSS to PATH..."
-          echo "/opt/hostedtoolcache/node/22.18.0/x64/lib/node_modules/.bin" >> "${GITHUB_PATH}"
+          echo "Creating symlink for tailwindcss binary..."
+          ln -s /opt/hostedtoolcache/node/22.18.0/x64/lib/node_modules/.bin/tailwindcss /opt/hostedtoolcache/node/22.18.0/x64/bin/tailwindcss
           echo "Installation completed. Checking installation..."
           echo "Checking if tailwindcss binary exists..."
           which tailwindcss || echo "tailwindcss binary not found in PATH"
