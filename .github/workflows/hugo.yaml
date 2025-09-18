@@ -63,9 +63,13 @@ jobs:
           echo "Go: $(go version)"
           echo "Hugo: $(hugo version)"
           echo "Node.js: $(node --version)"
+          echo "TailwindCSS: $(tailwindcss --version)"
       - name: Install Node.js dependencies
         run: |
           [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
+      - name: Install TailwindCSS globally
+        run: |
+          npm install -g tailwindcss@latest
       - name: Configure Git
         run: |
           git config core.quotepath false
