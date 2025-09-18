@@ -11,6 +11,11 @@ name = "About"
 url = "/about"
 weight = 2
 
+[[main]]
+name = "Built & Broken"
+url = "/built-broken"
+weight = 3
+
 # [[main]]
 # name = "Elements"
 # url = "/elements"
