@@ -62,9 +62,17 @@ jobs:
           [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
       - name: Install TailwindCSS globally
         run: |
+          echo "Installing TailwindCSS v4.0.14..."
           npm install -g tailwindcss@4.0.14
-          which tailwindcss
-          tailwindcss --version
+          echo "Installation completed. Checking installation..."
+          echo "Checking if tailwindcss binary exists..."
+          which tailwindcss || echo "tailwindcss binary not found in PATH"
+          echo "Checking tailwindcss version..."
+          tailwindcss --version || echo "tailwindcss --version command failed"
+          echo "Checking npm global packages..."
+          npm list -g tailwindcss
+          echo "Checking PATH..."
+          echo $PATH
       - name: Verify installations
         run: |
           echo "Dart Sass: $(sass --version)"
