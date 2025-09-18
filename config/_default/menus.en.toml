@@ -59,9 +59,15 @@ weight = 3
 
 [[main]]
 parent = "Blog Series"
+name = "Co-Operation Part 2"
+url = "/blog/series/cooperation-part-2"
+weight = 4
+
+[[main]]
+parent = "Blog Series"
 name = "Cheat Codes"
 url = "/blog/series/cheat-codes"
-weight = 4
+weight = 5
 
 [[main]]
 parent = "Blogs"
