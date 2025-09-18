@@ -62,7 +62,7 @@ jobs:
           [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
       - name: Install TailwindCSS globally
         run: |
-          npm install -g tailwindcss@latest
+          npm install -g tailwindcss@4.0.14
           which tailwindcss
           tailwindcss --version
       - name: Verify installations
