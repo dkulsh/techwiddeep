@@ -4,6 +4,7 @@ meta_title: "Size of Rewards and Punishments for Cooperation in IT Companies"
 description: "Learn how the size of rewards and punishments affects cooperation at IT companies, with practical examples and insights on finding the right balance."
 date: 2022-08-15T00:00:00Z
 image: "/images/cooperation part 2/size-big-small.jpeg"
+image_max_width: 500  # Set any pixel value you want
 categories: ["Business", "Management"]
 author: "Deep Kulshreshtha"
 tags: ["cooperation", "rewards", "punishments", "performance-management"]

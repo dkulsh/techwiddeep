@@ -4,6 +4,7 @@ meta_title: "Software Machine Breakdowns - Common Problems in Software Developme
 description: "Explore the common breakdowns and challenges that affect software development machines. Learn about poor parts, friction, malleability issues, and the subjective-objective paradox."
 date: 2021-08-23T00:00:00Z
 image: "/images/software-building-machine/breakdowns-cover.jpg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Software Development", "Business Strategy"]
 author: "Deep Kulshreshtha"
 tags: ["software-engineering", "business-analysis", "team-management"]

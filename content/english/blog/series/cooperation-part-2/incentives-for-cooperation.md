@@ -4,6 +4,7 @@ meta_title: "Nature of Rewards and Punishments for Cooperation in IT Companies"
 description: "Explore how the type and nature of rewards and punishments affects cooperation at IT companies, with real-world examples and practical insights."
 date: 2022-08-15T00:00:00Z
 image: "/images/cooperation part 2/reward-types.jpeg"
+image_max_width: 500  # Set any pixel value you want
 categories: ["Business", "Management"]
 author: "Deep Kulshreshtha"
 tags: ["cooperation", "incentives", "rewards", "performance-management"]

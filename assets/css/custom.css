@@ -8,3 +8,9 @@
 .blog-post-image-custom {
   margin: 0 auto;
 }
+
+/* Blog listing page image height control */
+.blog-listing-image {
+  height: 200px !important;
+  object-fit: cover !important;
+}

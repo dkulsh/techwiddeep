@@ -4,6 +4,7 @@ meta_title: "Clarity in Performance Systems for Cooperation in IT Companies"
 description: "Learn how clarity in expectations, boundaries, and consequences helps achieve cooperation at IT companies through clear performance standards and communication."
 date: 2022-08-15T00:00:00Z
 image: "/images/cooperation part 2/clarity-confused.jpeg"
+image_max_width: 500  # Set any pixel value you want
 categories: ["Business", "Management"]
 author: "Deep Kulshreshtha"
 tags: ["cooperation", "clarity", "expectations", "performance-standards"]
