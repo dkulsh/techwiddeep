@@ -70,6 +70,12 @@ url = "/blog/series/cheat-codes"
 weight = 5
 
 [[main]]
+parent = "Blog Series"
+name = "Software Building Machine"
+url = "/blog/series/software-building-machine"
+weight = 6
+
+[[main]]
 parent = "Blogs"
 name = "Opinions"
 url = "/blog/opinions"
