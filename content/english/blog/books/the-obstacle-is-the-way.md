@@ -4,6 +4,7 @@ meta_title: "The Obstacle Is the Way - Book Review"
 description: "A review of Ryan Holiday's book about stoic philosophy - obstacles exist to make us better. Stories of Rockefeller, Grant, and others who turned challenges into opportunities."
 date: 2021-10-12
 image: "/images/books/the-obstacle-is-the-way/the-obstacle-is-the-way-cover.jpeg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Books", "Psychology"]
 author: "Deep Kulshreshtha"
 tags: ["stoicism", "resilience", "philosophy"]
@@ -13,7 +14,6 @@ toc: false
 
 # The Obstacle Is the Way: A Review
 
-![Cover Image](/images/books/the-obstacle-is-the-way/the-obstacle-is-the-way-cover.jpeg)
 
 Ryan Holiday’s *The Obstacle Is the Way* champions stoic philosophy: *obstacles exist to make us better*. I loved this book, with pencil marks throughout.
 

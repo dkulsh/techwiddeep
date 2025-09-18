@@ -4,6 +4,7 @@ meta_title: "Resume Building: What to Write - My Resume Practical Example"
 description: "Follow along as I build my own resume step-by-step, demonstrating the 'what' of resume content with real examples and practical insights."
 date: 2020-04-25T00:00:00Z
 image: "/images/resume-building/what-to-write-lets-write/pencil-girl-writing.png"
+image_max_width: 350  # Set any pixel value you want
 categories: ["Resume", "Career"]
 author: "Deep Kulshreshtha"
 tags: ["resume-writing", "practical-example", "step-by-step"]

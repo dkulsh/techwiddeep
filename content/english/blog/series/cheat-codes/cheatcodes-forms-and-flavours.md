@@ -4,6 +4,7 @@ meta_title: "Cheatcodes - Forms and Flavours - Types of Workplace Gaming"
 description: "Explore specific examples of cheat codes used in tech companies, from late-night emails to meeting-ophilia. Learn to identify these workplace gaming tactics."
 date: 2021-02-07T00:00:00Z
 image: "/images/cheat-codes/forms-and-flavours/cheat-codes-cover.jpg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Career", "Management"]
 author: "Deep Kulshreshtha"
 tags: ["cheat-codes", "workplace-psychology", "career-development"]

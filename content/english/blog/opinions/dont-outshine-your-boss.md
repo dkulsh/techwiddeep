@@ -4,6 +4,7 @@ meta_title: "Don't Outshine Your Boss: Power Dynamics in Corporate Environments 
 description: "Understanding power dynamics in corporate environments and why outshining your boss can lead to unintended consequences. Learn how to navigate workplace politics while maintaining your professional growth."
 date: 2021-07-18
 image: "/images/dont-outshine-boss/checkmate.jpeg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Opinions", "Leadership"]
 author: "Deep Kulshreshtha"
 tags: ["power dynamics", "workplace politics", "career advice"]

@@ -4,6 +4,7 @@ meta_title: "Reduce Threads to Increase Performance - Thread Pool Optimization"
 description: "How a reduction in the number of threads led to a performance improvement at Fudr. Learn about thread pool optimization and resource management."
 date: 2022-06-05T00:00:00Z
 image: "/images/nerdy-stuff/less-threads-more-performance/thread-pool-optimization.png"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Technology", "Performance"]
 author: "Deep Kulshreshtha"
 tags: ["code", "design", "java", "threads", "performance", "optimization"]

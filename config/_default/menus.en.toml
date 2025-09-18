@@ -86,11 +86,11 @@ name = "Opinions"
 url = "/blog/opinions"
 weight = 4
 
-[[main]]
-parent = "Blogs"
-name = "Categories"
-url = "/categories"
-weight = 5
+# [[main]]
+# parent = "Blogs"
+# name = "Categories"
+# url = "/categories"
+# weight = 5
 
 # [[main]]
 # parent = "Pages"

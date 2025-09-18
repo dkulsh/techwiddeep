@@ -4,6 +4,7 @@ meta_title: "Ego Is the Enemy - Book Review"
 description: "A review of Ryan Holiday's book about how ego can be our worst enemy in success and failure. Insights on humility, work, and handling success."
 date: 2021-10-28
 image: "/images/books/ego-is-the-enemy/ego-is-the-enemy-cover.jpeg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Books", "Psychology"]
 author: "Deep Kulshreshtha"
 tags: ["ego", "psychology", "self-improvement"]

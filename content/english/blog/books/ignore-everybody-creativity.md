@@ -4,6 +4,7 @@ meta_title: "Ignore Everybody and 39 Other Keys to Creativity - Book Review"
 description: "A review of Hugh MacLeod's book about creativity, innovation, and the challenges of pursuing great ideas. Raw insights on talent, work, and creative fulfillment."
 date: 2021-10-08
 image: "/images/books/ignore-everybody-creativity/ignore-everybody-cover.jpg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Books", "Business"]
 author: "Deep Kulshreshtha"
 tags: ["creativity", "innovation", "business"]

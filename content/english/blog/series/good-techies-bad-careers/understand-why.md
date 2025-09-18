@@ -4,6 +4,7 @@ meta_title: "Understand Why? - The Mental Models Behind Career Success"
 description: "Deep dive into why the best engineers don't always succeed. Explore the mental models of skill multiplication and additive effects that determine career outcomes."
 date: 2021-04-07T00:00:00Z
 image: "/images/good-techies-bad-careers/image12-312w312h.jpg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Career Development", "Professional Growth"]
 author: "Deep Kulshreshtha"
 tags: ["career-advice", "professional-skills", "tech-careers"]

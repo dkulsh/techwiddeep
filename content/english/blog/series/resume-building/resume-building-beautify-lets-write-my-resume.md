@@ -4,6 +4,7 @@ meta_title: "Resume Building: Beautify - My Resume Practical Example"
 description: "See how I applied visual design principles to my own resume with real examples of visual enhancements, formatting choices, and design iterations."
 date: 2020-04-25T00:00:00Z
 image: "/images/resume-building/beautify-lets-write/color-friends-cover.jpg"
+image_max_width: 500  # Set any pixel value you want
 categories: ["Resume", "Career"]
 author: "Deep Kulshreshtha"
 tags: ["resume-design", "practical-example", "visual-polish"]

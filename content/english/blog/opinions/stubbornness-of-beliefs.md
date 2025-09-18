@@ -4,6 +4,7 @@ meta_title: "The Stubbornness of Beliefs: How Motivated Reasoning Shapes Our Dec
 description: "Explore how beliefs become rigid and resistant to change through motivated reasoning. Learn why we cling to false beliefs and how this affects our decision-making process."
 date: 2021-09-28
 image: "/images/stubbornness-of-beliefs/stubborn-person-character.png"
+image_max_width: 500  # Set any pixel value you want
 categories: ["Opinions", "Psychology", "Self-Improvement"]
 author: "Deep Kulshreshtha"
 tags: ["beliefs", "motivated reasoning", "decision making", "psychology"]

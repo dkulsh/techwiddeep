@@ -4,6 +4,7 @@ meta_title: "Why Techies Should Dress Better: Professional Image & Career Impact
 description: "Learn why dressing well matters for tech professionals. Discover how proper attire affects salary, perception, and career advancement in the tech industry."
 date: 2021-09-17
 image: "/images/one-techie-to-another-dress-up/business-suit-professional.jpg"
+image_max_width: 500  # Set any pixel value you want
 categories: ["Opinions", "Career", "Lifestyle"]
 author: "Deep Kulshreshtha"
 tags: ["career advice", "professional image", "dressing sense", "tech industry"]

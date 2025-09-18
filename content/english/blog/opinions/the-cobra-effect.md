@@ -4,6 +4,7 @@ meta_title: "The Cobra Effect in IT: How Perverse Incentives Create More Problem
 description: "Explore how the Cobra Effect applies to IT organizations, where incentives to solve problems can actually create more problems. Learn about visible vs invisible work and perverse incentives in technology teams."
 date: 2021-07-04
 image: "/images/cobra-effect/cobra.jpeg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Opinions", "Technology"]
 author: "Deep Kulshreshtha"
 tags: ["incentives", "productivity", "management"]

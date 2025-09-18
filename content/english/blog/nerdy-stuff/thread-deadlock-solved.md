@@ -24,13 +24,13 @@ With this insight, let's examine the relevant code.
 
 A bit of digging reveals lines #28 and #37, which are:
 
-```python
+```
 person_queryset.update(**kwargs)
 ```
 
 and
 
-```python
+```
 Person.objects.update(session=Subquery(mapping_queryset))
 ```
 
@@ -60,13 +60,13 @@ The method updated a fixed number of "persons" and did *not* need to update diff
 
 Knowing this, line #37 was rewritten from:
 
-```python
+```
 Person.objects.update(session=Subquery(mapping_queryset))
 ```
 
 to:
 
-```python
+```
 person_queryset.update(session=Subquery(mapping_queryset))
 ```
 

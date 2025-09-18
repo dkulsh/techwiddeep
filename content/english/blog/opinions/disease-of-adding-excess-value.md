@@ -4,6 +4,7 @@ meta_title: "The Disease of Adding Excess Value: How Leaders Hurt Their Teams | 
 description: "Discover how the 'disease of adding excess value' destroys team autonomy and productivity. Learn why leaders who constantly add value create dependent, non-thinking employees and institutionalize mediocrity."
 date: 2021-08-26
 image: "/images/disease-of-adding-excess-value/sick-person-illustration.jpg"
+image_max_width: 500  # Set any pixel value you want
 categories: ["Opinions", "Leadership", "Psychology"]
 author: "Deep Kulshreshtha"
 tags: ["leadership", "team management", "autonomous thinking", "workplace psychology"]

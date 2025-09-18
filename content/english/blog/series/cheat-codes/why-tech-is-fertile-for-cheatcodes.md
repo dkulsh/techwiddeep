@@ -4,6 +4,7 @@ meta_title: "Why Tech Is Fertile for Cheatcodes - Root Causes of Workplace Gamin
 description: "Why does the tech industry provide fertile ground for cheat codes? Explore the virtual nature of software, word-intensive processes, and organizational structures that enable workplace gaming."
 date: 2021-02-07T00:00:00Z
 image: "/images/cheat-codes/why-tech-fertile/cheat-codes-cover.png"
+image_max_width: 550  # Set any pixel value you want
 categories: ["Career", "Management"]
 author: "Deep Kulshreshtha"
 tags: ["cheat-codes", "workplace-psychology", "career-development"]

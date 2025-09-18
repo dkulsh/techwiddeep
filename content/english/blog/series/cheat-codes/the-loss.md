@@ -4,6 +4,7 @@ meta_title: "The Loss - Impact of Cheat Codes on Organizations and Individuals"
 description: "Explore the devastating impact of cheat codes on both organizations and individuals - from invisible overload to toxicity and career stagnation."
 date: 2021-02-07T00:00:00Z
 image: "/images/cheat-codes/the-loss/cheat-codes-loss-cover.png"
+
 categories: ["Career", "Management"]
 author: "Deep Kulshreshtha"
 tags: ["cheat-codes", "workplace-psychology", "career-development"]

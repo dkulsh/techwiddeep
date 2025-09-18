@@ -4,6 +4,7 @@ meta_title: "Resume Building: How to Write - Complete Guide"
 description: "Master the art of resume writing with proven techniques for brevity, quantification, and strategic vocabulary. Learn how to polish your content for maximum impact."
 date: 2020-04-25T00:00:00Z
 image: "/images/resume-building/how-to-write/instruction-cover.jpg"
+image_max_width: 450  # Set any pixel value you want
 categories: ["Resume", "Career"]
 author: "Deep Kulshreshtha"
 tags: ["resume-writing", "writing-techniques", "brevity"]

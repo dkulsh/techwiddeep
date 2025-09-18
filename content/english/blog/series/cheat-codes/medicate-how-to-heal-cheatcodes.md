@@ -4,6 +4,7 @@ meta_title: "Medicate - How to Heal Cheatcodes - Cure Strategies for Infected Or
 description: "Learn how to cure cheat code culture in already infected organizations. Explore strategies from avoidance to 80/20 principle and integrity-based hiring."
 date: 2021-02-07T00:00:00Z
 image: "/images/cheat-codes/medicate-heal/cheat-codes-cover.jpg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Career", "Management"]
 author: "Deep Kulshreshtha"
 tags: ["cheat-codes", "workplace-psychology", "career-development"]

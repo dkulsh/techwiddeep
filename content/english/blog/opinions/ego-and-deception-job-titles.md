@@ -4,6 +4,7 @@ meta_title: "Ego and Deception: How Fancy Job Titles Mask Mundane Work | Career 
 description: "Explore how companies use fancy job titles to inflate egos and mask mundane work. Learn why focusing on job titles over value creation is a trap in the modern workplace."
 date: 2021-07-11
 image: "/images/ego-and-deception-job-titles/ego-deception-concept.jpg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Opinions", "Career", "Business Strategy"]
 author: "Deep Kulshreshtha"
 tags: ["job titles", "career advice", "ego", "workplace psychology"]

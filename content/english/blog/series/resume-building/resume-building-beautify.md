@@ -4,6 +4,7 @@ meta_title: "Resume Building: Beautify - Visual Presentation Guide"
 description: "Learn how to make your resume visually stand out with strategic design choices, visual elements, and professional presentation techniques."
 date: 2020-04-25T00:00:00Z
 image: "/images/resume-building/beautify/cosmetics-cover.jpg"
+image_max_width: 500  # Set any pixel value you want
 categories: ["Resume", "Career"]
 author: "Deep Kulshreshtha"
 tags: ["resume-design", "visual-presentation", "formatting"]

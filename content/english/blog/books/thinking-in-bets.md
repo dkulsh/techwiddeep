@@ -4,6 +4,7 @@ meta_title: "Thinking in Bets - Book Review"
 description: "A review of Annie Duke's book about decision-making through the lens of poker. Learn to separate results from decisions and embrace uncertainty in life's choices."
 date: 2021-09-25
 image: "/images/books/thinking-in-bets/thinking-in-bets-cover.jpeg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Books", "Psychology"]
 author: "Deep Kulshreshtha"
 tags: ["decision-making", "psychology", "uncertainty"]

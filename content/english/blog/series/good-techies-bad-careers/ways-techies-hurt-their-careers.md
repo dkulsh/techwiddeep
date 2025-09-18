@@ -4,6 +4,7 @@ meta_title: "Ways Techies Hurt Their Careers - Common Career Pitfalls"
 description: "Detailed analysis of how techies unknowingly damage their careers through poor communication, presentation, and people skills. Real-world examples and solutions."
 date: 2021-04-07T00:00:00Z
 image: "/images/good-techies-bad-careers/image10-1.png"
+image_max_width: 500  # Set any pixel value you want
 categories: ["Career Development", "Professional Growth"]
 author: "Deep Kulshreshtha"
 tags: ["career-advice", "professional-skills", "tech-careers"]

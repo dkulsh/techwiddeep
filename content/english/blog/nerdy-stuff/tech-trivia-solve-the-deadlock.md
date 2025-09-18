@@ -24,8 +24,10 @@ To dive into the puzzle, let's examine the error details.
 
 ## Error
 
-```python
-deadlock detected DETAIL: Process 10137 waits for ShareLock on transaction 1842665572; blocked by process 32398. Process 32398 waits for ShareLock on transaction 1842665620; blocked by process 10137. HINT: See server log for query details. CONTEXT: while updating tuple (4368,11) in relation "person" while processing record
+```
+deadlock detected DETAIL: Process 10137 waits for ShareLock on transaction 1842665572; blocked by process 32398. 
+Process 32398 waits for ShareLock on transaction 1842665620; blocked by process 10137. HINT: See server log for 
+query details. CONTEXT: while updating tuple (4368,11) in relation "person" while processing record
 ```
 
 ---
@@ -34,7 +36,7 @@ Now that we've seen the error, here's the relevant code snippet that triggered i
 
 ## Code
 
-```python
+```
 @transaction.atomic 
 def update_person_parameters(self, person_id, **kwargs):
 

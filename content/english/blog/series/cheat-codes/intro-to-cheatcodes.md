@@ -4,6 +4,7 @@ meta_title: "Intro to Cheatcodes - Understanding Workplace Gaming in Tech"
 description: "Some people thrive at tech companies without doing any meaningful work. This blog explores the phenomenon of cheat codes in the IT industry and why understanding them matters for your career and organization."
 date: 2021-02-07T00:00:00Z
 image: "/images/cheat-codes/intro-to-cheatcodes/cheat-codes-intro-cover.jpg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Career", "Management"]
 author: "Deep Kulshreshtha"
 tags: ["cheat-codes", "workplace-psychology", "career-development"]

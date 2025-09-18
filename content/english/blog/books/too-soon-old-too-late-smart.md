@@ -4,6 +4,7 @@ meta_title: "Too Soon Old, Too Late Smart - Book Review"
 description: "A review and reflection on the timeless wisdom from Gordon Livingston's book about life lessons learned too late"
 date: 2021-12-07
 image: "/images/books/too-soon-old-too-late-smart/too-soon-old-too-late-smart-cover.jpeg"
+image_max_width: 500
 categories: ["Books", "Psychology", "Self-Improvement"]
 author: "Deep Kulshreshtha"
 tags: ["books", "psychology", "life lessons", "wisdom"]

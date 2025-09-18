@@ -4,6 +4,7 @@ meta_title: "Vaccinate - How to Avoid Cheatcodes - Prevention Strategies"
 description: "Learn how to prevent cheat code culture from taking root in your organization. Explore awareness, transparency, root cause analysis, and common sense approaches."
 date: 2021-02-07T00:00:00Z
 image: "/images/cheat-codes/vaccinate-avoid/cheat-codes-cover.png"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Career", "Management"]
 author: "Deep Kulshreshtha"
 tags: ["cheat-codes", "workplace-psychology", "career-development"]

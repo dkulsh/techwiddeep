@@ -4,6 +4,7 @@ meta_title: "Good Techies Bad Careers - Why the Best Engineers Don't Always Succ
 description: "Explore why the best engineers often don't have the best careers. Real-world examples and insights into the gap between technical excellence and career success."
 date: 2021-04-07T00:00:00Z
 image: "/images/good-techies-bad-careers/image9-312w347h.jpg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Career Development", "Professional Growth"]
 author: "Deep Kulshreshtha"
 tags: ["career-advice", "professional-skills", "tech-careers"]

@@ -4,6 +4,7 @@ meta_title: "Way of the Superior Man - Book Review"
 description: "A review of David Deida's book about masculinity, purpose, and practical spirituality for men. Insights on following inner calling and living authentically."
 date: 2021-03-19
 image: "/images/books/way-of-superior-man/way-of-superior-man-cover.jpeg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Books", "Psychology"]
 author: "Deep Kulshreshtha"
 tags: ["masculinity", "purpose", "authenticity"]

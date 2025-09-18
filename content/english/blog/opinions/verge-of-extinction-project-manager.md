@@ -4,6 +4,7 @@ meta_title: "Project Manager Role on Verge of Extinction: How Automation is Chan
 description: "Explore why traditional project manager roles are disappearing in IT organizations. Learn about automation, shallow tasks, and how to adapt to the changing landscape of project management."
 date: 2021-07-25
 image: "/images/verge-extinction-pm/mammoth.jpeg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Opinions", "Technology"]
 author: "Deep Kulshreshtha"
 tags: ["project management", "automation", "career transition"]

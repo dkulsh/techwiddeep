@@ -4,6 +4,7 @@ meta_title: "Secrets of the Millionaire Mind - Book Review"
 description: "A review of T. Harv Eker's book about the differences in how rich and poor people think about money. Insights on money blueprint, selling, and financial success."
 date: 2021-09-08
 image: "/images/books/secrets-millionaire-mind/secrets-millionaire-mind-cover.jpeg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Books", "Business"]
 author: "Deep Kulshreshtha"
 tags: ["money", "business", "mindset"]

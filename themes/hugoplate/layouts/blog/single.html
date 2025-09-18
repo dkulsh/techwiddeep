@@ -6,7 +6,13 @@
           {{ $image:= .Params.image }}
           {{ if $image }}
             <div class="mb-10">
-              {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "w-full rounded") }}
+              {{ if .Params.image_max_width }}
+                <div class="blog-post-image-custom" style="max-width: {{ .Params.image_max_width }}px;">
+                  {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "w-full mx-auto rounded") }}
+                </div>
+              {{ else }}
+                {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "w-full mx-auto rounded blog-post-image") }}
+              {{ end }}
             </div>
           {{ end }}
           <h1 class="h2 mb-4">

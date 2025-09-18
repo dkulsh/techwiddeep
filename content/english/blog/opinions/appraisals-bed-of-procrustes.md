@@ -6,7 +6,7 @@ date: 2021-11-22
 image: "/images/appraisals-bed-of-procrustes/procrustes-bed-myth.png"
 categories: ["Opinions", "Technology", "Business Strategy"]
 author: "Deep Kulshreshtha"
-tags: ["performance metrics", "it industry", "management", "appraisals"]
+tags: ["performance metrics", "it industry", "appraisals"]
 draft: false
 toc: true
 ---

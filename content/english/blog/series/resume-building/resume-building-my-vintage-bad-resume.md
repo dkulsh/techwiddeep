@@ -4,6 +4,7 @@ meta_title: "Resume Building: My Vintage Bad Resume Practical Example"
 description: "Learn from my old resume mistakes! See common errors made by novice job hunters and understand how to avoid them in your own resume."
 date: 2020-04-25T00:00:00Z
 image: "/images/resume-building/my-vintage-bad-resume/bad-resume-cover.jpg"
+image_max_width: 400  # Set any pixel value you want
 categories: ["Resume", "Career"]
 author: "Deep Kulshreshtha"
 tags: ["resume-mistakes", "before-after", "learning"]
