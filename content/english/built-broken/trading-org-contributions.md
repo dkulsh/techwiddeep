@@ -9,6 +9,7 @@ author: "Deep Kulshreshtha"
 tags: ["contributions", "project", "tech", "crypto", "optimization", "payments"]
 draft: false
 toc: true
+weight: 3
 ---
 
 Worked at a Crypto exchange. Following are the major tasks accomplished while there.

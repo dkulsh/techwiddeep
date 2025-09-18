@@ -9,6 +9,7 @@ author: "Deep Kulshreshtha"
 tags: ["contributions", "projects", "tech", "ecommerce", "cache", "optimization"]
 draft: false
 toc: true
+weight: 4
 ---
 
 I worked at a major e-commerce organization. Following are the major tasks I accomplished while there.

@@ -18,7 +18,7 @@ toc: true
 
 #### Intro
 
-Achieving cooperation and delivering is a priority for IT companies. Their bread and butter too!
+> Achieving cooperation and delivering is a priority for IT companies. Their bread and butter too!
 
 Missed timelines, delayed projects, stretching programs, over-budgeted portfolios are common. Equally so within the IT industry.
 
