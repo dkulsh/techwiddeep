@@ -5,6 +5,7 @@ description: "A review of Ryan Holiday's book about how ego can be our worst ene
 date: 2021-10-28
 image: "/images/books/ego-is-the-enemy/ego-is-the-enemy-cover.jpeg"
 image_max_width: 400  # Set any pixel value you want
+image_listing_height: 450
 categories: ["Books", "Psychology"]
 author: "Deep Kulshreshtha"
 tags: ["ego", "psychology", "self-improvement"]
@@ -12,35 +13,32 @@ draft: false
 toc: false
 ---
 
-# Ego Is the Enemy: A Review
 
 Ryan Holiday opens *Ego Is the Enemy* by sharing his highs and lows—from book consultant and strategist, one of the US’s youngest talents, to multiple failures. Ending up in the hospital with a panic attack. Laying bare one’s failures takes courage and humility—I respect that.
 
-Holiday attributes his blind spots to ego: “Your talent becomes your identity, and accomplishments your worth.” In tech:
+In the tech world, ego often sneaks into our identities and self-worth. Ever catch yourself thinking:
 
-My identity becomes:
+- *I’m an `Infoscion` or a `Googler`—that’s who I am.*
+- *My worth is tied to my `20 lakhs` or `2 crores` bank balance.*
 
-- *I’m an Infoscion* (Infosys employee).
-- *I’m a Googler*.
-- *I’m ex-McKinsey*.
-
-My worth? A bank balance of $20,000 or $200,000. Neither lasts forever—changes hurt.
-
-These insights set the stage for the key ideas in the book. Here are some I loved!
+{{< bigtext class="big-bold-text" >}}When your identity is your job title or your worth is your bank account, change hits hard—and it hurts. {{< /bigtext >}}
 
 ---
 
-#### Be or Do: The Choice
+#### Be a Software Engineer, Don’t Just Look Like One
 
-> **Idea**: True impact comes from action, not appearance.
+> True impact comes from action, not appearance.
 
-John Boyd, a pivotal modern warfare strategist, remains obscure because *he was a strategist, not just appearing as one*. As Boyd said:
+John Boyd, a brilliant military strategist, stayed obscure because he prioritized *doing* over *appearing*. He once said:
 
-> “One day you’ll decide: *Be* somebody—compromise, turn your back on friends, gain club membership, promotions, assignments. Or *do something*—no promotions, no favors, but no compromises. Stay true to friends and yourself. Your work might matter.”
+One day you’ll face a choice:  
+- **Be** somebody: Compromise, chase promotions, and gain favor—but lose your integrity.  
+- **Do** something: Stay true to yourself, even if it means fewer titles or assignments. Your work might change the world.
 
-*Having authority differs from being the authority.*
 
-*Having rights differs from being right.*
+*Having authority differs from BEING the authority.*
+
+*Having rights differs from BEING right.*
 
 Today:
 
@@ -50,9 +48,8 @@ Today:
 
 *Impressing differs from being impressive.*
 
-*To be a software engineer or to do software engineering? Which path will you choose?*
+So, techies: Will you *do* software engineering or just *look* like a software engineer? Which path will you choose?
 
-Building on this distinction, the book explores how ego permeates our lives.
 
 ---
 
@@ -60,22 +57,18 @@ Building on this distinction, the book explores how ego permeates our lives.
 
 Ego lurks everywhere. I’ve seen:
 
-- Talented engineers defy bosses—fired months later.
-- Bosses claim subordinates’ ideas—exposed in crises, admitting no “details” knowledge, losing credibility.
+- Talented engineers snub their bosses, only to get fired months later.
+- Bosses claim subordinates’ ideas. When exposed in crises, admitting no “details” knowledge, and losing credibility.
 
-Ego has always existed, but social media—Facebook, Instagram, followers, likes—amplifies it.
-
-In this environment, values tie to validation, ruled by emotions. Success seems talent-based, but *talent is just the start*.
+Ego has always existed, but social media—Facebook, Instagram, followers, likes—amplifies it. Platforms like `Facebook`, `Twitter`, and `LinkedIn` thrive on validation—likes, shares, followers. Growing up in this culture, we tie success to talent alone, but ego blinds us to the work needed to sustain it.
 
 Your ego asks: Will you maximize your talent? Or *be your own worst enemy?*
-
-This dependency on validation leads to inaction.
 
 ---
 
 #### Talk vs. Work
 
-> **Idea**: Real progress demands hard, unglamorous effort.
+> Real progress demands hard, unglamorous effort.
 
 Talk is easy—work is tough, tiring, boring.
 
@@ -91,7 +84,7 @@ Work:
 - Shifting passive to active voice.
 - Adding transitions.
 
-Talk is cheap. *Real work is hard, tiring, and boring.*
+Talk is cheap. **Real work is hard, tiring, and boring.**
 
 Beyond talking, pride can further hinder progress.
 
@@ -107,35 +100,37 @@ That’s pride.
 
 Good work thrives on feedback—but pride drowns it out.
 
-Lower pride. Amp up the work!
+Take Tamil superstar Rajinikanth—his films entertain kids, adults, and seniors alike because he listens and adapts. Pride would’ve limited his reach. 
 
-Success brings its own challenges, often amplified by ego.
+Ask:
+- How many blog drafts did I scrap to improve?
+- Which new audience did my last post target?
+- How many people did I help this week?
+
+Lower pride. Amp up the work !
+
 
 ---
 
 #### Dangers of Success
 
-At a mountain’s peak, air thins due to environment. At success’s peak, reality thins—stop listening, learning, forgetting basics—due to ego.
+At a mountain’s peak, air thins due to environment. At success’s peak, reality thins. Ego makes us stop listening, learning, or grasping the basics.
 
-Handling success (like failure) requires effort.
+> Handling success (like failure) requires effort.
 
-*Can you handle success? Or will it ruin you?*
+**Can you handle success? Or will it ruin you?**
 
-Unhandled success:
+What happens when you don’t?
+- Celebrities spiral into scandals.
+- Sports stars squander fortunes.
+- Historical figures like dictators fall.
 
-- Celebrity scandals with drugs, prostitutes.
-- Sports stars’ lost fortunes.
-- Fallen dictators, kings.
+What does handling success look like?
+- **MS Dhoni**: Stays grounded, joins the Indian Para Commando unit as a Lt. Colonel, avoids tabloid drama.
+- **Roger Federer**: Fame without scandals, always humble.
+- **Genghis Khan**: A conqueror who remained a lifelong student.
 
-Handled success:
-
-- Mahendra Singh Dhoni—avoids headlines for wrong reasons; joined Indian Para commandos as Lt. Colonel.
-- Roger Federer—fame without scandals or multiple marriages.
-- Genghis Khan—military genius, lifelong student.
-
-As knowledge grows, ignorance’s shore expands. Humility grasps you know less amid more.
-
-At the top—*work*. It sustains you.
+As knowledge grows, ignorance expands. Humility keeps us grounded.
 
 To sustain success, prioritize what truly matters.
 
@@ -143,32 +138,19 @@ To sustain success, prioritize what truly matters.
 
 #### What Truly Matters?
 
-Double salary far from home? Or less near family?
+What’s more important to you?
+- Double salary far from home or less pay near family?
+- Work-from-home flexibility or a grueling office schedule?
+- Stable salary or the high-risk, high-reward startup life?
 
-Work-from-home? Or rigid office?
+{{< bigtext  >}}Without knowing what matters, success won’t satisfy—and it won’t last !{{< /bigtext  >}}
 
-Stable low-risk pay? Or startup’s high risk/reward?
-
-Reflect on what’s essential. Without it, success won’t fulfill—or last. Worse, it won’t endure!
-
-Especially with money: Without knowing your needs, default becomes *more*.
-
-Energy diverts from calling to bank-filling. Without essentials, happiness eludes—regardless of job, millions, or billions.
-
-*Not to aspire or seek from ego.*
+Especially with money: Without knowing your needs, default becomes *more*. Energy diverts from calling to bank-filling. Without essentials, happiness eludes—regardless of job, millions, or billions.
 
 *To succeed without ego.*
 
 *To push through failure with strength, not ego.*
 
-In conclusion, I liked the book (obvious by now). It’s a reference I return to often.
+**Ego is the Enemy** is more than a book—it’s a reference I revisit when ego creeps in. It’s a must-read for techies and anyone chasing meaningful success.
 
-A good read. *Ego is the enemy.*
-
-Explore more book reviews in our [Books category](#) to continue your journey of growth. Share your feedback, like, comment, or reach out!
-
-
-
-
-
-
+What’s one way ego’s holding you back? Share in the comments and let’s tame it together!

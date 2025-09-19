@@ -79,3 +79,5 @@ Hugh MacLeod (*Ignore Everybody and 39 Other Keys to Creativity*)
 
 Write back if you have an opinion. Like what you read? Do like, comment, and share.
 
+
+

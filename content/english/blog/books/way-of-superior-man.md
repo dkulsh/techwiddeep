@@ -5,6 +5,7 @@ description: "A review of David Deida's book about masculinity, purpose, and pra
 date: 2021-03-19
 image: "/images/books/way-of-superior-man/way-of-superior-man-cover.jpeg"
 image_max_width: 400  # Set any pixel value you want
+image_listing_height: 425
 categories: ["Books", "Psychology"]
 author: "Deep Kulshreshtha"
 tags: ["masculinity", "purpose", "authenticity"]
@@ -106,6 +107,8 @@ No explanation needed—men’s attraction to the feminine is universal. 😄
 Deida’s approach to masculinity—emphasizing *following your inner calling*—resonated deeply with me. I was conditioned to obey parents, teachers, and bosses, often leaving me unsatisfied. Deida’s insight that ignoring your calling breeds dissatisfaction hit home. I’ve read this book three times and revisit it yearly, yet I feel I’ve grasped only 60% of its depth—a testament to its richness, not a flaw.
 
 This book stands out for its bold take on masculinity and purpose. I highly recommend it to all men seeking authenticity.
+
+
 
 
 

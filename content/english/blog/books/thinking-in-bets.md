@@ -5,6 +5,7 @@ description: "A review of Annie Duke's book about decision-making through the le
 date: 2021-09-25
 image: "/images/books/thinking-in-bets/thinking-in-bets-cover.jpeg"
 image_max_width: 400  # Set any pixel value you want
+image_listing_height: 425
 categories: ["Books", "Psychology"]
 author: "Deep Kulshreshtha"
 tags: ["decision-making", "psychology", "uncertainty"]
@@ -95,6 +96,8 @@ Still, I’m glad I read *Thinking in Bets*. It didn’t ignite a burning need t
 That’s *Thinking in Bets*! Explore more book reviews in our [Books category](#) to continue your journey of growth. Share your feedback, like, comment, or reach out!
 
 ![Book Cover](/images/books/thinking-in-bets/book-cover.png)
+
+
 
 
 

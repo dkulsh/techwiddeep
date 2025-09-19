@@ -11,11 +11,10 @@ draft: false
 toc: false
 ---
 
-# Perfect Interview: Decoded
 
 Elements of a great interview. *Book excerpt*.
 
-![Image](/images/books/perfect-interview/interview-disclaimer.png) *Disclaimer: This blog doesn’t help tech professionals who lack technical knowledge.*
+![Image](/images/books/perfect-interview/interview-disclaimer.png) **Disclaimer**: The blog does **NOT** help techies that do **NOT** know their tech.
 
 ![Image](/images/books/perfect-interview/interview-process.gif)
 
@@ -23,34 +22,46 @@ Elements of a great interview. *Book excerpt*.
 
 Ask interviewers why they selected one candidate over another. They’ll cite qualifications, experience, and required skills. But research reveals they’re often misled by a subtle force.
 
-Data shows one key factor dominates: *Did the candidate seem pleasant?*
+Data shows one key factor dominates: 
+{{< bigtext class="big-bold-text" >}}Did the candidate seem pleasant ?{{< /bigtext >}}
 
 - Those who smiled and maintained eye contact.
 - Who discussed topics of interest to the interviewer, even off-topic.
 
-*A coffee comment sparked a 15-minute chat about the interviewer’s passion and $2,000 coffee machine. Job offered.*
+  *A coffee comment sparked a 15-minute chat about the interviewer’s passion and $2,000 coffee machine. Job offered.*
 
-- Who genuinely praised the organization. *Keyword: genuinely*.
+- Who genuinely praised the organization. Keyword: **genuinely**.
 
-In essence, likability trumps credentials. PS: Ass-kissing differs from being pleasant.
+>In essence, likability trumps credentials.
 
-These insights highlight the power of likability in interviews. Now, let’s explore how to handle potential weaknesses.
+**PS**: Ass-kissing differs from being pleasant.
+
+These insights highlight the power of likability in interviews.
 
 ---
 
-#### Handling Weaknesses
+#### How about black-spots ??
 
 ![Image](/images/books/perfect-interview/weaknesses-openness.png)
 
-What about gaps like inexperience or underwhelming credentials? Data favors those who disclose weaknesses early—it signals openness.
+What if one has some weak areas ? lack of experience, unimpressive performance or less than stellar credentials ?
 
-Admitting flaws shows character and integrity, implying no intent to deceive.
+Again, data shows that - people who present their weaknesses in the beginning do better. Admitting weakness is seen as a sign of openness.
 
-In one interview, I forgot the schedule while fixing a production issue. I emailed promptly:
+>Admitting flaws shows character and integrity, implying no intent to deceive.
 
-> “I just realized we had a discussion today. I was deep in a production issue and lost track of time. This is entirely my fault—I apologize. Could we reschedule? If not, I understand. Thanks.”
+Think about it for a second. **A person who admits his failures would have the *strength of character* and *integrity*.  Therefore, the person would **NOT** intend to mislead us.**
 
-The interview was rescheduled. Openness builds credibility, but within limits (e.g., respond quickly).
+
+For an interview, I completely forgot about the schedule. And was working on something else. Later (having kicked myself on the bum) I wrote back the following:
+
+*I just realized that we had a discussion today. Was in a production issue, and completely forgot about this conversation. Lost track of my time ..*  
+*This is completely my fault. And I apologize.*   
+*Would we be able to reschedule this to another day ? If so, I'll be grateful. If not, I understand. Thanks.*
+
+The interview was re-conducted.
+
+Admitting one’s weakness, a person becomes likable. But again, openness or pleasantness have their limits. ( *I wrote the mail back in within the hour, not after a week* )
 
 Building on the idea of openness, let’s discuss how to present your strengths effectively.
 
@@ -60,11 +71,17 @@ Building on the idea of openness, let’s discuss how to present your strengths 
 
 ![Image](/images/books/perfect-interview/achievements-modesty.jpg)
 
-I’ve seen candidates boast early—it comes off as arrogant. Studies show revealing accomplishments later enhances likability, portraying modesty.
+Have you ever been in an interview where a candidate jumped straight into bragging about their achievements? I’ve seen it many times—it's kinda a showoff.
 
-If strengths emerge naturally, you appear humble.
+Again we have studies. A person is more likable when they mention their accomplishment towards the end.
 
-After addressing strengths and weaknesses, it’s important to consider how to handle mistakes during the interview.
+>If strengths emerge naturally, you appear humble.
+
+
+Think about it - **if someone mentions their strengths too soon, then they seem boastful. However, if they let their strengths emerge naturally, they are seen as modest**.
+
+Kids - wait to let the person know that you single-handedly saved the day.
+
 
 ---
 
@@ -72,9 +89,11 @@ After addressing strengths and weaknesses, it’s important to consider how to h
 
 So, you’ve been pleasant, open, and modest. But what if you blank on binary search time complexity?
 
-Data reveals we *overestimate* mistakes’ impact—the “spotlight effect.”
+Again we have data. We **overestimate** the impact of a mistake.
 
-Overreacting draws attention. Acknowledge if needed, then proceed calmly.
+Meaning, our mistakes seem bigger to us than they really are. This is also called the *Spotlight effect* in psychology—the tendency to believe others notice our flaws more than they actually do.
+
+**Overreacting draws attention. Acknowledge if needed, and move on as if it wasn’t a big deal.**
 
 To tie everything together, here are the key elements for a successful interview.
 
@@ -90,13 +109,21 @@ These elements define a great interview. Likability outweighs achievements and e
 - Discuss non-work topics.
 - Smile and maintain eye contact.
 
-Don’t hide weaknesses—reveal them early for a credibility boost.
+{{< bigtext class="big-text-block">}}
+Don’t hide weaknesses. Instead, bring them out in the beginning. This will give you a credibility boost.
+{{< /bigtext >}}
 
-Delay sharing achievements to demonstrate modesty.
+{{< bigtext class="big-text-block">}}
+Wait to share achievements. This lets the interviewer know that you are modest.
+{{< /bigtext >}}
 
-If you err, don’t overreact—acknowledge and move on.
+{{< bigtext class="big-text-block">}}
+If you make a mistake. Don't overreact. Acknowledge if appropriate, then move ahead.
+{{< /bigtext >}}
 
 Excerpts from *59 Seconds* by Richard Wiseman. Explore more book reviews in our [Books category](#) to continue your journey of growth. Share your feedback, like, comment, or reach out!
+
+
 
 
 

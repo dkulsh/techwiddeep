@@ -1,7 +1,13 @@
 <div class="bg-body dark:bg-darkmode-body">
   {{ $image:= .Params.image }}
   {{ if $image }}
-    {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mb-6 w-full rounded blog-listing-image") }}
+    {{ if .Params.image_listing_height }}
+      <div class="blog-listing-image-custom" style="height: {{ .Params.image_listing_height }}px;">
+        {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "w-full rounded") }}
+      </div>
+    {{ else }}
+      {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mb-6 w-full rounded blog-listing-image") }}
+    {{ end }}
   {{ end }}
   <h4 class="mb-3">
     <a href="{{ .RelPermalink }}">

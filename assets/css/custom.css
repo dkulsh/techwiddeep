@@ -11,6 +11,47 @@
 
 /* Blog listing page image height control */
 .blog-listing-image {
-  height: 200px !important;
+  height: 300px !important;
   object-fit: cover !important;
+}
+
+/* Custom blog listing image height control */
+.blog-listing-image-custom {
+  margin: 0 auto 1.5rem auto;
+  overflow: hidden;
+}
+
+.blog-listing-image-custom img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.big-text {
+  font-size: 1.3em;
+  line-height: 1.4;
+  margin: 1em 0;
+}
+
+/* Big text shortcode styles */
+.big-text-block {
+  font-size: 1.3em;
+  line-height: 1.4;
+  display: block;
+  margin: 1em 0;
+}
+
+.big-bold-text {
+  font-size: 1.3em;
+  font-weight: bold;
+  line-height: 1.4;
+  margin: 1em 0;
+}
+
+.big-bold-text-block {
+  font-size: 1.3em;
+  font-weight: bold;
+  line-height: 1.4;
+  display: block;
+  margin: 1em 0;
 }
