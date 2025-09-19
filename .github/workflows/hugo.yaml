@@ -74,7 +74,7 @@ jobs:
           echo "Checking PATH..."
           echo $PATH
           echo "Adding TailwindCSS to PATH..."
-    echo "$(npm config get prefix)/bin" >> $GITHUB_PATH
+          echo "$(npm config get prefix)/bin" >> $GITHUB_PATH
       - name: Verify installations
         run: |
           echo "Dart Sass: $(sass --version)"
