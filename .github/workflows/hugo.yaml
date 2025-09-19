@@ -65,6 +65,10 @@ jobs:
           echo "Installing TailwindCSS v4.0.14..."
           npm install -g tailwindcss@4.0.14
           echo "Installation completed. Checking installation..."
+          echo "Adding TailwindCSS to PATH..."
+          echo "$(npm config get prefix)/bin" >> $GITHUB_PATH
+          echo "Creating symlink for immediate access..."
+          ln -sf "$(npm config get prefix)/bin/tailwindcss" /usr/local/bin/tailwindcss
           echo "Checking if tailwindcss binary exists..."
           which tailwindcss || echo "tailwindcss binary not found in PATH"
           echo "Checking tailwindcss version..."
@@ -73,8 +77,6 @@ jobs:
           npm list -g tailwindcss
           echo "Checking PATH..."
           echo $PATH
-          echo "Adding TailwindCSS to PATH..."
-          echo "$(npm config get prefix)/bin" >> $GITHUB_PATH
       - name: Verify installations
         run: |
           echo "Dart Sass: $(sass --version)"
