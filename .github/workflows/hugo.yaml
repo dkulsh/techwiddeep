@@ -60,6 +60,8 @@ jobs:
       - name: Install Node.js dependencies
         run: |
           [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
+          # Install TailwindCSS locally as well for npx fallback
+          npm install tailwindcss@4.0.14
       - name: Install TailwindCSS globally
         run: |
           echo "Installing TailwindCSS v4.0.14..."
@@ -77,6 +79,12 @@ jobs:
           npm list -g tailwindcss
           echo "Checking PATH..."
           echo $PATH
+          echo "Creating additional symlink in /usr/local/bin..."
+          ln -sf "$(npm config get prefix)/bin/tailwindcss" /usr/local/bin/tailwindcss
+          echo "Verifying symlink..."
+          ls -la /usr/local/bin/tailwindcss || echo "Symlink creation failed"
+          echo "Adding node_modules/.bin to PATH for npx fallback..."
+          echo "$(pwd)/node_modules/.bin" >> $GITHUB_PATH
       - name: Verify installations
         run: |
           echo "Dart Sass: $(sass --version)"
@@ -84,6 +92,14 @@ jobs:
           echo "Hugo: $(hugo version)"
           echo "Node.js: $(node --version)"
           echo "TailwindCSS: $(tailwindcss --version)"
+          echo "Testing npx tailwindcss..."
+          npx tailwindcss --version || echo "npx tailwindcss failed"
+          echo "Checking if tailwindcss is in node_modules/.bin..."
+          ls -la node_modules/.bin/tailwindcss || echo "tailwindcss not found in node_modules/.bin"
+          echo "Creating TailwindCSS config if it doesn't exist..."
+          if [ ! -f "tailwind.config.js" ]; then
+            echo "module.exports = {}" > tailwind.config.js
+          fi
       - name: Configure Git
         run: |
           git config core.quotepath false
