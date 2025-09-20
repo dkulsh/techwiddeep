@@ -13,11 +13,10 @@ draft: false
 toc: false
 ---
 
-# Secrets of the Millionaire Mind: A Review
 
 T. Harv Eker’s *Secrets of the Millionaire Mind* both challenged and enlightened me. Eker highlights key differences in how rich and poor people approach money. While others might offer vague advice like “think positively about money,” Eker provides actionable insights, such as “don’t envy the rich.”
 
-Eker explains: *“Lack of money is never a problem. It’s a symptom of a deeper issue.”* Our financial success stems from our “Money Blueprint”—the mindset shaping our wealth. He debunks myths like “money brings security” or “money validates worth,” noting no amount can truly provide these externally.
+Eker explains: **“Lack of money is never a problem. It’s a symptom of a deeper issue.”** Our financial success stems from our “Money Blueprint”—the mindset shaping our wealth. He debunks myths like “money brings security” or “money validates worth,” noting no amount can truly provide these externally.
 
 This sets the stage for exploring key distinctions in mindset. Here are some ideas that resonated with me!
 
@@ -36,7 +35,9 @@ Reflecting now:
 - If I don’t highlight my skills to employers, someone more vocal might get the promotion.
 - If I don’t express my love to a partner, someone else might win them over.
 
-I stand corrected—and wiser.
+I stand corrected—and wiser. *Are you selling yourself short?*
+
+**Rich people promote themselves; poor people resent selling.**
 
 Building on this, another difference lies in compensation structures.
 
@@ -47,9 +48,8 @@ In IT, where I deliver software, debates often arise:
 - A leader says, “But it doesn’t work!”
 - A programmer replies, “But I did my part.”
 
-Leaders focus on outcomes; programmers on effort. Unsurprisingly, leaders earn more.
+**Leaders focus on outcomes; programmers on effort**. Unsurprisingly, leaders earn more.
 
-This mindset shift helps avoid victimhood.
 
 ##### No Rich Victims: Victims Don’t Get Rich; Rich Aren’t Victims
 
@@ -57,13 +57,13 @@ Many blame, justify, or complain about circumstances. Eker notes victims relinqu
 
 Stop complaining!
 
-Effective money management further separates the wealthy.
-
 ##### Rich Manage Money Well; Poor Mismanage It
 
 ![Money Management](/images/books/secrets-millionaire-mind/money-management.jpg)
 
-Friends with “keeping up with the Joneses” syndrome splurge on luxuries while neglecting investments. Despite good incomes, they borrow often—and their finances stagnate.
+I know folks with “keeping up with the Joneses” syndrome—splurging on gadgets while neglecting investments. Despite good incomes, they borrow often—and their finances stagnate.
+
+**Rich manage money well; poor mismanage it well**
 
 ---
 
@@ -75,14 +75,7 @@ I’ve reread this book four times, appreciating its concrete advice that drives
 
 —Mark Twain
 
-Eker revealed my misconceptions. I hope it does the same for you. Explore more book reviews in our [Books category](#) to continue your journey of growth. Share your feedback, like, comment, or reach out!
+Eker revealed my misconceptions. Share in the comments and let’s reshape our Money Blueprints together!
 
-
-
-
-
-
-
-
-
+*Excerpts from *Secrets of the Millionaire Mind* by T. Harv Eker*
 
