@@ -8,10 +8,9 @@ categories: ["Opinions", "Technology", "Business Strategy"]
 author: "Deep Kulshreshtha"
 tags: ["performance metrics", "it industry", "appraisals"]
 draft: false
-toc: true
+toc: false
 ---
 
-## Bed of Procrustes
 
 Greek mythology tells of a figure named Procrustes. He had a stronghold on Mount [Korydallos](https://en.wikipedia.org/wiki/Corydallus) at [Erineus](https://en.wikipedia.org/w/index.php?title=Erineus,_Attica&action=edit&redlink=1). There he had a bed, in which he invited every passer-by to spend the night. He also had an obsession with making people "fit" in the bed.
 
@@ -31,51 +30,32 @@ The point of the story is... **Procrustes had arbitrary and rigid standards of e
 
 This ancient tale illustrates how rigid standards can lead to harmful outcomes, a pattern we still see today.
 
-## Procrustean Ways
+#### Procrustean Ways
 
 We observe such ways commonly in our society.
 
-- 36-24-36 is the Procrustean measurement for a woman.
+- **36-24-36** is the Procrustean measurement for a woman. Those with these measurements are beautiful. All others are not.
 
-Those with these measurements are beautiful. All others are not.
+- Students scoring **above 90% are smart** (or those that clear IIT/IIM). All others are idiots.
 
-- Students scoring above 90% are smart (or those that clear IIT/IIM).
+- Someone with a **$20 lakh per annum package** is better. And one with $8 lakh per annum is not as good.
 
-All others are idiots.
+Ever been judged by lines of `code` or hours clocked? The IT industry loves its Procrustean beds:
 
-- Someone with a $20 lakh per annum package is better.
+- Write **1000 lines of code**? You’re a star. Only 100? Slacker.
+- Work **12 hours**? That’s dedication. 6 hours? Lazy.
+- Solve **20 tickets**? Hero. Just 2? Get serious.
+- Attend **10 meetings**? Productive. One? You’re not a team player.
 
-And one with $8 lakh per annum is not as good.
-
-In the IT industry, we see the same Procrustean standards.
-
-- Someone writing 1000 lines of code is a better techie.
-
-His colleague writing 100 lines of code is not as good.
-
-- Working for 12 hours *proves* contribution.
-
-Working 6 shows a *lack* of intent.
-
-- Solving 20 tickets is *work*.
-
-And solving 2 is *not*.
-
-- Attending 10 meetings equals being more productive.
-
-And attending 1 meeting is less productive.
-
-While the application differs, the ideas remain the same.
 
 **Arbitrary and rigid standards of evaluation applied violently.**
 
 ![Procrustean ways in society](/images/appraisals-bed-of-procrustes/procrustean-ways-society.jpg)
 
-These examples highlight the flaws in such rigid metrics, which often fail to capture true value.
 
-## Problems with Procrustean Measurements
+#### Problems with Procrustean Measurements
 
-### They Don't Work
+##### They Don't Work
 
 From the 80/20 principle, we know that 20% of issues take the most time, and 80% get resolved quickly.
 
@@ -83,25 +63,28 @@ Indians have a saying: "Not all fingers are alike." Meaning, people come in diff
 
 So, comparing 1 high-complexity issue to several low-complexity ones is poor thinking. Let us consider this...
 
-- A developer writes 1000 lines of code thinking very little.
-
-- At the same time, his lead puts in 100 lines of high-quality code within a critical module.
+- A developer churns out **1000 lines** with minimal thought.
+- Their lead writes **100 lines** for a mission-critical `module`.
 
 Who has put in better work?
 
-Procrustean standards would say the developer. However, we know from experience that the 20% lines of code are more valuable.
+Procrustean standards would say the developer. However, we know from experience that the 20% lines of code are more valuable. *Ever been shortchanged by a dumb metric?*
 
 **Procrustean standards don't work in the real world!**
 
-Beyond their ineffectiveness, these standards have other detrimental effects.
 
-### Kill the Unfit
+Take a brilliant programmer from Kerala, coding like a wizard but struggling with English. The IT industry often shuns them for not fitting the “eloquent techie” mold. Yet, a kid like [Abhishek](https://www.newindianexpress.com/specials/2018/may/22/16-year-old-boy-from-kerala-wins-googles-international-open-source-software-code-in-contest-1817714.html) won Google’s open-source contest. Procrustean standards would’ve crushed him.
 
-Speaking good English is one of the IT industry's measurement units. Let us consider this to be a Procrustean measurement.
+> Arbitrary metrics kill talent instead of nurturing it.
 
-Imagine a brilliant programmer from Kerala. While all is good, he isn't good with the English language. Wouldn't most of the industry reject (if not castigate) him? It would!
+Imagine:
+- Sachin Tendulkar flunking school exams.
+- Angela Merkel missing the “36-24-36” beauty mark.
+- Richard Branson sidelined for ADHD.
 
-Now I tell you that the kid won Google's international open-source software contest! And that this is real. [Link here](https://www.newindianexpress.com/specials/2018/may/22/16-year-old-boy-from-kerala-wins-googles-international-open-source-software-code-in-contest-1817714.html) (*Not to say that Abhishek's English needs work. I'm sure it's great.*)
+> Procrustean standards rob the world of genius.
+
+##### Kill the Unfit
 
 **Procrustean standards kill the unfit (instead of grooming them) and therefore are bad.**
 
@@ -119,9 +102,8 @@ The same thing happens in the IT industry. Measured on Procrustean standards, ta
 
 ![Talent suppression illustration](/images/appraisals-bed-of-procrustes/talent-suppression-illustration.jpg)
 
-This suppression extends to how metrics influence behavior.
 
-### Metrics Become the Goal
+##### Metrics Become the Goal
 
 Rewarded behavior is repeated behavior.
 
@@ -137,21 +119,16 @@ More so, engineers purposefully create issues so they can be solved later and gi
 
 *Explained this in another blog post:* [*The Cobra Effect - techwiddeep.com*](https://techwiddeep.com/the-cobra-effect/)
 
-- If working 12 hours is rewarded, then people will find tasks to work for 12 hours.
+> When metrics are the goal, quality takes a backseat.
 
-- In case tickets are a measure of work, then every small task becomes a ticket.
+- Reward **12 hours**? People find busywork to fill it.
+- Count **tickets**? Every tiny task becomes one.
 
-While so, output quality does not improve.
+Output suffers, but the Procrustean bed stays cozy.
 
-## Word of Caution
 
-Lines of code, the number of tickets, and length of documents are valid measurement units. *So, someone writing 0 lines of code in 6 months is surely in a different universe compared to someone writing 5000 lines of code during the same time.*
 
-*However, 100 lines of code in a critical place can have a bigger effect compared to 1000 lines of code at less relevant places.*
-
-Reflecting on these issues, here's a perspective on improvement.
-
-## My 2 Cents
+#### My 2 Cents
 
 In the movie *Moneyball*, Peter Brand, played by Jonah Hill, explains that there was a mad race among teams to buy the most expensive player, and this was so across the industry.
 
@@ -187,7 +164,7 @@ Something similar needs to happen within information technology.
 
 ![Procrustes followers defeated](/images/appraisals-bed-of-procrustes/procrustes-followers-defeated.jpg)
 
-Procrustes was eventually captured and killed. The same thing happens to his followers.
+Procrustes was eventually captured and killed. The same thing happens to his followers. His rigid standards didn’t survive, and neither should IT’s.
 
 Easier said than done, but don't be those guys!
 

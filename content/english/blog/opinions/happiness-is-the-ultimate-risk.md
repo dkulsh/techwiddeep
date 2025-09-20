@@ -19,7 +19,7 @@ Sometimes, I tell people that there might be advantages to their depression. One
 
 The same goes for chronic pessimism. It is hard to disillusion pessimists. They are already discouraged and so immune to unhappy surprises. Because their expectations are chronically low, pessimists are seldom disappointed (they also see themselves as realists). When I suggest to them that our expectations, good or bad, are usually met, they are skeptical since it has been so long since they have anticipated anything but the worst.
 
-*To be happy is to take the risk of losing that happiness.*
+**To be happy is to take the risk of losing that happiness.**
 
 All significant accomplishments require taking risks: the risk of failure
 
@@ -50,7 +50,7 @@ It is often hard to sell unhappy people on the idea of making the necessary chan
 
 Our feelings depend on our interpretation of what is happening to us and around us—our attitudes.
 
-*It is not so much what occurs, but how we define events and respond that determines how we feel.*
+**It is not so much what occurs, but how we define events and respond that determines how we feel.**
 
 Those who struggle emotionally have lost their ability to choose behaviors that could make them happy.
 
@@ -58,7 +58,7 @@ Consider a person so disabled by worry that he can no longer function comfortabl
 
 But we have the ability to choose happy behaviors.
 
-At the same time, *happiness is the ultimate risk*. To be happy is to take the risk of losing that happiness.
+At the same time, **happiness is the ultimate *risk*. To be happy is to take the risk of losing that happiness.
 
 *Excerpt from: Gordon Livingston. "Too Soon Old, Too Late Smart"*
 
