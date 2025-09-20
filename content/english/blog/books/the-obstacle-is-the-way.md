@@ -128,3 +128,4 @@ Ben Franklin said, **“The things that hurt, instruct.”** In tech and in life
 > The obstacle *is* the way.
 
 This book is a roadmap for turning setbacks into growth. What obstacle are you facing right now?
+

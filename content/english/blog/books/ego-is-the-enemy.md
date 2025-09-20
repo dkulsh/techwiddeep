@@ -154,3 +154,4 @@ Especially with money: Without knowing your needs, default becomes *more*. Energ
 **Ego is the Enemy** is more than a book—it’s a reference I revisit when ego creeps in. It’s a must-read for techies and anyone chasing meaningful success.
 
 What’s one way ego’s holding you back? Share in the comments and let’s tame it together!
+
