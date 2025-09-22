@@ -163,18 +163,6 @@ jobs:
           ls -la public/css/
           echo "=== Check for HTTP references ==="
           grep -r "http://" public/ || echo "No HTTP references found"
-      - name: Debug - Check generated HTML
-        run: |
-          echo "=== Check index.html CSS links ==="
-          grep -A 2 -B 2 "href.*css" public/index.html
-          echo "=== Check base tag in HTML ==="
-          grep -i "base.*href" public/index.html || echo "No base tag found"
-          echo "=== Check all HTTP references ==="
-          grep -i "http://" public/index.html | head -10
-          echo "=== Check all HTTPS references ==="
-          grep -i "https://" public/index.html | head -10
-          echo "=== Check og:url and canonical URLs ==="
-          grep -i "og:url\|canonical" public/index.html || echo "No og:url or canonical found"
       - name: Cache save
         id: cache-save
         uses: actions/cache/save@v4
