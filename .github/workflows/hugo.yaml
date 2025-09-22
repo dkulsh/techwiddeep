@@ -124,10 +124,10 @@ jobs:
         run: |
           echo "=== GitHub Pages base_url output ==="
           echo "steps.pages.outputs.base_url = '${{ steps.pages.outputs.base_url }}'"
-          echo "=== GitHub pages.url ==="
-          echo "github.pages.url = '${{ github.pages.url }}'"
+          echo "=== After HTTP to HTTPS replacement ==="
+          echo "replaced baseURL = '${{ replace steps.pages.outputs.base_url 'http://' 'https://' }}'"
           echo "=== Constructed baseURL for Hugo ==="
-          echo "baseURL = '${{ github.pages.url }}/'"
+          echo "baseURL = '${{ replace steps.pages.outputs.base_url 'http://' 'https://' }}/'"
           echo "=== Environment variables ==="
           echo "GITHUB_PAGES_URL = '${{ env.GITHUB_PAGES_URL }}'"
           echo "=== All pages outputs ==="
@@ -135,11 +135,11 @@ jobs:
           echo "${{ toJson(steps.pages.outputs) }}"
       - name: Build the site
         run: |
-          echo "=== Building with baseURL: ${{ github.pages.url }}/ ==="
+          echo "=== Building with baseURL: ${{ replace steps.pages.outputs.base_url 'http://' 'https://' }}/ ==="
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ github.pages.url }}/" \
+            --baseURL "${{ replace steps.pages.outputs.base_url 'http://' 'https://' }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Debug - Check Hugo configuration
         run: |
