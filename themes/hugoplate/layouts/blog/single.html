@@ -5,13 +5,20 @@
         <article class="lg:col-10">
           {{ $image:= .Params.image }}
           {{ if $image }}
+            {{/* Process cover image URL to make it absolute */}}
+            {{ $processedImage := $image }}
+            {{ if hasPrefix $image "/images/" }}
+              {{ $processedImage = printf "%simages%s" site.BaseURL (strings.TrimPrefix "/images" $image) }}
+            {{ else if hasPrefix $image "images/" }}
+              {{ $processedImage = printf "%simages/%s" site.BaseURL (strings.TrimPrefix "images/" $image) }}
+            {{ end }}
             <div class="mb-10">
               {{ if .Params.image_max_width }}
                 <div class="blog-post-image-custom" style="max-width: {{ .Params.image_max_width }}px;">
-                  {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "w-full mx-auto rounded") }}
+                  {{ partial "image" (dict "Src" $processedImage "Context" .Page "Alt" .Title "Class" "w-full mx-auto rounded") }}
                 </div>
               {{ else }}
-                {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "w-full mx-auto rounded blog-post-image") }}
+                {{ partial "image" (dict "Src" $processedImage "Context" .Page "Alt" .Title "Class" "w-full mx-auto rounded blog-post-image") }}
               {{ end }}
             </div>
           {{ end }}
