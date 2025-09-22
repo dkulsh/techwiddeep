@@ -50,7 +50,7 @@
             {{ if or (not (isset .Params "toc")) .Params.toc }}
               {{ partial "toc.html" (dict "Class" "blog" "Collapsed" false "TableOfContents" .TableOfContents ) }}
             {{ end }}
-            {{ .Content }}
+            {{ partial "process-content.html" . }}
           </div>
           <div class="row items-start justify-between">
             {{ $tags:= .Params.tags }}

@@ -1,0 +1,12 @@
+{{ $content := .Content }}
+
+{{/* Process images in content to make them absolute URLs */}}
+{{ $content = $content | replaceRE `src="/images/` (printf `src="%simages/` site.BaseURL) }}
+
+{{/* Process any other relative image paths */}}
+{{ $content = $content | replaceRE `src="images/` (printf `src="%simages/` site.BaseURL) }}
+
+{{/* Fix double slashes */}}
+{{ $content = $content | replaceRE `//images/` `/images/` }}
+
+{{ $content | safeHTML }}
