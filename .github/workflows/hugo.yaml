@@ -124,8 +124,10 @@ jobs:
         run: |
           echo "=== GitHub Pages base_url output ==="
           echo "steps.pages.outputs.base_url = '${{ steps.pages.outputs.base_url }}'"
+          echo "=== GitHub pages.url ==="
+          echo "github.pages.url = '${{ github.pages.url }}'"
           echo "=== Constructed baseURL for Hugo ==="
-          echo "baseURL = '${{ steps.pages.outputs.base_url }}/'"
+          echo "baseURL = '${{ github.pages.url }}/'"
           echo "=== Environment variables ==="
           echo "GITHUB_PAGES_URL = '${{ env.GITHUB_PAGES_URL }}'"
           echo "=== All pages outputs ==="
@@ -133,11 +135,11 @@ jobs:
           echo "${{ toJson(steps.pages.outputs) }}"
       - name: Build the site
         run: |
-          echo "=== Building with baseURL: ${{ steps.pages.outputs.base_url }}/ ==="
+          echo "=== Building with baseURL: ${{ github.pages.url }}/ ==="
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --baseURL "${{ github.pages.url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Debug - Check Hugo configuration
         run: |
