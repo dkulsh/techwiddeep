@@ -118,6 +118,20 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
+      - name: Debug - List public directory contents
+        run: |
+          echo "=== Public directory structure ==="
+          ls -la public/
+          echo "=== CSS files ==="
+          ls -la public/css/
+          echo "=== Check for HTTP references ==="
+          grep -r "http://" public/ || echo "No HTTP references found"
+      - name: Debug - Check generated HTML
+        run: |
+          echo "=== Check index.html CSS links ==="
+          grep -A 2 -B 2 "href.*css" public/index.html
+          echo "=== Check baseURL in HTML ==="
+          grep -i "baseurl\|canonical" public/index.html || echo "No baseURL found"
       - name: Cache save
         id: cache-save
         uses: actions/cache/save@v4
