@@ -14,11 +14,11 @@ toc: false
 
 Blowback is a term coined by the CIA. It intends to highlight unintended consequences of our actions.
 
-In the IT context, a blowback would be getting fired for doing a great job. Sometimes doing a good job can have "blowbacks." We discuss this phenomenon today.
+In the IT context, a "blowback" would be **getting fired for doing a great job**. Let's unpack this sneaky trap with a real tale, a power play primer, and tips to dodge the drama. Ready to play smart?
 
-#### True Story
+#### The Blowback Blues
 
-Ravi was a good techie. He was curious, a self starter, a learner, and all things good. Unfortunately for him, he was better than most around him, including his peers, leads, and managers.
+Ravi was a good techie. He was curious, a self starter, a learner, and all things good. Unfortunately for him, **he was better than most around him, including his peers, leads, and managers**.
 
 As things turned out, Ravi landed with a manager who wasn't bright. As usual, he did great work and was well appreciated. While doing so, he became an object of envy for many around him, including his manager. But Ravi remained happily unaware.
 
@@ -34,7 +34,7 @@ What really happened? Wasn't Ravi giving his best? Aren't all of us supposed to?
 
 ![Confused](/images/dont-outshine-boss/confused.jpeg)
 
-The answer lies not where we look, but where we don't. Ravi being fired had less to do with his work and more to do with power.
+The answer lies not where we look, but where we don't. **Ravi being fired had less to do with his work and more to do with power**.
 
 Power? Authority of one over another.
 
@@ -56,29 +56,27 @@ Let's see whether these resonate.
 
    Why? Does it have something to do with power over us?
 
-Above is how power shapes our daily lives. If you understand these (and I bet you do!), then you already know what power feels like.
+Above is how power shapes our daily lives. If you understand these (and I bet you do!), then **you've felt power's pull**.
 
 Coming back to our story, Ravi unintentionally disturbed the power equation in the system and suffered the consequences.
 
 #### Let's Elaborate
 
-Firstly, everyone has insecurities. Everyone.
-
 When we show our talents to the world, we stir up resentment, envy, and many other forms of insecurities.
 
-Truth be told, *those below you that are envious—who bloody cares*. But *those above you—we bloody make sure we care!*
+> Everyone has insecurities. Everyone.
+
+Truth be told, **those below you that are envious—who bloody cares**. But **those above you—we bloody make sure we care!**
 
 Secondly, masters want to appear better than their subordinates.
 
 ![Master](/images/dont-outshine-boss/master.jpeg)
 
-If the subordinate is able to do all the work, then the master becomes more of a rubber stamp. He kinda loses his authority, his power over you. The situation becomes very dishonorable and shameful for the master.
+{{< bigtext  >}}If the subordinate is able to do all the work, then the master becomes more of a rubber stamp.{{< /bigtext  >}} He kinda loses his authority, his power over you. The situation becomes very dishonorable and shameful for the master.
 
 Few masters have a healthy self-image to handle this. But many don't, and that is where the danger lies.
 
-Combining the first and the second factor, we have a master who is envious—a dangerous cocktail. This is what Ravi ended up creating and faced consequences.
-
-Building on this understanding, let's relate it to familiar tech concepts.
+Combining the first and the second factor, we have **a master who is envious—a dangerous cocktail**. This is what Ravi ended up creating and faced consequences.
 
 #### Techie's Language
 
@@ -100,19 +98,19 @@ As techies, think of power when...
 
   The application no longer has power.
 
-While technology operates inside a computer, humans operate outside one. Regardless, studying humans like studying technology is important.
+While technology operates inside a computer, humans do so outside one. Regardless, studying humans like studying technology is important.
 
-This dynamic isn't isolated; it's pervasive across various fields.
+{{< bigtext  >}}This dynamic isn't isolated; it's pervasive across various fields.{{< /bigtext  >}}
 
 #### All-Present
 
 Do you get the feeling of "What happened to Ravi was wrong"? Ravi was good at his work. The manager did wrong by passing his poor feedback. Do you believe so?
 
-In that case, I have a question for you. If Ravi were the manager and someone else the subordinate, then what would've happened?
+In that case, I have a question for you. {{< bigtext  >}}If Ravi were the manager and someone else the subordinate, then what would've happened?{{< /bigtext  >}}
 
-My take—exact same thing! Ravi would've got his subordinate fired.
+My take—**exact same thing**! Ravi would've got his subordinate fired.
 
-Power affects everyone.
+> Power affects everyone.
 
 ![Power](/images/dont-outshine-boss/power.png)
 
@@ -124,13 +122,12 @@ But right before the deal was about to go through, it was suspended by the Chine
 
 _Read more at:_ [_NY Times_](https://www.nytimes.com/2020/11/06/technology/china-ant-group-ipo.html#:~:text=China%20Halts%20Ant%20Group's%20Blockbuster,of%20the%20financial%20technology%20giant.)
 
-Ma tried to outshine his master. Like Ravi, he disturbed the power equation and paid for it. Once again, let's invert the characters. Had someone below Jack Ma stood up to him the same way, what would've happened?
+**Ma tried to outshine his master**. Like Ravi, he disturbed the power equation and paid for it. Once again, let's invert the characters. Had someone below Jack Ma stood up to him the same way, what would've happened?
 
-My take—exact same thing. Ma would've fired his subordinate.
+**My take—exact same thing. Ma would've fired his subordinate.**
 
-The Ravi episode had less to do with him and his manager. It had everything to do with the "rules of power." And the rules apply to everyone.
+The Ravi episode had less to do with him and his manager. It had everything to do with the "rules of power." *And the rules apply to everyone*.
 
-Recognizing this, we must view power objectively.
 
 #### Amoral
 
@@ -138,7 +135,7 @@ Power is amoral, meaning it doesn't care about the rules of morality (different 
 
 This might be difficult for some of us to accept. But for us to learn, we need to see things as they are, not as we'd like them to be. So don't look at power through the morality prism.
 
-Power is neither good nor bad. It surely does not have the same standards you and I do.
+> Power is neither good nor bad. It surely does not have the same standards you and I do.
 
 *"Power is a game, and in games you do not judge your opponents by their intentions but by the effects of their actions."*
 
@@ -146,57 +143,56 @@ Power is neither good nor bad. It surely does not have the same standards you an
 
 What Ravi's boss did was wrong. But his wrongdoing doesn't change the fact that Ravi was let go. This despite Ravi doing a fabulous job. Therefore, dismissing power as bad or not important will be silly.
 
-Power is important and affects all.
+**Power is important and affects all**.
 
-So, how can we navigate this reality?
 
 #### What to Do?
 
-Power gods need honoring. We need to ensure that our superiors—lead, manager, architect, CTO, CEO—do not feel insecurity from us. They are used to dealing with us in certain ways; they have control over the relationship. If we do something that reduces that control, they will resist.
+Power gods need honoring. **We need to ensure that our superiors—lead, manager, architect, CTO, CEO—do not feel insecurity from us**. They are used to dealing with us in certain ways; they have control over the relationship. If we do something that reduces that control, they will resist.
 
-Don't get me wrong—they love us and want good for us. But their first priority is themselves, not us. They love us the way we are, not the way we might become. So...
+Don't get me wrong—they love us and want good for us. **But their first priority is themselves, not us**. They love us the way we are, not the way we might become. So...
 
-Give our superiors incentives to see us grow.
+##### Share the Spotlight
 
-After any achievement, share credit with the team. This ensures that the superiors are always appreciated. I don't recommend flattery as it's easy to be caught as ass kissing. Instead, selective truth is a safer bet. For example:
+{{< bigtext >}}Give our superiors incentives to see us grow.{{< /bigtext >}}
+
+After any achievement, **share credit with the team**. This ensures that the superiors are always appreciated. I don't recommend flattery as it's easy to be caught as ass kissing. Instead, selective truth is a safer bet. For example:
 
 - You have bigger responsibilities.
 
 - Couldn't have happened without your guidance.
 
-- Your broader perspective helps...
-
-- Bla bla... you get the point.
+- Your broader perspective helps... bla bla... you get the point.
 
 Since the above will be true of most bosses, it won't be misunderstood as flattery.
 
-Our bosses usually don't have any incentives to see us grow. When we share credit, we give them incentives to see us grow: My success is your success!
+{{< bigtext >}}Our bosses usually don't have any incentives to see us grow.{{< /bigtext >}} When we share credit, we give them incentives to see us grow: **My success is your success!**
 
-Hide our abilities.
+##### Dim Our Shine
 
 ![Hide](/images/dont-outshine-boss/hide.png)
 
-Some of us are brilliant. We can make others insecure by being ourselves. In case we are brilliant, our supervisors might appreciate us overtly. But covertly, work to replace us with someone less threatening.
+Some of us are brilliant. **We can make others insecure by being ourselves**. In case we are brilliant, our supervisors might appreciate us overtly. But covertly, work to replace us with someone less threatening.
 
 In these cases, we need to ensure that our abilities are muted. So...
 
-- Don't appear too perfect.
+- **Don't appear too perfect**.
 
   Allow some of your mistakes to be seen.
 
-- Ask your boss's opinion, even when not needed.
+- **Ask your boss's opinion, even when not needed**.
 
   Allow him to feel contributing.
 
-- Review designs with them, even when they are final.
+- **Review designs with them, even when they are final**.
 
   Any recommendations can be taken up "later."
 
-- Keep a slight boundary from your boss.
+- **Keep a slight boundary from your boss**.
 
   While he might be friendly, he is not your friend.
 
-Appearing less than you are is always a safe bet. Since we are no longer a threat, no "corrective" action needs to be taken against us.
+{{< bigtext >}}Appearing less than you are is always a safe bet.{{< /bigtext >}} Since we are no longer a threat, no "corrective" action needs to be taken against us.
 
 #### ⚠⚠ Decide for Yourself ⚠⚠
 
@@ -204,25 +200,26 @@ Let's be real—I am not an expert, and this is just a blog. You own the respons
 
 Consider the advice as guidelines and not rules. So...
 
-- If your boss is very insecure, it might be better to change jobs.
+- If your boss is insecure, it might be better to change jobs.
 
 - If he is too big a fool, then just wait for him to fumble and fail.
 
-- If he is somewhere between a fool and insecure, then don't offend him. Wait and your time will come.
+- If he is somewhere between a fool and insecure, then don't offend him. **Wait and your time will come**.
 
 Most of all, I hope that you see the force of power around you.
 
-Drawing from historical wisdom, let's wrap this up.
 
 #### In Conclusion
 
 A Devdutt Pattanaik, the famous Indian mythologist, interview comes to mind.
 
-During the interview, Devdutt explains that Lord Krishna was the most brilliant of people during his times. In our context, he was someone who could make others insecure just by being himself.
+During the interview, Devdutt explains that Lord Krishna was the most brilliant of people during his times. In our context, **he was someone who could make others insecure just by being himself**.
 
-But Krishna was smart. He ensured that he never "looked" too threatening. To achieve that, he dressed differently. He wore yellow silk, wore a peacock feather, had henna on his hands, and alta on his feet.
+{{< bigtext >}}But Krishna was smart. He ensured that he never "looked" too threatening. To achieve that, he dressed differently. He wore yellow silk, wore a peacock feather, had henna on his hands, and alta on his feet.{{< /bigtext >}}
 
-Such behavior was feminine by those times' standards. However, it helped the kings and courtiers believe that he was supposedly "soft." Therefore, not a threat. The pretense allowed Krishna to do his work without too much resistance.
+<p></p>
+
+{{< bigtext >}}Such behavior was feminine by those times' standards. However, it helped the kings and courtiers believe that he was supposedly "soft." Therefore, not a threat. The pretense allowed Krishna to do his work without too much resistance.{{< /bigtext >}}
 
 Let's look at a few of his feats:
 
@@ -236,16 +233,10 @@ Let's look at a few of his feats:
 
 ![Krishna](/images/dont-outshine-boss/krishna2.jpeg) _(Illustration: Devdutt Pattanaik)_
 
-With these and more, Krishna virtually ensured Pandav's win. These achievements were not despite looking soft, but because of looking soft.
+With these and more, Krishna virtually ensured Pandav's win. **These achievements were not despite looking soft, but because of looking soft**.
 
 If Lord Krishna found the principle important, then we earthlings should take it seriously. Power gods bless those that pray to them and punish those that don't.
 
 Be smart. Avoid blowbacks.
 
 _Idea conceived and help from book:_ [_48 Laws of Power_](https://en.wikipedia.org/wiki/The_48_Laws_of_Power)
-
-Write back if you have an opinion. Like what you read—do like, comment, and share.
-
-
-
-

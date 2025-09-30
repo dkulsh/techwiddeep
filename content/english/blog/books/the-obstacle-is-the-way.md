@@ -75,8 +75,8 @@ Allied General Dwight Eisenhower reframed it as opportunity, trapping Germans in
 
 Even minor setbacks flip positively:
 
-- Lost a document? 😞 Rewrite it—you’ll be **twice as skilled**. 😃  
-- Rival at work? They keep you sharp and raise the stakes.  
+- Lost a document? 😞 Rewrite it—you’ll be **twice as skilled**. 😃
+- Rival at work? They keep you sharp and raise the stakes.
 - At the end of your rope? Experiment with bold, creative solutions.
 
 ---

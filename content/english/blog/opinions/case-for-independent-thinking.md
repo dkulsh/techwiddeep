@@ -7,8 +7,8 @@ image: "/images/case-for-independent-thinking/thinking-man-cover.jpg"
 categories: ["Opinions", "Leadership", "Technology"]
 author: "Deep Kulshreshtha"
 tags: ["independent thinking", "leadership", "corporate culture", "autonomous thinking"]
-draft: false
-toc: true
+draft: true
+toc: false
 ---
 
 ## The Value of Independent Thinking
@@ -76,10 +76,4 @@ And if you don't see yourself as particularly *thinker*, that's not reality, tha
 Hugh MacLeod (*Ignore Everybody and 39 Other Keys to Creativity*)
 
 *And some added content.*
-
-Write back if you have an opinion. Like what you read? Do like, comment, and share.
-
-
-
-
 

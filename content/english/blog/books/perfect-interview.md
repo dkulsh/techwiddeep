@@ -22,7 +22,7 @@ Elements of a great interview. *Book excerpt*.
 
 Ask interviewers why they selected one candidate over another. They’ll cite qualifications, experience, and required skills. But research reveals they’re often misled by a subtle force.
 
-Data shows one key factor dominates: 
+Data shows one key factor dominates:
 {{< bigtext class="big-bold-text" >}}Did the candidate seem pleasant ?{{< /bigtext >}}
 
 - Those who smiled and maintained eye contact.
@@ -55,8 +55,8 @@ Think about it for a second. **A person who admits his failures would have the *
 
 For an interview, I completely forgot about the schedule. And was working on something else. Later (having kicked myself on the bum) I wrote back the following:
 
-*I just realized that we had a discussion today. Was in a production issue, and completely forgot about this conversation. Lost track of my time ..*  
-*This is completely my fault. And I apologize.*   
+*I just realized that we had a discussion today. Was in a production issue, and completely forgot about this conversation. Lost track of my time ..*
+*This is completely my fault. And I apologize.*
 *Would we be able to reschedule this to another day ? If so, I'll be grateful. If not, I understand. Thanks.*
 
 The interview was re-conducted.
@@ -122,13 +122,3 @@ If you make a mistake. Don't overreact. Acknowledge if appropriate, then move ah
 {{< /bigtext >}}
 
 Excerpts from *59 Seconds* by Richard Wiseman. Explore more book reviews in our [Books category](#) to continue your journey of growth. Share your feedback, like, comment, or reach out!
-
-
-
-
-
-
-
-
-
-

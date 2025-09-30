@@ -8,12 +8,9 @@ categories: ["Opinions", "Psychology", "Self-Improvement"]
 author: "Deep Kulshreshtha"
 tags: ["paradox", "strengths", "weaknesses", "life philosophy", "personal development"]
 draft: false
-toc: true
+toc: false
 ---
 
-![Two faces paradox](/images/great-strength-great-weakness/two-faces-paradox.png)
-
-## Our Greatest Strengths Are Our Greatest Weaknesses
 
 There are certain personality characteristics that are highly correlated with professional success:
 
@@ -22,7 +19,7 @@ There are certain personality characteristics that are highly correlated with pr
 - Ability to manage time
 - Conscientiousness
 
-People who have these traits are generally excellent students and productive workers. However, they can also be difficult to live with.
+People who have these traits are generally excellent students and productive workers. However, **they can also be difficult to live with**.
 
 Think about it! Those who demand much of themselves have high standards for those around them.
 
@@ -34,7 +31,7 @@ In a work situation, this is usually an adaptive approach. In one's personal lif
 - Lack of flexibility
 - Stubbornness
 
-A certain amount of separation is necessary to succeed in the different areas of our lives. Juggling our multiple responsibilities—worker, partner, parent, friend—is a challenge. We think of ourselves as the same person whatever we may be doing at the moment. But our different roles demand different attitudes.
+**A certain amount of separation is necessary to succeed in the different areas of our lives**. Juggling our multiple responsibilities—worker, partner, parent, friend—is a challenge. We think of ourselves as the same person whatever we may be doing at the moment. But our different roles demand different attitudes.
 
 This leads us to explore some inherent paradoxes in life.
 
@@ -42,7 +39,7 @@ This leads us to explore some inherent paradoxes in life.
 
 If we try to impose a businesslike decision-making structure on our families, then we are likely to encounter resentment and resistance.
 
-*Conversely, if our style tends to be impulsive, superficial, and pleasure-seeking, then we may find it difficult to succeed at work.*
+**Conversely, if our style tends to be impulsive, superficial, and pleasure-seeking, then we may find it difficult to succeed at work.**
 
 Such a list of paradoxes is endless:
 
@@ -61,16 +58,12 @@ The final one:
 
 - *Only by embracing our mortality can we be happy in the time we have*
 
-Therefore, our ability to experience pleasure requires either a healthy denial or a courageous acceptance of our situation.
+{{< bigtext >}}Therefore, our ability to experience pleasure requires either a healthy denial or a courageous acceptance of our situation.{{< /bigtext >}}
 
 ---
 
-Next time you beat yourself up over a weakness, remember—it is also your strength!
+Next time you beat yourself up over a weakness, remember—it is also your strength! Too rigid? That’s your knack for organization shining. Too impulsive? That’s your creative spark. **Embrace the paradox, and you’ll find balance.**
 
-*Excerpt From: Gordon Livingston.*  
-*"Too Soon Old, Too Late Smart"*
+So, what’s one trait you’ve cursed that might actually be a strength? How will you lean into it?
 
-
-
-
-
+*Excerpt From: Gordon Livingston, “Too Soon Old, Too Late Smart”*

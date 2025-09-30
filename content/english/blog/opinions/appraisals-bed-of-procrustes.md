@@ -169,8 +169,3 @@ Procrustes was eventually captured and killed. The same thing happens to his fol
 Easier said than done, but don't be those guys!
 
 ![Procrustes captured and killed](/images/appraisals-bed-of-procrustes/procrustes-captured-killed.jpg)
-
-
-
-
-

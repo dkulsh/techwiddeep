@@ -99,13 +99,3 @@ Your app, blog, or startup idea? The world might not notice—yet. Create it any
 *Ignore Everybody* is a wake-up call for techies and dreamers. It’s raw, real, and a guide to creating without apology. What’s one idea you’ll ignore the crowd to pursue? Share in the comments and let’s spark some creativity!
 
 *Excerpts from *Ignore Everybody And 39 Other Keys to Creativity* by Hugh MacLeod*
-
-
-
-
-
-
-
-
-
-

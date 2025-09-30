@@ -31,8 +31,8 @@ In the tech world, ego often sneaks into our identities and self-worth. Ever cat
 
 John Boyd, a brilliant military strategist, stayed obscure because he prioritized *doing* over *appearing*. He once said:
 
-One day you’ll face a choice:  
-- **Be** somebody: Compromise, chase promotions, and gain favor—but lose your integrity.  
+One day you’ll face a choice:
+- **Be** somebody: Compromise, chase promotions, and gain favor—but lose your integrity.
 - **Do** something: Stay true to yourself, even if it means fewer titles or assignments. Your work might change the world.
 
 
@@ -100,7 +100,7 @@ That’s pride.
 
 Good work thrives on feedback—but pride drowns it out.
 
-Take Tamil superstar Rajinikanth—his films entertain kids, adults, and seniors alike because he listens and adapts. Pride would’ve limited his reach. 
+Take Tamil superstar Rajinikanth—his films entertain kids, adults, and seniors alike because he listens and adapts. Pride would’ve limited his reach.
 
 Ask:
 - How many blog drafts did I scrap to improve?
@@ -154,4 +154,3 @@ Especially with money: Without knowing your needs, default becomes *more*. Energ
 **Ego is the Enemy** is more than a book—it’s a reference I revisit when ego creeps in. It’s a must-read for techies and anyone chasing meaningful success.
 
 What’s one way ego’s holding you back? Share in the comments and let’s tame it together!
-

@@ -8,7 +8,7 @@ categories: ["Opinions", "Career", "Self-Improvement"]
 author: "Deep Kulshreshtha"
 tags: ["career advice", "job search", "learning", "direct learning"]
 draft: false
-toc: true
+toc: false
 ---
 
 Covid times are tough for job seekers. On one hand, technology has taken out jobs. On the other, companies have cut jobs due to financial strains.
@@ -25,7 +25,7 @@ To build a strong foundation, let's first consider the needs of organizations.
 
 ## What Companies Want
 
-Covid or no Covid, organizations need and want sharp, qualified people. Period.
+Covid or no Covid,{{< bigtext class="big-bold-text" >}} organizations need and want sharp, qualified people. {{< /bigtext >}}Period.
 
 Anything else is bullshit.
 
@@ -37,19 +37,9 @@ In their shoes, how would I (or you) go about selecting the right candidate?
 
 With limited time and energy, I would rely on some "signals." Meaning, some proof that the hire is a good fit. Such signals could be...
 
-- Previous employment
-
-I would assume a reputed company to have a good hiring process—one that would be able to filter the wheat from the chaff.
-
-- Recommendations
-
-Recommendations would provide a "social proof" of an individual's performance.
-
-![Social proof recommendations](/images/find-jobs-the-hard-way/social-proof-recommendations.png)
-
-- A college degree
-
-Someone who has spent 4 years of his life (and lots of their parents' money) would be interested in building a career. Right?
+- **Previous employment**: A stint at a reputed company suggests you’ve already been vetted.
+- **Recommendations**: Social proof from others backs up your skills.
+- **A college degree**: Once a golden ticket, now less shiny.
 
 Twenty years back, this was true—since very few graduates passed from even fewer colleges. Therefore, the system itself filtered out the "less-motivated" bunch.
 
@@ -59,21 +49,21 @@ Turns out, few are motivated to work!
 
 Since a college degree was a good filter 20 years back, it was used to find a qualifying candidate back then.
 
-However, a degree is *not* a good filter anymore. Therefore, it is less used these days (lots of college graduates are lethargic and uninterested).
+**However, a degree is *not* a good filter anymore**. Therefore, it is less used these days (lots of college graduates are lethargic and uninterested).
 
 ### Mindnote
 
-In other words, if you are looking for a job in 2021, then a college degree is *not* as useful as you might think it to be.
+In other words, if you are looking for a job in 2021, **then a college degree is *not* as useful as you might think it to be**.
 
 ![College degree not useful](/images/find-jobs-the-hard-way/college-degree-not-useful.jpg)
 
-Once everyone had college degrees, no candidate had a distinguishing signal. However, companies still needed to recognize good candidates.
+No candidate had a distinguishing signal. At the same time, companies still needed to recognize good candidates.
 
 Filling the gap came online portals like Udacity, Udemy, HackerRank, HackerEarth, and many others. With their online evaluations, these sites claim to provide a "signal" of a candidate's worth.
 
 This is the reason we see many companies using online test platforms.
 
-I know that the criteria used by websites are bullshit. This is regardless of the platform's performance in filtering candidates.
+**I know that the criteria used by websites are bullshit**. This is regardless of the platform's performance in filtering candidates.
 
 These platforms test certain concepts. But **99% of people in the tech industry do not understand, remember, or use the concepts—meaning the evaluations are inefficient and can be optimized; an entrepreneurial opportunity.**
 
@@ -81,23 +71,28 @@ While my opinion stands, do companies have a good alternative to online platform
 
 No.
 
-So, like it or not, these platforms will stay! Period.
+**So, like it or not, these platforms will stay! Period**.
 
 ### Moral of the Story
 
-Companies want a signal that you are a worthwhile candidate. And the signal changes over time.
+Companies want a signal that you are a worthwhile candidate. *And the signal changes over time*.
 
-Your responsibility is to understand this idea and provide a good signal of your abilities.
+> Your job is to provide a clear signal of your worth, whatever the method.
 
 ![Provide good signal](/images/find-jobs-the-hard-way/provide-good-signal.jpg)
 
 Now that we've explored what companies seek, let's shift perspective to how they view candidates.
 
-## From the Other Side of the Glass
+#### The View from the Other Side
+
+
+I’ve interviewed candidates who could parrot concepts but crumbled when asked to apply them. **Knowing a concept isn’t the same as using it.** Online tutorials? Same issue—polished, controlled, and far from the chaos of actual projects. **Ever nailed a course but blanked on a real-world coding challenge?**
+
+##### The Business Mindset
 
 What do companies see when they look at you?
 
-They see a bunch of rag-tag nobodies—ones who think something of ourselves because we've written some lines of code. They are *not* wrong.
+**They see a bunch of rag-tag nobodies—ones who think something of ourselves because we've written some lines of code**. They are *not* wrong.
 
 ![Companies perspective candidates](/images/find-jobs-the-hard-way/companies-perspective-candidates.jpg)
 
@@ -107,19 +102,17 @@ First, **college teaches only theory.** Such learning is very disconnected from 
 
 Second, even when some projects are done, they are very controlled—viz. the architecture is pre-defined, technologies are chosen, and the changes are well described.
 
-At college, the goal is not to "learn." Instead, it is to "score well."
+At college, the **goal is not to "learn." Instead, it is to "score well."**. What is pursued is achieved, graduates get good grades and little understanding.
 
-Since what is pursued is achieved, graduates get good grades and little understanding.
-
-The next alternative to gain some knowledge is through online tutorials. Once again, while they claim to give real experience, usually they are a set of recorded instructions—again a very controlled environment. The reality of a project is very different.
+The next alternative to gain some knowledge is through online tutorials. Once again, while they claim to give real experience, usually they are a set of recorded instructions—again a very controlled environment. **The reality of a project is very different**.
 
 I've conducted many interviews and have known candidates who were able to explain concepts. But given the simplest problems, weren't able to apply the same concepts.
 
-This is because knowledge of a concept and that of its use are very different. Students only read about the concepts and never "understand" them.
+**Knowing a concept isn’t the same as using it.** Students only read about the concepts and never "understand" them.
 
 First, we students aren't well educated. Second, there is also huge competition among all us incompetents. Any wonder we aren't able to get jobs?
 
-Finally, think of this from a business' perspective (by the way, business is *hard*, harder than you'd ever imagine it to be).
+Finally, think of this from a business' perspective (by the way, **business is *hard*, harder than you'd ever imagine it to be**).
 
 Even if you are a good, prudent, skilled individual, why should a business risk its hard-earned $$ with someone with unproven skills?
 
@@ -133,7 +126,9 @@ Why??
 
 Understanding this disconnect reveals deeper issues in how we learn.
 
-## Transfer Mirage
+#### The Transfer Mirage
+
+![Transfer mirage scam](/images/find-jobs-the-hard-way/transfer-mirage-scam.jpg)
 
 Formal education promotes an idea: that something learned in one context can be applied to another.
 
@@ -151,9 +146,8 @@ Not the case in my experience.
 
 But my interviewees couldn't.
 
-**The idea of 'transfer' is *not* true. More than a mirage, such an idea is a scam.**
+> *The idea of 'transfer' is *not* true. More than a mirage, such an idea is a scam.*
 
-![Transfer mirage scam](/images/find-jobs-the-hard-way/transfer-mirage-scam.jpg)
 
 Excerpt from: Scott Young, "Ultralearning."
 
@@ -191,13 +185,14 @@ Excerpt from: Scott Young, "Ultralearning."
 
 *Next, Jaiswal self-learned a design software called Revit. The software was commonly used at architecture firms.*
 
-*Finally, with Revit and his new knowledge, he created a new portfolio. After a few months of work, he was ready. New portfolio in hand—Jaiswal submitted it again, this time to just two architecture firms. To his surprise, they both immediately offered him a job.*
+*Finally, with Revit and his new knowledge, he created a new portfolio. After a few months of work, he was ready. New portfolio in hand—Jaiswal submitted it again, this time to just two architecture firms. **To his surprise, they both immediately offered him a job**.*
 
 Jaiswal's story highlights a few points:
 
-- The market is always in need of "qualified" professionals—this even during the most desperate times.
+- **The market is always in need of "qualified" professionals—this even during the most desperate times**.
 
-- Indirect learning at college does not capture the real details of a project.
+- **Direct learning—tackling real-world problems—beats theoretical fluff every time**.
+
 
 Learning from Jaiswal's story, to find a job we can...
 
@@ -209,7 +204,7 @@ Learning from Jaiswal's story, to find a job we can...
 
 That's it! **If we create such a project and add it to our portfolio, then companies will look for us.** And not the other way round.
 
-Of course, this will take time. But until you get a job, what else do you have in mind?
+Of course, this will take time. *But until you get a job, what else do you have in mind?*
 
 ## Not Convinced Yet?
 
@@ -255,7 +250,7 @@ On the other hand, if the functionality is ad hoc, is there a design to schedule
 
 These are the types of problems companies face during software creation. And these are the problems companies want their employees to be able to solve.
 
-I bet you do not know the answer to some of the above questions. This is because such questions can *only* be answered when we take a "direct approach" to work on them.
+I bet you do not know the answer to some of the above questions. **This is because such questions can *only* be answered when we take a "direct approach" to work on them**.
 
 So next time when you see someone begging for a job on LinkedIn, give them a link to this article and ask them to...
 
@@ -265,11 +260,5 @@ Rest assured, they will get a job.
 
 ![Job search success](/images/find-jobs-the-hard-way/job-search-success.jpg)
 
-Write back in case you have an opinion. Like what you read? Do like, comment, and share.
 
 ---
-
-
-
-
-

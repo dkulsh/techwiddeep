@@ -54,7 +54,7 @@ The future is unpredictable, and our biases—blind spots, motivated reasoning, 
 
 ![Uncertainty Illustration](/images/books/thinking-in-bets/uncertainty-illustration.jpg)
 
-We try to map decisions to an unknown future, but our weaknesses lead to poor analysis of both the future and the past. Annie Duke emphasizes that failure is inevitable and acceptable. Even with great poker cards, luck can favor your opponent. 
+We try to map decisions to an unknown future, but our weaknesses lead to poor analysis of both the future and the past. Annie Duke emphasizes that failure is inevitable and acceptable. Even with great poker cards, luck can favor your opponent.
 
 Lick your wounds and move on!
 
@@ -75,7 +75,7 @@ Unlike books that merely advocate better decisions, *Thinking in Bets* offers *p
   Correcting absolute language (like a swear jar) builds better decision habits. Try it next time you’re debugging a tricky `bug`!
 
 - **Betting for Clarity**:
-  
+
   How much would you bet you’re great at your job? $500? $10,000? A million? The fear of losing cash opens your mind to others’ views. *What belief would you bet on today?*
 
   ![Betting Illustration](/images/books/thinking-in-bets/betting-beliefs.jpg)
@@ -110,13 +110,3 @@ It didn’t make me crave better decisions, but it gave me tools to get there—
 What’s one decision you’re rethinking? Share in the comments and let’s deal a better hand together!
 
 ![Book Cover](/images/books/thinking-in-bets/book-cover.png)
-
-
-
-
-
-
-
-
-
-
