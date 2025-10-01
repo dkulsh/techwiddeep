@@ -10,137 +10,126 @@ author: "Deep Kulshreshtha"
 tags: ["resume-design", "visual-presentation", "formatting"]
 draft: false
 weight: 5
-toc: true
+toc: false
 ---
 
-# Resume Building: Polishing Your Visual Story
+This is the fifth part of my resume-building series, guiding *fresh college grads*, *new joiners*, and *experienced professionals* in crafting effective resumes. After collecting and editing content, we now focus on *beautifying* the resume to make it visually appealing and recruiter-friendly.
 
-In this series, I'm guiding fresh college grads, new joiners, and professionals across industries to craft resumes that shine in the real world. This is part 5 of our resume-building journey, focusing on *beautification*. We'll polish our resume's presentation to grab attention and leave a lasting impression. Let's make it visually compelling!
 
----
-
-## Disclaimer
-
-> **Principle**: Transparency builds trust—share what you know and admit what you don't.
-
-I'm not a resume-building expert, nor have I consulted extensively with HR or recruiters.
-
-{{< figure src="/images/resume-building/beautify/disclaimer-note.png" alt="Disclaimer note" caption="This guide reflects real-world experience, not theoretical expertise." >}}
-
-My insights come from conducting and attending multiple interviews, learning from peers, juniors, mentors, and brainstorming with friends. This guide reflects real-world experience, not theoretical expertise.
-
----
-
-## Adding Chutzpah
-
-> **Idea**: A resume with bold, unique presentation stands out in a sea of sameness.
+#### Adding Chutzpah
 
 Let's explore how to make your resume visually stand out. Truth be told, I'm not skilled at design or high-end presentation. With countless "ready-to-use" templates online, it's tempting to plug in content and call it a day. But this often leads to awkward, uninspired resumes.
 
-{{< figure src="/images/resume-building/beautify/visual-standout.jpg" alt="Visual standout approach" caption="A head HR once told me, 'Deep, I like the way you presented your skills. You know, I like people with some chutzpah.'" >}}
+> **Idea**: A resume with bold, unique presentation stands out in a sea of sameness.
 
-A head HR once told me, "Deep, I like the way you presented your skills. You know, I like people with some *chutzpah*." (Truth be told, I was flattered!) *Chutzpah*—spelled with a "c" and pronounced with gusto—means confidence, nerve, or boldness. She meant my resume broke the mold of standard presentation.
+{{< figure src="/images/resume-building/beautify/visual-standout.jpg" alt="Visual standout approach" >}}
+
+A head HR once told me, "Deep, I like the way you presented your skills. You know, I like people with some *chutzpah*." (Truth be told, I was flattered!) *Chutzpah*—spelled with a "c" and pronounced with "h" -means gusto, confidence, nerve, or boldness. **She meant my resume broke the mold of standard presentation**.
 
 How did I, with limited design skills, earn that compliment? I asked myself simple questions:
 
-- How can my resume stand out in a crowd?  
-- How can I avoid a boring layout?  
-- What looks interesting *and* professional?
+- How can my resume *stand out* in a crowd?
+- How can I make it *not boring*?
+- What looks *interesting* and *professional*?
 
 These questions led to a resume that felt authentic and eye-catching.
 
 ---
 
-## Thinking Out Loud
-
-> **Idea**: Thoughtful design choices make your resume memorable and recruiter-friendly.
+#### Thinking Out Loud
 
 Let's explore specific visual enhancements I've used in my resume:
 
-### Experience
-I started with a timeline and image for my work experience:
+> **Idea**: Thoughtful design choices make your resume memorable and recruiter-friendly.
 
-{{< figure src="/images/resume-building/beautify/experience-timeline.jpg" alt="Experience timeline" caption="This format worked initially, but I later refined both content and design." >}}
+{{< figure src="/images/resume-building/beautify/experience-timeline.jpg" alt="Experience timeline" >}}
 
-This format worked initially, but I later refined both content and design:
+This is me, thinking out loud …
 
-{{< figure src="/images/resume-building/beautify/experience-refined.jpg" alt="Experience refined" caption="Both formats have merit, but adding a new role made the second, simpler format more effective." >}}
+_So, what could make my resume interesting ?_
 
-Both formats have merit, but adding a new role made the second, simpler format more effective. *It's okay to keep improving*—iteration is part of the process.
+- _First, let me use an easy to read text size. Hmm, at least a 10... no less; maybe 11, but we’ll see whether the total pages go above 4._
 
-### Work Locations
-To highlight my onsite experience, I added a map of work locations (Minneapolis, US; Bangalore, India; Delhi, India):
+  _Also, I am not gonna use too many fonts … max 2 font types for me._
 
-{{< figure src="/images/resume-building/beautify/work-locations-map.jpg" alt="Work locations map" caption="This depiction worked a few times but lost impact over time, so I removed it after a few months." >}}
+- _Bold and underline … sure. But you know what … bold and underline are too boring!_
 
-This depiction worked a few times but lost impact over time, so I removed it after a few months. Flexibility is key—test and adapt.
+  _My profile wouldn’t get highlighted._
 
-### Skills
-I invested effort in a visual, timeline-based depiction of my skills:
+- _Well, maybe some colors ?_
 
-{{< figure src="/images/resume-building/beautify/skills-timeline.jpg" alt="Skills timeline" caption="Using text-filled images helped non-technical recruiters." >}}
+  _Naahhh ... colors might look too designer for a software engineer resume. Maybe this will be good for a UI designer’s or a photographer’s profile. But, definitely not for a software engineer’s profile._
 
-Using text-filled images helped non-technical recruiters. This worked for a while, but I later simplified it:
+- _How about some images ?_
 
-{{< figure src="/images/resume-building/beautify/skills-simplified.png" alt="Skills simplified" caption="The simpler version feels cleaner and more effective." >}}
+  _Hmm, interesting ! maybe I could use the logo of my companies. The colors are all picked so, I’ll not need to worry about softening the images for professional looks. Good idea !_
 
-The simpler version feels cleaner and more effective. Continuous improvement isn't about "fixing mistakes" but evolving what works.
+  _And you know what … this will also make my resume stand out in the crowd. One stone two birds !!! ![](images/image4-2.jpg)_
 
-### Projects
-Here's the final version of my project section after multiple edits:
+- _You know what I could also use a “timeline look” for my work experience !_
 
-| Project | Client Onboarding – Performance and Code Refactoring |
-|---------|-----------------------------------------------------|
-| **Tech Stack** | Android, Couchbase, LeakCanary, Everit JSON Schema Validation |
-| **Description** | **Task**: Refactor code and improve app performance<br>- **Resolved 18 MB memory leak** from the app.<br>- **Reduced method call duplications, chaining, and eager loading**, improving app performance by **10%**.<br>- **Un-nested UI view hierarchy and reduced overdraws**, achieving a **70% performance improvement** and earning **CEO appreciation**.<br>- **Optimized object creations** (e.g., "new Gson()"), reducing method time from **44 ms to 3 ms**.<br>- **Rewrote AsyncTasks** to use executeOnExecutor for better hardware performance.<br>- Reconfigured data structures to reduce memory and CPU consumption.<br>- Integrated magnetic swipe hardware into the application. |
-| **Role** | - Individual contributor/programmer. |
+  _Good idea; will help the recruiters understand the complete experience with a single look + the timeline might complement the company logos, I plan to use._
 
-**Notes**:
-- The table adds structure, making it easier to read.
-- Numbers and key ideas are **underlined** for emphasis.
-- The project's main goal is summarized in one line with **highlighted text**.
+  _Niceee …. So my resume stands out coz it has images + makes the recruiter’s life easier + and this is definitely more interesting than a paragraph of text._
+
+- _I should definitely keep the main ideas bulleted_
+
+- _I can also bold or underline important items._
+
+- _Then I can use a table like structure wherever I can fit it … project details, education. Wait I could also box my skills by type … database, java, generic and stuff_
+
+- _IMPORTANT … no crowding of text. I don’t want myself to struggle to read my profile … don’t wanna push the recruiter’s motivation._
+
+
+#### Sum Up
+
+To summarize my approach:
+
+- **Keep It Clean**: Use *clear font sizes*, *limited font types*, and *well-separated text*.
+- **Use Images Wisely**: Incorporate *tasteful* images (e.g., company logos) to attract attention and tell a story (e.g., via a timeline or tech collage).
+- **Highlight Sparingly**: Use *bold* or *underline* for key items, but avoid overuse.
+- **Prevent Crowding**: Ensure *ample whitespace* to make the resume easy to read.
+
+My mind chatter above kind of sums up what I understand to be a good idea to beautify my resume:
+
+- **Keep It Clean**
+
+  Clean font size, clean font types, and cleanly separated text.
+
+- **Use Images Wisely**
+
+  They attract attention, and unlike text they are interesting. But, overuse of or too bright pictures can make my profile look too shiny. I guess ‘tasteful’ is the word.
+
+  I can leverage the pics to tell a story … maybe use a timeline, maybe a collage of technologies, maybe a map of locations.
+
+- **Highlight Sparingly**
+
+  Bold and underline are good, and over-used ideas.
+
+- **Prevent Crowding**
+
+  Finally, crowding not permitted. Ensure *ample whitespace* to make the resume easy to read.
+
+**I do NOT want to push the recruiter’s motivation, in reading my profile.**
+
+
+##### Is this a standard template?
+
+Designing a resume like designing anything else, is an artistic attempt. It is unlike writing the resume content, which would be more scientific.
+
+The designing recipe I share here is fit for my resume and might NOT fit many others. Remember awkward !
+
+{{< figure src="/images/resume-building/beautify/experience-refined.jpg" alt="Experience timeline" >}}
+
+If you choose a good template and edit your resume well, then you might NOT this step at all.
+
+Keeping the above in mind, let’s go ahead and start editing my resume for beautification !
 
 ---
 
-## Wrapping Up
+##### Series Navigation
 
-> **Principle**: A polished resume blends content and visuals to tell a compelling story.
-
-This concludes our resume-building series. I hope it's clear that crafting a resume is *hard but not complicated*. As I shared initially, I struggled to learn the "rights" and "wrongs" of resume writing:
-
-1. I wanted to focus on tech skills but spent disproportionate time on resume books, blogs, templates, and images.
-2. Even after learning best practices (brevity, quantification), I lacked the "mental muscle" to apply them. As a junior engineer, I wasn't trained to track project dollars or impact, and I had no mentor.
-
-This series distills books, blogs, experience, failures, and successes into a guide that's **easy for a layman to understand**.
-
-### Success Looks Like:
-You, as a non-expert, understanding resume-building essentials, creating a solid resume, and feeling confident in days.
-
-{{< figure src="/images/resume-building/beautify/success-looks-like.png" alt="Success looks like" caption="The next two blogs will showcase a poorly made version and a well-edited version of my resume." >}}
-
-The next two blogs will showcase:
-1. A poorly made version of my resume.
-2. A well-edited version of my resume.
-
-These will highlight the value of our approach. Let's move on!
-
----
-
-Happy resuming! Share your feedback, like, comment, or reach out with your thoughts.
-
----
-
-## Series Navigation
-
-**← Previous**: [Resume Building: How to Write - My Resume (Practical Example)](/blog/series/resume-building/resume-building-how-to-write-lets-write-my-resume/)  
+**← Previous**: [Resume Building: How to Write - My Resume (Practical Example)](/blog/series/resume-building/resume-building-how-to-write-lets-write-my-resume/)
 **Next →**: [Resume Building: Beautify - My Resume (Practical Example)](/blog/series/resume-building/resume-building-beautify-lets-write-my-resume/)
 
 **Series Progress**: Part 5 of 8 | [View All Posts](/blog/series/resume-building/)
-
-
-
-
-
-
-
-

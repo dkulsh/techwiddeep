@@ -10,63 +10,52 @@ author: "Deep Kulshreshtha"
 tags: ["resume-design", "practical-example", "visual-polish"]
 draft: false
 weight: 6
-toc: true
+toc: false
 ---
 
-# Resume Building: Polishing My Visual Story (Practical Example)
+This is the sixth and final part of my resume-building series, guiding *fresh college grads*, *new joiners*, and *experienced professionals* in crafting effective resumes. Here, I’ll apply the *beautification* principles from the previous blog to polish my own resume, demonstrating how to make it visually appealing and recruiter-friendly.
 
-In this series, I'm guiding fresh college grads, new joiners, and professionals across industries to craft resumes that shine in the real world. This is part 5 of our resume-building journey, focusing on *beautifying* my resume. Let's polish my resume's presentation to make it stand out and leave a lasting impression!
 
----
-
-## Disclaimer
-
-> **Principle**: Transparency builds trust—share what you know and admit what you don't.
-
-I'm not a resume-building expert, nor have I consulted extensively with HR or recruiters.
-
-{{< figure src="/images/resume-building/beautify-lets-write/disclaimer-note.png" alt="Disclaimer note" caption="This guide reflects real-world experience, not theoretical expertise." >}}
-
-My insights come from conducting and attending multiple interviews, learning from peers, juniors, mentors, and brainstorming with friends. This guide reflects real-world experience, not theoretical expertise.
-
----
-
-## Visual Enhancements
+#### Visual Enhancements
 
 > **Idea**: Strategic visuals make your resume memorable and recruiter-friendly.
 
 With our content refined, let's focus on making it visually appealing. Here's how I added visual elements to my resume.
 
-{{< figure src="/images/resume-building/beautify-lets-write/visual-enhancements.png" alt="Visual enhancements approach" caption="Let's explore specific visual enhancements I've used in my resume." >}}
+{{< figure src="/images/resume-building/beautify-lets-write/visual-enhancements.png" alt="Visual enhancements approach"  >}}
 
-### Experience
+##### Experience
+
 I started with a timeline and image for my work experience:
 
 This format worked initially, but I later refined both content and design:
 
-{{< figure src="/images/resume-building/beautify-lets-write/experience-format.png" alt="Experience format evolution" caption="Both formats have merit, but adding a new role made the second, simpler format more effective." >}}
+{{< figure src="/images/resume-building/beautify-lets-write/experience-format.png" alt="Experience format evolution" >}}
 
 Both formats have merit, but adding a new role made the second, simpler format more effective. *It's okay to keep improving*—iteration is part of the process.
 
-### Work Locations
+##### Work Locations
+
 To highlight my onsite experience, I added a map of work locations (Minneapolis, US; Bangalore, India; Delhi, India):
 
-{{< figure src="/images/resume-building/beautify-lets-write/work-locations.png" alt="Work locations map" caption="This depiction worked a few times but lost impact over time, so I removed it after a few months." >}}
+{{< figure src="/images/resume-building/beautify-lets-write/work-locations.png" alt="Work locations map" >}}
 
-This depiction worked a few times but lost impact over time, so I removed it after a few months. Flexibility is key—test and adapt.
+This depiction worked a few times but lost impact over time, so I removed it after a few months. **Flexibility is key—test and adapt**.
 
-### Skills
+##### Skills
+
 I invested effort in a visual, timeline-based depiction of my skills:
 
-{{< figure src="/images/resume-building/beautify-lets-write/skills-timeline.png" alt="Skills timeline" caption="Using text-filled images helped non-technical recruiters." >}}
+{{< figure src="/images/resume-building/beautify-lets-write/skills-timeline.png" alt="Skills timeline" >}}
 
 Using text-filled images helped non-technical recruiters. This worked for a while, but I later simplified it:
 
-{{< figure src="/images/resume-building/beautify-lets-write/skills-simplified.png" alt="Skills simplified" caption="The simpler version feels cleaner and more effective." >}}
+{{< figure src="/images/resume-building/beautify-lets-write/skills-simplified.png" alt="Skills simplified" >}}
 
-The simpler version feels cleaner and more effective. Continuous improvement isn't about "fixing mistakes" but evolving what works.
+The simpler version feels cleaner and more effective. **Continuous improvement isn't about "fixing mistakes" but evolving what works**.
 
-### Projects
+##### Projects
+
 Here's the final version of my project section after multiple edits:
 
 | Project | Client Onboarding – Performance and Code Refactoring |
@@ -82,11 +71,9 @@ Here's the final version of my project section after multiple edits:
 
 ---
 
-## Wrapping Up
+#### Wrapping Up
 
-> **Principle**: A polished resume blends content and visuals to tell a compelling story.
-
-This concludes our resume-building series. I hope it's clear that crafting a resume is *hard but not complicated*. As I shared initially, I struggled to learn the "rights" and "wrongs" of resume writing:
+This concludes our resume-building series. I hope it's clear that crafting a resume is **hard but not complicated**. As I shared initially, I struggled to learn the "rights" and "wrongs" of resume writing:
 
 1. I wanted to focus on tech skills but spent disproportionate time on resume books, blogs, templates, and images.
 2. Even after learning best practices (brevity, quantification), I lacked the "mental muscle" to apply them. As a junior engineer, I wasn't trained to track project dollars or impact, and I had no mentor.
@@ -94,33 +81,25 @@ This concludes our resume-building series. I hope it's clear that crafting a res
 This series distills books, blogs, experience, failures, and successes into a guide that's **easy for a layman to understand**.
 
 ### Success Looks Like:
+
 You, as a non-expert, understanding resume-building essentials, creating a solid resume, and feeling confident in days.
 
-{{< figure src="/images/resume-building/beautify-lets-write/success-looks-like.png" alt="Success looks like" caption="The next two blogs will showcase a poorly made version and a well-edited version of my resume." >}}
+{{< figure src="/images/resume-building/beautify-lets-write/success-looks-like.png" alt="Success looks like" >}}
 
 The next two blogs will showcase:
+
 1. A poorly made version of my resume.
 2. A well-edited version of my resume.
 
 These will highlight the value of our approach. Let's move on!
 
----
-
-Happy resuming! Share your feedback, like, comment, or reach out with your thoughts.
+Happy resuming!
 
 ---
 
-## Series Navigation
+##### Series Navigation
 
-**← Previous**: [Resume Building: Beautify](/blog/series/resume-building/resume-building-beautify/)  
+**← Previous**: [Resume Building: Beautify](/blog/series/resume-building/resume-building-beautify/)
 **Next →**: [Resume Building: My Edited Resume (Practical Example)](/blog/series/resume-building/resume-building-my-edited-resume/)
 
 **Series Progress**: Part 6 of 8 | [View All Posts](/blog/series/resume-building/)
-
-
-
-
-
-
-
-

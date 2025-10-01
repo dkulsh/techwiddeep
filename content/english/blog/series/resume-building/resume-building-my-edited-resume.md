@@ -8,50 +8,42 @@ categories: ["Resume", "Career"]
 author: "Deep Kulshreshtha"
 tags: ["resume-example", "final-result", "complete-resume"]
 draft: false
-weight: 7
-toc: true
+weight: 8
+toc: false
 ---
-
-# Resume Building: My Final Polished Resume (Practical Example)
 
 In this series, I've guided fresh college grads, new joiners, and professionals across industries to craft resumes that shine in the real world. I present my refined resume to conclude this series, showcasing the highlights of my work and design choices. Let's wrap up with a polished, recruiter-ready resume!
 
----
 
-## Disclaimer
-
-> **Principle**: Transparency builds trust—share what you know and admit what you don't.
-
-I'm not a resume-building expert, nor have I consulted extensively with HR or recruiters.
-
-{{< figure src="/images/resume-building/my-edited-resume/disclaimer-note.png" alt="Disclaimer note" caption="This guide reflects real-world experience, not theoretical expertise." >}}
-
-My insights come from conducting and attending multiple interviews, learning from peers, juniors, mentors, and brainstorming with friends. This guide reflects real-world experience, not theoretical expertise.
-
----
-
-## Profile Summary
-
-> **Idea**: A concise, quantified summary grabs attention and sets the stage.
+#### Profile Summary
 
 Let's dive into the polished version of my resume, starting with a concise overview.
 
-*Software engineer lead with several years' experience implementing large back-end systems in Java and its family of technologies, including over a dozen projects as a lead/architect. Led re-architecture of a critical system processing up to 10 million records/day, improving performance by 100%, saving approximately $10K daily. Redesigned the client's second-largest business process, boosting performance by 500%, enabling a major revamp and securing $500K in new business. Awarded the Performers' Trophy by the client VP, given to the top 2%, for impactful technology changes. [Additional details].*
+> **Idea**: A concise, quantified summary grabs attention and sets the stage.
 
-{{< figure src="/images/resume-building/my-edited-resume/profile-summary.png" alt="Profile summary" caption="This summary showcases quantified achievements and specific business impact." >}}
+*Software engineer lead with several years' experience implementing large back-end systems in Java and its family of technologies, including over a dozen projects as a lead/architect. Led re-architecture of a critical system processing up to **10 million records/day**, **improving performance by 100%, saving approximately $10K daily**. Redesigned the client's second-largest business process, **boosting performance by 500%**, enabling a major revamp and **securing $500K in new business**. Awarded the Performers' Trophy by the client VP, given to the **top 2%, for impactful technology changes**. [Additional details].*
 
----
+##### Notes
 
-## Projects
+- *Quantified* achievements (e.g., *10M records/day*, *$500K business*).
+- Highlights *business impact* and *recognition*.
+- Concise yet *specific* to appeal to recruiters.
 
-> **Idea**: Structured, quantified project details showcase your impact clearly.
+#### Skills
+
+Skills are organized by *category* for clarity:
+
+{{< figure src="/images/resume-building/my-edited-resume/profile-summary.png" alt="Profile summary" >}}
+
+
+#### Projects
 
 Here's how my project section looks, edited and formatted:
 
 | Project | Application Migration |
 |---------|-----------------------|
 | **Tech Stack** | Java, WebSphere, EJB, Tomcat, Spring MVC, Spring JMS |
-| **Description** | **Task**: Migrated a 14-year-old application from WebSphere to Tomcat, saving $100K in the current year and $130K in projected costs next year.<br>- **Successful implementation** led to requests to migrate 4 other applications, securing $80K in new business.<br>- Replaced WebSphere's plugins (transaction management, messaging, session management) with open-source alternatives.<br>- Analyzed libraries like Camel vs. Spring, Spring JPA vs. Hibernate for optimal fit.<br>- Programmed and integrated the app with unit and integration tests (using Mockito) to deliver a robust product. |
+| **Description** | Migrated a 14-year-old application from WebSphere to Tomcat, **saving $100K in the current year and $130K in projected costs next year**. Successful implementation led to requests to migrate 4 other applications, **securing $80K in new business**. Replaced WebSphere's plugins (transaction management, messaging, session management) with open-source alternatives. Analyzed libraries like Camel vs. Spring, Spring JPA vs. Hibernate for optimal fit. Programmed and integrated the app with unit and integration tests (using Mockito) to deliver a robust product. |
 | **Role** | - Individual contributor/programmer. |
 
 **Key Highlights**:
@@ -60,59 +52,64 @@ Here's how my project section looks, edited and formatted:
 - Process improvement: Unit and integration testing
 - Business acumen: Cost analysis and library selection
 
----
+> **Idea**: Structured, quantified project details showcase your impact clearly.
 
-## Skills
 
-> **Idea**: Organized skills showcase expertise tailored to the role.
-
-**Programming Languages**: Java, Python, HTML, JavaScript  
-**Frameworks & Libraries**: Spring (MVC, JMS, JPA), Struts, EJB, Hibernate  
-**Tools & Technologies**: Jenkins, Git, Maven, Tomcat, WebSphere  
-**Databases**: Oracle, DB2, MongoDB, Couchbase  
-**Business Domains**: Banking, Capital Markets, Hospitality  
-**Methodologies**: TDD, CI/CD, Performance Engineering  
-
----
-
-## Key Achievements
+##### Key Achievements
 
 > **Principle**: Highlight specific accomplishments that demonstrate value.
 
-- **Performance Improvement**: Led re-architecture achieving 100% performance improvement on 10M records/day system
-- **Cost Savings**: Generated $230K+ in cost savings through application migration
-- **Business Growth**: Secured $580K in new business through technical excellence
-- **Recognition**: Awarded Performers' Trophy by client VP (top 2% recognition)
-- **Team Leadership**: Led teams of 3-10 developers across multiple projects
+- **Performance Improvement**: Led re-architecture achieving **100% performance improvement on 10M records/day system**
+- **Cost Savings**: Generated **$230K+ in cost savings** through application migration
+- **Business Growth**: Secured **$580K in new business** through technical excellence
+- **Recognition**: Awarded Performers' Trophy by client VP (**top 2% recognition**)
+- **Team Leadership**: Led **teams of 3-10 developers** across multiple projects
 - **Technical Innovation**: Implemented CI/CD pipelines and TDD practices
 
 ---
 
-## Wrapping Up
+#### Experience Summary
 
-This polished resume represents the culmination of all the principles we've discussed:
+I added a *half-page summary* at the end of my 4-page resume to make it *easier for recruiters* to evaluate my work. This section was intentionally introduced late to show flexibility in resume structure.
 
-1. **Brevity**: Every word earns its place
-2. **Quantification**: Numbers tell the story of impact
-3. **Vocabulary**: Technical terms showcase expertise
-4. **Visual Design**: Clean, professional presentation
-5. **Structure**: Logical flow and easy scanning
+- **Experience**: ~11 years as a software engineer.
+- **Domains**: Banking & Capital Markets, Entertainment & Hospitality, Startups.
+- **Tech Focus**: Backend and middle-tier (databases, business logic).
+- **Tech Skills**:
+  - Data Structures/Algorithms
+  - Java, Spring, Hibernate
+  - Android
+  - DB2, Oracle, MySQL
+  - NoSQL: MongoDB, Couchbase
+  - Kotlin
+  - Unix scripting
+- **Work Type**: 80% technical (design, coding, reviews, POCs, issue resolution), 20% managerial (task delegation, progress tracking, release management).
+- **Team Size**: Managed teams of 3–10.
+- **Project Size**: Managed projects worth *$100K–$500K*.
+- **Locations**: Offshore and onsite (Minneapolis, US).
+- **Timeline**: [Placeholder for specific positions].
 
-The transformation from raw content to this polished version demonstrates the power of systematic resume building. Remember, it's not about being perfect from the start—it's about iterating and improving.
+##### Notes
+- *Summarizes* key details for quick review.
+- *Customizable*—not everyone needs this section.
+
+
+#### Thank You
+
+This series covered:
+- **What** to write: Content selection.
+- **How** to write: Brevity, quantification, vocabulary.
+- **Presentation**: Visual appeal and structure.
+
+My goal was to provide *clear* and *practical* guidance, balancing *broad concepts* with *fine details*. Success is a non-expert creating a confident resume in *a few days*.
+
+I wish you *bon apprendre* (French for “happy learning”) as you craft your resume!
 
 ---
 
-## Series Navigation
+##### Series Navigation
 
-**← Previous**: [Resume Building: Beautify - My Resume (Practical Example)](/blog/series/resume-building/resume-building-beautify-lets-write-my-resume/)  
+**← Previous**: [Resume Building: Beautify - My Resume (Practical Example)](/blog/series/resume-building/resume-building-beautify-lets-write-my-resume/)
 **Next →**: [Resume Building: My Vintage Bad Resume (Practical Example)](/blog/series/resume-building/resume-building-my-vintage-bad-resume/)
 
 **Series Progress**: Part 7 of 8 | [View All Posts](/blog/series/resume-building/)
-
-
-
-
-
-
-
-
