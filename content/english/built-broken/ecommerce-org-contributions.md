@@ -40,29 +40,24 @@ I worked at a major e-commerce organization. Following are the major tasks I acc
 
 ### Context
 
-Client is an ecommerce website. One of the existing services - Aggregator fetched data from ~7 different services.
+Client is an ecommerce website. One existing service, the Aggregator, fetched data from ~7 different services:
 
-a. Price service (fluctuated frequently)
+1. **Price service** — fluctuated frequently
+2. **Inventory service** — fluctuated frequently, but less than Price
+3. **Promo service** — promotions available on the product; varied every sale season
+4. **Size chart service** — mostly static data
+5. **Cohort / Classification service** — static, but varied with business needs
+6. **Additional details**
 
-b. Inventory service (fluctuated frequently but less than Price)
+   Data was saved on Redis collectively for each product, e.g.
 
-c. Promo service (What promotions are available with the product. Varied every sale season)
+   `Key = Price service key + Inventory service key + Promo service key + …`
 
-d. Size chart service (Mostly static data)
+   `Value = Price of product + Inventory of product + Promos on product … etc.`
 
-e. Cohort service or Classification service. (Static but varied based on business needs)
+   This design was copied from a legacy system bought by the organization. (forgetting the name)
 
-f. [Additional details]
-
-Data was saved on Redis collectively for each product e.g.
-
-Key = Price service key + Inventory service key + Promo service key + ....
-
-Value = Price of product + Inventory of product + Promos on product ... etc.
-
-This design was copied from a legacy system bought by the organization. (forgetting the name)
-
-#### Cons of Design
+#### Cons
 
 - **TTL was set to the minimum of all the ~7 services.**
 
@@ -88,11 +83,11 @@ Each key - value pair carried data from 7 different services. Therefore each pai
 
 Each Redis IO therefore took ~50–100 ms.
 
-#### Pros of Design
+#### Pros
 
 - Only 1 call was made to redis for each read.
 
-However, the same data was read sequentially from 6 upstream systems. And posted to redis every "n" seconds.
+However, the same data was read sequentially from 6 upstream systems and re-posted to Redis every *n* seconds.
 
 ### Redesign
 
@@ -116,7 +111,7 @@ Enabling Caching control - Given to the business team.
 
 TTL time for each service - Given to the business team.
 
-#### Con
+#### Cons
 
 1. The number of calls required to read data increased. From 1 to 7.
 
@@ -150,7 +145,7 @@ This was because the size of each read/write became smaller.
 
    c. Creating a dashboard on Grafana for the Prometheus stats
 
-### Results
+### Result
 
 {{< figure src="/images/nerdy-stuff/ecommerce-org-contributions/performance-improvement-graph.png" alt="Performance Improvement Graph" caption="Significant performance improvements after cache redesign" >}}
 
@@ -206,7 +201,7 @@ Rewards are of 2 types...
 
 - Email service: notified customers.
 
-#### Problem
+#### Problems
 
 Players malfunctioned. e.g.
 
@@ -228,7 +223,7 @@ Some customers would *not* get coupons.
 
 ### Solution Chain
 
-After *not* having received the coupons, following would typically happen.
+When coupons didn't arrive, the typical chain of events was:
 
 - Customers would call Ajio customer care.
 
@@ -242,7 +237,7 @@ After *not* having received the coupons, following would typically happen.
 
 - To solve the error, some action would need to be taken.
 
-- We would ask for data from the PII122 team. TechOps did not have access to sensitive data like phone numbers or emails.
+- We would ask for data from the PII team. TechOps did not have access to sensitive data like phone numbers or emails.
 
 - After getting exceptions etc, the PII team would give data.
 
@@ -278,7 +273,7 @@ The report would be used by the Customer Care and Business team.
 
   - At PII layer... read and consolidate all events.
 
-  - Create a report in Tableu (used for reporting) which allows for users to see
+  - Create a report in Tableau (used for reporting) which allows for users to see
 
     - User data
 
@@ -290,7 +285,7 @@ The report would be used by the Customer Care and Business team.
 
 ### Result
 
-When an Ajio customer calls. Customer care would have a complete view of what happened.
+When an Ajio customer called, customer care now had a complete view of what happened.
 
 **80% of requests could be handled at level 1** itself — resolved without Tech-team intervention.
 

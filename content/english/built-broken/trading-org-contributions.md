@@ -34,7 +34,7 @@ This redesign addressed key challenges in the incoming payments system, leading 
 
 Crypto is an upcoming field and does not have sufficient support from the Government; therefore the banks.
 
-Incoming payments (on-ramp) integration is therefore done by accepting statement files from various banks.
+So on-ramp integration works by ingesting statement files from various banks.
 
 ### Problems
 
@@ -44,9 +44,7 @@ The previous design had been done with many design flaws. For example:
 
 - **Lock was taken on prefix + user.**
 
-This meant that whenever two payments were processed for the same user (different flows - UPI / bank deposit), sometimes the lock wasn't taken.
-
-This meant that the user was either double credited or double debited.
+So when two payments for the same user ran on different flows (UPI / bank deposit), the lock sometimes wasn't taken — double-crediting or double-debiting the user.
 
 On one hand, this resulted in direct losses to the organization. On the other hand, it created a *heavy* operation cost.
 
@@ -59,13 +57,13 @@ Solved by changing the lock on a single mutex - userId.
 
 Among hundreds of locks, a few missed unlocking a user. This made all other requests for the user wait for the expiration time of 1 min, increasing the turnaround time.
 
-Solved by creating a lambda function for locking + unlocking. A method could be passed as an argument in the method.
+Solved with a lambda that wrapped lock/unlock around any method passed into it.
 
 Ensured guaranteed locking/unlocking, solving the issue across the codebase.
 
 - **If-else based code**
 
-The previous version of the code was written with if/else conditions for each bank integration. Over time, the number of conditions became so many that managing the code became too much.
+The previous version of the code was written with if/else conditions for each bank integration. Over time the conditions multiplied until the code became unmanageable.
 
 The code was modularized into classes. The classes had specific logic.
 
@@ -105,7 +103,7 @@ These properties were redesigned to be stored in a JSON column in the same table
 
 This created issues while debugging.
 
-  - Logs were difficult to parse through. Were filtered down for cost reasons—only 30% of the logs were brought to Datadog (similar to Kibana).
+  - Logs were hard to parse, and for cost reasons only ~30% were sent to Datadog (similar to Kibana).
   - Logs persisted only for 15 days due to cost reasons.
   - Parsing through logs was time-consuming at peak times of production issues.
 
@@ -131,7 +129,7 @@ These fixes streamlined the system, paving the way for efficient operations.
 
 ---
 
-## Reliability / Cost Reduction / Performance Improvement
+## Reliability & Cost Optimization
 
 ### Impact
 
