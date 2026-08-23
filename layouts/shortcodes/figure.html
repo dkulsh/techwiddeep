@@ -1,0 +1,26 @@
+{{- /* Custom figure shortcode: resolves root-absolute /images/... paths against
+      the site baseURL (which includes a sub-path), so figures don't 404.
+      Also adds lazy-loading. Falls back cleanly for external (http) images. */ -}}
+{{- $src := .Get "src" -}}
+{{- if not (or (hasPrefix $src "http://") (hasPrefix $src "https://")) -}}
+  {{- $src = (strings.TrimPrefix "/" $src) | relURL -}}
+{{- end -}}
+<figure{{ with .Get "class" }} class="{{ . }}"{{ end }}>
+  {{- if .Get "link" -}}
+    <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
+  {{- end -}}
+  <img src="{{ $src }}"
+    {{- with .Get "alt" }} alt="{{ . }}"{{ end }}
+    {{- with .Get "width" }} width="{{ . }}"{{ end }}
+    {{- with .Get "height" }} height="{{ . }}"{{ end }}
+    loading="lazy" decoding="async" />
+  {{- if .Get "link" -}}</a>{{- end -}}
+  {{- $title := .Get "title" -}}
+  {{- $caption := .Get "caption" -}}
+  {{- if or $title $caption -}}
+  <figcaption>
+    {{- with $title -}}<h4>{{ . }}</h4>{{- end -}}
+    {{- with $caption -}}<p>{{ . | markdownify }}</p>{{- end -}}
+  </figcaption>
+  {{- end -}}
+</figure>
