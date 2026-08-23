@@ -55,3 +55,18 @@
   display: block;
   margin: 1em 0;
 }
+
+/* Notice callout body: force readable dark text so it doesn't inherit the
+   notice's theme color (e.g. green on .notice.success). Keeps behaviour
+   consistent across Hugo/Tailwind builds. Border/icon/background stay themed. */
+.notice .notice-body,
+.notice .notice-body p,
+.notice .notice-body li {
+  color: #444;
+}
+
+.dark .notice .notice-body,
+.dark .notice .notice-body p,
+.dark .notice .notice-body li {
+  color: #d1d5db;
+}
