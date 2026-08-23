@@ -70,3 +70,68 @@
 .dark .notice .notice-body li {
   color: #d1d5db;
 }
+
+/* ============ About page — "Sex & Cash" manifesto ============ */
+.sc-manifesto {
+  --sc-accent: #e5484d;
+  margin: 2.5rem auto 0;
+}
+
+/* Tier 1 — quiet eyebrow label */
+.sc-eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.28em;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #717171;
+  margin-bottom: 1.75rem;
+}
+
+/* Tier 2 — the loud personal punch line (the star) */
+.sc-punch {
+  font-family: "Signika", "Heebo", sans-serif;
+  font-weight: 700;
+  font-size: clamp(1.35rem, 3.4vw, 1.8rem);
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  max-width: none;
+  margin: 0 auto 2.25rem;
+  color: #040404;
+}
+.sc-punch .sc-accent { color: var(--sc-accent); }
+
+/* slim accent rule: your punch above, Macleod's origin below */
+.sc-divider {
+  width: 40px;
+  height: 3px;
+  border: 0;
+  border-radius: 2px;
+  background: var(--sc-accent);
+  opacity: 0.85;
+  margin: 0 auto 2rem;
+}
+
+/* Tier 3 — the calm source quote */
+.sc-quote {
+  font-style: italic;
+  font-size: 1.12rem;
+  line-height: 1.65;
+  color: #555555;
+  max-width: 44ch;
+  margin: 0 auto 1rem;
+}
+.sc-cite {
+  display: block;
+  margin-top: 1rem;
+  font-style: normal;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #717171;
+}
+
+/* dark mode */
+.dark .sc-punch { color: #ffffff; }
+.dark .sc-quote { color: #b4afb6; }
+.dark .sc-eyebrow,
+.dark .sc-cite { color: #b4afb6; }
