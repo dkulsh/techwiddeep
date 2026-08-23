@@ -1,0 +1,29 @@
+{{ define "main" }}
+  <section class="section-sm">
+    <div class="container">
+      <div class="row justify-center">
+        <div class="md:col-10 lg:col-7 text-center">
+          {{ partial "image" (dict "Src" .Params.image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6" "Size" "200x200") }}
+          <h2 class="h3 mb-6">{{ .Title }}</h2>
+
+          {{/* Bespoke "Sex & Cash" manifesto — styled in three tiers (see custom.css .sc-*) */}}
+          <div class="sc-manifesto">
+            <p class="sc-eyebrow">The Sex &amp; Cash Theory</p>
+            <p class="sc-punch">
+              I write software for <span class="sc-accent">cash</span>.<br />
+              And enjoy writing about the software industry for <span class="sc-accent">sex</span>.
+            </p>
+            <hr class="sc-divider" />
+            <blockquote class="sc-quote">
+              The creative person basically has two kinds of jobs: one is the sexy, creative kind. The second is the kind that pays the bills. Sometimes the task in hand covers both bases, but not often.
+              <cite class="sc-cite">— Hugh Macleod</cite>
+            </blockquote>
+          </div>
+
+          {{/* any prose added to about/_index.md still renders below */}}
+          <div class="content">{{ .Content }}</div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}
