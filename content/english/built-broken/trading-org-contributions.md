@@ -20,11 +20,13 @@ Worked at a Crypto exchange. Following are the major tasks accomplished while th
 
 {{< figure src="/images/nerdy-stuff/trading-org-contributions/payment-system-impact.png" alt="Payment System Impact" caption="Significant improvements in payment processing efficiency" >}}
 
-Helped reduce Ops team from 11 to 3
+{{< notice "success" >}}
+**Reduced the Ops team from 11 → 3.**
 
-- Direct savings: ~30 lakhs / year
-- Direct Processing savings: ~1 crore / year
-- Indirect savings: ~50 lakhs / year of dev effort was saved
+- **Direct savings:** ~₹30 lakh / year
+- **Processing savings:** ~₹1 crore / year
+- **Indirect savings:** ~₹50 lakh / year in dev effort
+{{< /notice >}}
 
 This redesign addressed key challenges in the incoming payments system, leading to significant improvements.
 
@@ -115,7 +117,7 @@ These fixes streamlined the system, paving the way for efficient operations.
 
 ### Time Spent
 
-- Me and two other engineers (6 years and 3 years experience) respectively, worked for ~1 month.
+- Me and two other engineers (6 and 3 years' experience) worked for **~1 month**.
 - Change included:
   - Code rewrite
   - DB redesign
@@ -123,9 +125,9 @@ These fixes streamlined the system, paving the way for efficient operations.
 
 ### Result
 
-- Losses reduced to ~0 from ~75 lakhs, in the previous quarter. Any losses were due to Ops team errors.
-- New integration time was reduced from 14 days to ~3 days.
-- Ops team size reduction (11 to 3) saved further costs to the organization.
+- **Losses reduced from ~₹75 lakh to ~₹0** in the previous quarter. Any residual losses were due to Ops-team errors.
+- **New integration time: 14 days → ~3 days.**
+- **Ops team: 11 → 3**, saving further costs to the organization.
 
 ---
 
@@ -133,13 +135,13 @@ These fixes streamlined the system, paving the way for efficient operations.
 
 ### Impact
 
-Reduced cloud costs by 30% (still going down).
+{{< notice "success" >}}
+**Reduced cloud costs by 30%** (still going down). Projected annual figures:
 
-Below are the projected numbers.
-
-- Direct savings: ~30-60 lakhs / year
-- Direct Processing savings: ~2 crore / year
-- Indirect savings: ~1 crore / year of dev effort was saved
+- **Direct savings:** ~₹30–60 lakh / year
+- **Processing savings:** ~₹2 crore / year
+- **Indirect savings:** ~₹1 crore / year in dev effort
+{{< /notice >}}
 
 These enhancements built on the previous redesign to further optimize the system's performance.
 
@@ -167,12 +169,12 @@ The following types of indexing were done.
 
 Queries that referenced a direct = or in comparison. Hash indexes were created.
 
-| Performance | Before Index | After Index | Increase in Performance (old - new) / new * 100 |
+| Percentile | Before | After | Speedup |
 | --- | --- | --- | --- |
-| Max | 1799 ms | 2.5 ms | 71860% |
-| P99 | 1747 ms | 1.5 ms | 116300% |
-| P95 | 628 ms | 1 ms | 62700% |
-| P90 | 609 ms | 0.933 ms | 65100% |
+| Max | 1799 ms | 2.5 ms | **~720× faster** |
+| P99 | 1747 ms | 1.5 ms | **~1,165× faster** |
+| P95 | 628 ms | 1 ms | **~630× faster** |
+| P90 | 609 ms | 0.933 ms | **~650× faster** |
 
 - GIN Index (Generalized Inverted Index)
 
@@ -180,12 +182,12 @@ GIN index helps with full text search.
 
 Certain fields needed full and partial search (some banks gave partial IDs).
 
-| Performance | Before Index | After Index | Increase in Performance (old - new) / new * 100 |
+| Percentile | Before | After | Speedup |
 | --- | --- | --- | --- |
-| Max | 5.3 sec | 471 ms | 10200% |
-| P99 | 4.94 sec | 193 ms | 24600% |
-| P95 | 4.94 sec | 97.7 ms | 49900% |
-| P90 | 4.94 sec | 53.4 ms | 91500% |
+| Max | 5.3 s | 471 ms | **~11× faster** |
+| P99 | 4.94 s | 193 ms | **~26× faster** |
+| P95 | 4.94 s | 97.7 ms | **~51× faster** |
+| P90 | 4.94 s | 53.4 ms | **~93× faster** |
 
 - B Tree Indexes
 
@@ -197,12 +199,12 @@ The columns in the Index were verified to be in the same sequence as that in the
 
 JSON columns with particular key searches are created as Expression indexes.
 
-| Performance | Before Index | After Index | Increase in Performance (old - new) / new * 100 |
+| Percentile | Before | After | Speedup |
 | --- | --- | --- | --- |
-| Max | 8.91 sec | 3.72 ms | 239400% |
-| P99 | 8.76 sec | 3.38 ms | 259000% |
-| P95 | 8.36 sec | 2.85 ms | 835700% |
-| P90 | 8.11 sec | 1.96 ms | 413600% |
+| Max | 8.91 s | 3.72 ms | **~2,395× faster** |
+| P99 | 8.76 s | 3.38 ms | **~2,592× faster** |
+| P95 | 8.36 s | 2.85 ms | **~2,933× faster** |
+| P90 | 8.11 s | 1.96 ms | **~4,138× faster** |
 
 - **N + 1 Query problem**
 
@@ -251,13 +253,11 @@ These improvements collectively enhanced the system's efficiency and reduced ope
 
 ### Result
 
-Reduced cloud utilization by 30% (hence 30% costs saved).
+**Reduced cloud utilization by 30%** (hence ~30% cost saving). Projected annual figures:
 
-Below are projected numbers.
-
-- Direct savings: ~30-60 lakhs / year
-- Direct Processing savings: ~2 crore / year
-- Indirect savings: ~1 crore / year of dev effort was saved
+- **Direct savings:** ~₹30–60 lakh / year
+- **Processing savings:** ~₹2 crore / year
+- **Indirect savings:** ~₹1 crore / year in dev effort
 
 ---
 
@@ -265,6 +265,6 @@ Below are projected numbers.
 
 Team manager gave feedback that the same issues repeated in the team, e.g., missed deployment steps, partial testing deployments etc.
 
-So I created this [checklist](https://docs.google.com/spreadsheets/d/15ANlO2peeZr6AUV8pu4-Kmetr8GrCDNR2j4OeHgJT6s/edit?usp=sharing). This helped reduce 95% issues.
+So I created this [checklist](https://docs.google.com/spreadsheets/d/15ANlO2peeZr6AUV8pu4-Kmetr8GrCDNR2j4OeHgJT6s/edit?usp=sharing). This **reduced ~95% of such issues**.
 
 {{< figure src="/images/nerdy-stuff/trading-org-contributions/deployment-checklist.png" alt="Deployment Checklist" caption="Comprehensive checklist to reduce deployment issues" >}}

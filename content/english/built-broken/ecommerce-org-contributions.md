@@ -18,23 +18,25 @@ I worked at a major e-commerce organization. Following are the major tasks I acc
 
 ### Impact
 
-- Direct savings in infra costs: ~30 lakhs / year
-- Projected savings in infra costs: 1 cr in the next 2 years
+{{< notice "success" >}}
+- **Direct infra savings:** ~₹30 lakh / year
+- **Projected savings:** ~₹1 crore over the next 2 years
+{{< /notice >}}
 
 {{< figure src="/images/nerdy-stuff/ecommerce-org-contributions/cache-redesign-diagram.png" alt="Cache Redesign Diagram" caption="Visual representation of the cache system architecture" >}}
 
 ### Infra
 
-- Normal time site load: 30,000 requests/ second
-- Sale time load: 60,000 requests/ second
+- Normal-time site load: **30,000 requests/second**
+- Sale-time load: **60,000 requests/second**
 
-- Normal Pod throughput: ~2000 requests/ second
-- Sale time throughput: ~3000 requests/ second
+- Normal pod throughput: ~2,000 requests/second
+- Sale-time throughput: ~3,000 requests/second
 
-- Pod RAM: 16 gb
+- Pod RAM: 16 GB
 - Pod CPU: 8 cores
 
-- Redis: 3 master 3 slave clusters
+- Redis: 3 master + 3 slave clusters
 
 ### Context
 
@@ -80,11 +82,11 @@ It had to be created by 7 different adapters, working sequentially. This was bec
 
 e.g. Size Chart will *not* always use a product code instead it could also use a standard size metric - Indian, UK, US etc.
 
-- **Total Redis IO was high ~ 50 ms.**
+- **Total Redis IO was high — ~50 ms.**
 
 Each key - value pair carried data from 7 different services. Therefore each pair was heavy.
 
-Each redis IO therefore took ~50 ms - ~100 ms.
+Each Redis IO therefore took ~50–100 ms.
 
 #### Pros of Design
 
@@ -132,13 +134,13 @@ Only Price service was called frequently. For others, traffic dropped.
 
 Data was served via cache. (In past ~2-5% requests failed due to upstream errors)
 
-3. Reduced IO duration for each Redis request to ~5 ms
+3. Reduced IO duration for each Redis request to **~5 ms**
 
 This was because the size of each read/write became smaller.
 
 ### Time Spent
 
-1. Me and 1 other mid level engineer (7 years experience) worked on the redesign for ~3 weeks.
+1. Me and 1 other mid-level engineer (7 years' experience) worked on the redesign for **~3 weeks**.
 
 2. Changes included
 
@@ -152,19 +154,19 @@ This was because the size of each read/write became smaller.
 
 {{< figure src="/images/nerdy-stuff/ecommerce-org-contributions/performance-improvement-graph.png" alt="Performance Improvement Graph" caption="Significant performance improvements after cache redesign" >}}
 
-1. Throughput increased from 1200 requests/ sec to ~2100 requests/ sec.
+1. **Throughput: 1,200 → ~2,100 requests/second.**
 
-Company was moving away from 24 core machines to 8 core machines.
+Company was moving away from 24-core machines to 8-core machines.
 
-On the old machine performance was ~1200 requests/ second. So, the requirement on the new machine was ~1200 requests/ second.
+On the old machine, performance was ~1,200 requests/second. So the requirement on the new machine was ~1,200 requests/second.
 
-But the new design served ~2100 requests/ second.
+But the new design served ~2,100 requests/second.
 
-Meaning, despite the CPU being reduced 66%, the throughput increased ~80%.
+Meaning, **despite CPU being reduced 66%, throughput increased ~80%**.
 
-2. CPU utilization fell from ~20% to ~4% during most times.
+2. **CPU utilization: ~20% → ~4%** during most times.
 
-3. Response time remained around 50 - 100 ms/ for each request.
+3. Response time remained around **50–100 ms** per request.
 
 4. Service was tunable at each upstream level.
 
@@ -176,7 +178,9 @@ In addition to optimizing the cache system, I also addressed issues in the rewar
 
 ### Impact
 
-- Turn around reduction: 3 weeks to 3 mins
+{{< notice "success" >}}
+**Turnaround time: 3 weeks → 3 minutes.**
+{{< /notice >}}
 
 {{< figure src="/images/nerdy-stuff/ecommerce-org-contributions/rewards-reporting-process.png" alt="Rewards Reporting Process" caption="Streamlined rewards reporting workflow" >}}
 
@@ -246,7 +250,7 @@ After *not* having received the coupons, following would typically happen.
 
 - TechOps would trigger the script (from Dev team) + Data (from PII team)
 
-All of the above typically took ~3 weeks. And was very tiring for the tech team.
+All of the above typically took **~3 weeks**, and was very tiring for the tech team.
 
 ### Redesign
 
@@ -288,7 +292,7 @@ The report would be used by the Customer Care and Business team.
 
 When an Ajio customer calls. Customer care would have a complete view of what happened.
 
-80% of the requests could be handled at level 1 itself. They could redirect the solution without the intervention of the Tech team.
+**80% of requests could be handled at level 1** itself — resolved without Tech-team intervention.
 
 **The time of 3 weeks would reduce to 3 mins.**
 
