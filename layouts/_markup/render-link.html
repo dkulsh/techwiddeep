@@ -1,0 +1,32 @@
+{{- /* Link render hook (Hugo new-template-system path: layouts/_markup/).
+       Root-absolute internal links written in markdown as [text](/blog/...)
+       are emitted verbatim by the default hook, so a browser resolves them
+       against the domain root and the site's baseURL subpath (/techwiddeep/)
+       is dropped -> broken links. Fix: strip the leading "/" and run through
+       relURL, which prepends the baseURL path (same pattern as the figure
+       shortcode's /images/ fix). External links, anchors and mailto: don't
+       start with "/" and pass through untouched; already-prefixed paths are
+       skipped to avoid a double subpath. */ -}}
+{{- $dest := .Destination -}}
+{{- $basePath := (urls.Parse site.BaseURL).Path -}}
+{{- if and (strings.HasPrefix $dest "/") (not (strings.HasPrefix $dest $basePath)) -}}
+  {{- $dest = strings.TrimPrefix "/" $dest | relURL -}}
+{{- end -}}
+<a href="{{ $dest | safeURL }}"
+
+{{ with .Title}}
+ title="{{ . }}"
+{{ end }}
+
+{{ if strings.HasPrefix .Destination "http" }}
+ target="_blank"
+{{ end }}
+
+{{ if in .Destination "?class=" }}
+{{ $getClass:= string (index (findRE "class=([^&#]*)" .Destination) 0) }}
+{{ $allClass:= replace $getClass `class=` `` }}
+{{ $class:= replace $allClass `+` ` ` }}
+ class="{{$class}}"
+{{ end }}
+>{{.Text | safeHTML}}</a>
+{{- /* This comment removes trailing newlines. */ -}}
