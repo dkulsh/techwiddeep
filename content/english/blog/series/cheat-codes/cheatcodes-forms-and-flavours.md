@@ -410,8 +410,6 @@ That is the topic we'll discuss in the next blog.
 
 Until then, long live honesty!
 
-Write back if you have an opinion. Like what you read? Do like, comment, and share.
-
 ---
 
 ## Series Navigation

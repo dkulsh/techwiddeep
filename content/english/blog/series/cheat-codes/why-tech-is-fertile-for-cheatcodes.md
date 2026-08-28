@@ -389,8 +389,6 @@ As we can imagine, cheatcodes create problems for both individuals and organizat
 
 ![Image](/images/cheat-codes/why-tech-fertile/conclusion.jpg)
 
-Write back in case you have an opinion. Like what you read? Do like, comment, and share.
-
 ---
 
 ## Series Navigation

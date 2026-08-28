@@ -75,7 +75,7 @@ I’ve reread this book four times, appreciating its concrete advice that drives
 
 —Mark Twain
 
-Eker revealed my misconceptions. Share in the comments and let’s reshape our Money Blueprints together!
+Eker revealed my misconceptions.
 
 *Excerpts from *Secrets of the Millionaire Mind* by T. Harv Eker*
 

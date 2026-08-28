@@ -119,8 +119,6 @@ Finally, we verify the end product.
 
 And this is how a software-producing machine works!
 
-Write back if you have an opinion. Like what you read? Do like, comment, and share.
-
 ---
 
 ## Series Navigation
