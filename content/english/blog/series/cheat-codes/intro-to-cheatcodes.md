@@ -153,8 +153,6 @@ Let's get going!
 
 ![Image](/images/cheat-codes/intro-to-cheatcodes/lets-get-going.png)
 
-Write back in case you have an opinion. Like what you read—do like, comment, and share.
-
 ---
 
 ## Series Navigation

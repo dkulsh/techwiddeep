@@ -156,6 +156,6 @@ And were willing to sacrifice a great deal in defense of these ideas.
 
 These ideas hit home. I see myself in the perfectionist trap or the self-built prisons I’ve yet to escape. *Too Soon Old, Too Late Smart* isn’t a life-changer, but it’s a thought-provoking read that sparked reflection.
 
-What lesson resonates with you? Share your thoughts in the comments and let’s rethink our maps together!
+What lesson resonates with you?
 
 ---

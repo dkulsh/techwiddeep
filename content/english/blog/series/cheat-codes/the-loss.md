@@ -325,8 +325,6 @@ This brings me to my next point: What steps can be taken to prevent cheat code i
 
 ![Image](/images/cheat-codes/the-loss/conclusion.png)
 
-Write back if you have an opinion. Like what you read? Do like, comment, and share.
-
 ---
 
 ## Series Navigation

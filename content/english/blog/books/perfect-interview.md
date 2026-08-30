@@ -121,4 +121,4 @@ Wait to share achievements. This lets the interviewer know that you are modest.
 If you make a mistake. Don't overreact. Acknowledge if appropriate, then move ahead.
 {{< /bigtext >}}
 
-Excerpts from *59 Seconds* by Richard Wiseman. Explore more book reviews in our [Books category](#) to continue your journey of growth. Share your feedback, like, comment, or reach out!
+Excerpts from *59 Seconds* by Richard Wiseman. Explore more book reviews in our [Books category](#) to continue your journey of growth.

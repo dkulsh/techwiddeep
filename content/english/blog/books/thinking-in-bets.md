@@ -107,6 +107,6 @@ The book can feel verbose, repeating themes of uncertainty and decision-making. 
 
 It didn’t make me crave better decisions, but it gave me tools to get there—and to accept failures as part luck, not just skill. Life’s a long poker game: better decisions win more hands, but sometimes, bad luck strikes.
 
-What’s one decision you’re rethinking? Share in the comments and let’s deal a better hand together!
+What’s one decision you’re rethinking?
 
 ![Book Cover](/images/books/thinking-in-bets/book-cover.png)

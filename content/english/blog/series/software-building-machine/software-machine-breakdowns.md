@@ -283,8 +283,6 @@ Only when all factors work together, the software machine delivers Ferrari code.
 
 *Thanks to Ray Dalio for helping me see a "Software development company" as a machine. (From his book Principles.)*
 
-Write back if you have an opinion. Like what you read? Do like, comment, and share.
-
 ---
 
 ## Series Navigation

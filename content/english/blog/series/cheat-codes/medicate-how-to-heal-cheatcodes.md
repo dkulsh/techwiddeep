@@ -202,8 +202,6 @@ Coming to the end, I hope I have measured up to my own standards.
 
 Take care and feel free to reach out to discuss more on the subject.
 
-Write back if you have an opinion. Like what you read? Do like, comment, and share.
-
 ---
 
 ## Series Navigation
