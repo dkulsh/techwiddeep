@@ -15,9 +15,7 @@ toc: false
 
 #### Introduction
 
-In this series, I'm guiding fresh college grads, early-career professionals, and seasoned tech folks to create resumes that work. Amid 2020's job market challenges, this is my small contribution to help you stand out. **Forget outdated advice like "get good grades, work hard, and you're set"—the real world demands more**. To make this practical, I'm building my own resume step-by-step.
-
-The principles were covered in the previous blog. This post covers the *what* of my resume content.
+Having covered the principles in the previous blog, this post puts them to work: I'll build the *content* of my own resume, step by step.
 
 ---
 

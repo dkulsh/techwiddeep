@@ -13,7 +13,7 @@ weight: 7
 toc: false
 ---
 
-In this series, I'm guiding fresh college grads, early-career professionals, and seasoned tech folks to craft resumes that work in the real world. I share an old, flawed resume from my archives to highlight rookie mistakes. In the next blog, I'll present my latest resume, showcasing the contrast to demonstrate:
+I share an old, flawed resume from my archives to highlight rookie mistakes. In the next blog, I'll present my latest resume, showing the contrast — to demonstrate:
 
 - *Mistakes* made by a rookie job hunter.
 - *Lack* of content, presentation, and confidence in a poor resume.
@@ -94,6 +94,7 @@ These mistakes seem *obvious* now, but consider:
 
 ##### Series Navigation
 
-**← Previous**: [Resume Building: My Edited Resume (Practical Example)](/blog/series/resume-building/resume-building-my-edited-resume/)
+**← Previous**: [Resume Building: Beautify - My Resume (Practical Example)](/blog/series/resume-building/resume-building-beautify-lets-write-my-resume/)
+**Next →**: [Resume Building: My Edited Resume (Practical Example)](/blog/series/resume-building/resume-building-my-edited-resume/)
 
-**Series Progress**: Part 8 of 8 | [View All Posts](/blog/series/resume-building/)
+**Series Progress**: Part 7 of 8 | [View All Posts](/blog/series/resume-building/)

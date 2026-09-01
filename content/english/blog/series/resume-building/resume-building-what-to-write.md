@@ -14,7 +14,9 @@ toc: false
 
 #### Introduction
 
-In this series, I aim to guide fresh college grads, early-career professionals, and seasoned tech industry folks in creating resumes that stand out. With job losses and uncertainty in 2020, this is my small contribution to help you navigate the job market. Forget the outdated advice of "get good grades, work hard, and you're set." The real world plays by different rules.
+In this series, I aim to guide fresh college grads, early-career professionals, and seasoned tech industry folks in creating resumes that stand out.
+
+You might ask whether a resume guide still matters when AI can write one for you. More than before, I'd argue. AI polishes sentences; it can't tell which parts of your career are worth surfacing, or how to make a stranger grasp your value in thirty seconds — that needs context only you have. And it was never a juniors-only problem: presentation is a skill independent of experience, and plenty of seniors undersell themselves badly.
 
 This blog series is divided into three parts:
 

@@ -13,7 +13,7 @@ weight: 6
 toc: false
 ---
 
-This is the sixth and final part of my resume-building series, guiding *fresh college grads*, *new joiners*, and *experienced professionals* in crafting effective resumes. Here, I’ll apply the *beautification* principles from the previous blog to polish my own resume, demonstrating how to make it visually appealing and recruiter-friendly.
+This is the sixth part of the series. Here, I'll apply the *beautification* principles from the previous blog to polish my own resume.
 
 
 #### Visual Enhancements
@@ -73,20 +73,11 @@ Here's the final version of my project section after multiple edits:
 
 #### Wrapping Up
 
-This concludes our resume-building series. I hope it's clear that crafting a resume is **hard but not complicated**. As I shared initially, I struggled to learn the "rights" and "wrongs" of resume writing:
-
-1. I wanted to focus on tech skills but spent disproportionate time on resume books, blogs, templates, and images.
-2. Even after learning best practices (brevity, quantification), I lacked the "mental muscle" to apply them. As a junior engineer, I wasn't trained to track project dollars or impact, and I had no mentor.
-
-This series distills books, blogs, experience, failures, and successes into a guide that's **easy for a layman to understand**.
-
-### Success Looks Like:
-
-You, as a non-expert, understanding resume-building essentials, creating a solid resume, and feeling confident in days.
+That completes the how-to arc — the *what*, the *how*, and the *beautification*. I hope it's clear that crafting a resume is **hard but not complicated**.
 
 {{< figure src="/images/resume-building/beautify-lets-write/success-looks-like.png" alt="Success looks like" >}}
 
-The next two blogs will showcase:
+The next two blogs make the point concrete, with a before-and-after:
 
 1. A poorly made version of my resume.
 2. A well-edited version of my resume.
@@ -100,6 +91,6 @@ Happy resuming!
 ##### Series Navigation
 
 **← Previous**: [Resume Building: Beautify](/blog/series/resume-building/resume-building-beautify/)
-**Next →**: [Resume Building: My Edited Resume (Practical Example)](/blog/series/resume-building/resume-building-my-edited-resume/)
+**Next →**: [Resume Building: My Vintage Bad Resume (Practical Example)](/blog/series/resume-building/resume-building-my-vintage-bad-resume/)
 
 **Series Progress**: Part 6 of 8 | [View All Posts](/blog/series/resume-building/)
