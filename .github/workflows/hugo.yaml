@@ -20,7 +20,7 @@ jobs:
     env:
       DART_SASS_VERSION: 1.92.1
       GO_VERSION: 1.25.1
-      HUGO_VERSION: 0.150.0
+      HUGO_VERSION: 0.165.0
       NODE_VERSION: 22.18.0
       TZ: Europe/Oslo
     steps:
@@ -68,47 +68,18 @@ jobs:
           echo "${HOME}/.local/hugo" >> "${GITHUB_PATH}"
       - name: Install Node.js dependencies
         run: |
-          [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
-          # Install TailwindCSS locally as well for npx fallback
-          npm install tailwindcss@4.0.14
-      - name: Install TailwindCSS globally
-        run: |
-          echo "Installing TailwindCSS v4.0.14..."
-          npm install -g tailwindcss@4.0.14
-          echo "Installation completed. Checking installation..."
-          echo "Adding TailwindCSS to PATH..."
-          echo "$(npm config get prefix)/bin" >> $GITHUB_PATH
-          echo "Creating symlink for immediate access..."
-          ln -sf "$(npm config get prefix)/bin/tailwindcss" /usr/local/bin/tailwindcss
-          echo "Checking if tailwindcss binary exists..."
-          which tailwindcss || echo "tailwindcss binary not found in PATH"
-          echo "Checking tailwindcss version..."
-          tailwindcss --version || echo "tailwindcss --version command failed"
-          echo "Checking npm global packages..."
-          npm list -g tailwindcss
-          echo "Checking PATH..."
-          echo $PATH
-          echo "Creating additional symlink in /usr/local/bin..."
-          ln -sf "$(npm config get prefix)/bin/tailwindcss" /usr/local/bin/tailwindcss
-          echo "Verifying symlink..."
-          ls -la /usr/local/bin/tailwindcss || echo "Symlink creation failed"
-          echo "Adding node_modules/.bin to PATH for npx fallback..."
-          echo "$(pwd)/node_modules/.bin" >> $GITHUB_PATH
+          npm ci
+          # Put locally-installed CLIs (tailwindcss via @tailwindcss/cli) on PATH for Hugo's asset pipeline
+          echo "$(pwd)/node_modules/.bin" >> "${GITHUB_PATH}"
+          echo "=== resolved versions ==="
+          npm ls tailwindcss @tailwindcss/cli @tailwindcss/typography @tailwindcss/forms 2>&1 | head
       - name: Verify installations
         run: |
           echo "Dart Sass: $(sass --version)"
           echo "Go: $(go version)"
           echo "Hugo: $(hugo version)"
           echo "Node.js: $(node --version)"
-          echo "TailwindCSS: $(tailwindcss --version)"
-          echo "Testing npx tailwindcss..."
-          npx tailwindcss --version || echo "npx tailwindcss failed"
-          echo "Checking if tailwindcss is in node_modules/.bin..."
-          ls -la node_modules/.bin/tailwindcss || echo "tailwindcss not found in node_modules/.bin"
-          echo "Creating TailwindCSS config if it doesn't exist..."
-          if [ ! -f "tailwind.config.js" ]; then
-            echo "module.exports = {}" > tailwind.config.js
-          fi
+          echo "TailwindCSS: $(node_modules/.bin/tailwindcss --version 2>&1 | tail -1 || echo '(version check skipped)')"
       - name: Configure Git
         run: |
           git config core.quotepath false
@@ -174,6 +145,7 @@ jobs:
         with:
           path: ./public
   deploy:
+    if: github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
