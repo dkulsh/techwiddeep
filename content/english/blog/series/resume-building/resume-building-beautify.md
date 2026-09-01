@@ -13,7 +13,7 @@ weight: 5
 toc: false
 ---
 
-This is the fifth part of my resume-building series, guiding *fresh college grads*, *new joiners*, and *experienced professionals* in crafting effective resumes. After collecting and editing content, we now focus on *beautifying* the resume to make it visually appealing and recruiter-friendly.
+This is the fifth part of the series. After collecting and editing content, we now focus on *beautifying* the resume to make it visually appealing and recruiter-friendly.
 
 
 #### Adding Chutzpah

@@ -12,7 +12,7 @@ weight: 8
 toc: false
 ---
 
-In this series, I've guided fresh college grads, new joiners, and professionals across industries to craft resumes that shine in the real world. I present my refined resume to conclude this series, showcasing the highlights of my work and design choices. Let's wrap up with a polished, recruiter-ready resume!
+To conclude the series, I present my refined resume — the highlights of the content and design choices we've walked through. Let's wrap up with a polished, recruiter-ready resume!
 
 
 #### Profile Summary
@@ -109,7 +109,6 @@ I wish you *bon apprendre* (French for “happy learning”) as you craft your r
 
 ##### Series Navigation
 
-**← Previous**: [Resume Building: Beautify - My Resume (Practical Example)](/blog/series/resume-building/resume-building-beautify-lets-write-my-resume/)
-**Next →**: [Resume Building: My Vintage Bad Resume (Practical Example)](/blog/series/resume-building/resume-building-my-vintage-bad-resume/)
+**← Previous**: [Resume Building: My Vintage Bad Resume (Practical Example)](/blog/series/resume-building/resume-building-my-vintage-bad-resume/)
 
-**Series Progress**: Part 7 of 8 | [View All Posts](/blog/series/resume-building/)
+**Series Progress**: Part 8 of 8 | [View All Posts](/blog/series/resume-building/)

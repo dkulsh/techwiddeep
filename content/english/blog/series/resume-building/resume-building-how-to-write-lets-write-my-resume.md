@@ -12,7 +12,7 @@ weight: 4
 toc: false
 ---
 
-This is the fourth part of my resume-building series, guiding *fresh college grads*, *new joiners*, and *experienced professionals* in crafting effective resumes. After covering *how* to write a resume in the previous blog, I’ll now refine my own resume, demonstrating the process to help you apply these principles effectively. Let's refine !
+This is the fourth part of the series. After covering *how* to write a resume in the previous blog, I'll now refine my own resume so you can see the process in action. Let's refine!
 
 #### Profile Summary
 

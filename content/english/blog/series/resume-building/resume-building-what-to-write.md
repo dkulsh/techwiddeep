@@ -14,7 +14,9 @@ toc: false
 
 #### Introduction
 
-In this series, I aim to guide fresh college grads, early-career professionals, and seasoned tech industry folks in creating resumes that stand out. With job losses and uncertainty in 2020, this is my small contribution to help you navigate the job market. Forget the outdated advice of "get good grades, work hard, and you're set." The real world plays by different rules.
+In this series, I aim to guide fresh college grads, early-career professionals, and seasoned tech industry folks in creating resumes that stand out.
+
+You might ask whether a resume guide still matters when AI can write one for you. More than before, I'd argue. AI polishes sentences; it can't tell which parts of your career are worth surfacing, or how to make a stranger grasp your value in thirty seconds — that needs context only you have. And it was never a juniors-only problem: presentation is a skill independent of experience, and plenty of seniors undersell themselves badly.
 
 This blog series is divided into three parts:
 
@@ -93,6 +95,8 @@ A resume is the face of your professional experience. It should be clean, crisp,
 
 Your resume's job is to make you **attractive enough** to land an interview. Think of it as a first impression that gets you a "date" with the recruiter. Whether you ace the interview is another story, but first, your resume must spark interest.
 
+But "attractive" is only half of it. Look at what a resume actually *does*: you've spent years on rich, messy, context-heavy work, and you have to fit all of it onto two-to-four pages a stranger skims in thirty seconds — with none of the context you had. That's a **compression** problem: squeezing a sprawling, subjective career into an objective artifact someone can judge fast, without ever having been there. Everything else in this series is really about doing that compression *without losing the signal*. _(It's the same subjective-input, objective-output tension I wrote about in the [Software Machine](/blog/series/software-building-machine/software-machine-breakdowns/) series — words in, something objective out.)_
+
 {{< figure src="/images/resume-building/resume-attractiveness-concept.png" alt="Concept of resume attractiveness"  >}}
 
 Consider this: Out of all the people you see daily, **who catches your eye? The attractive ones, right?** A resume works the same way—it needs **presentation** to grab attention and **content** to prove you're a good fit.
@@ -106,8 +110,6 @@ Once your resume piques interest, recruiters want **relevant content in an easil
 - A smile (or lack thereof) might indicate personality traits.
 
 {{< bigtext >}}You're not right every time, but you're right most of the time with least effort. Recruiters operate similarly.{{< /bigtext >}}
-
-> Recruiters seek *what you've done*, while spending minimal effort. And accepting they might miss some gems.
 
 {{< figure src="/images/resume-building/recruiter-evaluation-process.jpg" alt="Recruiter evaluation process"  >}}
 

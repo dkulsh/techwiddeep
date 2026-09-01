@@ -14,24 +14,11 @@ toc: false
 ---
 
 
-This is the third part of my resume-building series, aimed at helping *fresh college grads*, *new joiners*, and *experienced professionals* craft effective resumes. Having gathered content in previous posts, we'll now edit it for brevity, impact, and clarity. Let's edit!
+This is the third part of the series. Having gathered content in the previous posts, we'll now edit it for brevity, impact, and clarity. Let's edit!
 
 {{< figure src="/images/resume-building/how-to-write/editing-mindset.png" alt="Editing mindset approach"  >}}
 
 The key to effective resume editing is understanding the mindset shift from content gathering to content refinement.
-
-##### Disclaimer
-
-> **Principle**: Transparency builds trust—share what you know and admit what you don't.
-
-I’m not a resume expert, nor have I consulted many HR professionals. My insights come from:
-
-- Conducting and attending multiple interviews.
-- Learning from peers, juniors, mentors, and brainstorming sessions.
-
-This guide reflects real-world experience, not theoretical expertise.
-
----
 
 #### Mindset for Editing
 
@@ -45,11 +32,11 @@ With our content gathered, let's shift to shaping it effectively. Think of the *
 
 {{< figure src="/images/resume-building/how-to-write/editing-pillars.jpg" alt="Editing pillars"  >}}
 
-Our editing mindset focuses on three pillars:
+Our editing mindset focuses on three pillars. Think of them as three ways to fight signal loss — a resume is a lossy channel, and each pillar protects the signal differently:
 
-- **Brevity**: Keep statements short and sharp.
-- **Quantification**: Add numbers to show impact.
-- **Vocabulary**: Use industry-specific terms strategically.
+- **Brevity**: Keep statements short and sharp — drop the words that carry no information.
+- **Quantification**: Add numbers to show impact — they're the strongest signal, the part that survives a thirty-second skim when adjectives don't.
+- **Vocabulary**: Use industry-specific terms strategically — one precise keyword unpacks into a whole paragraph in the right reader's head.
 
 ---
 
