@@ -19,6 +19,8 @@ I share an old, flawed resume from my archives to highlight rookie mistakes. In 
 - *Lack* of content, presentation, and confidence in a poor resume.
 - *Improvement* in these qualities in a well-crafted resume.
 
+Underneath all three is the same failure: the old resume is **lossy compression**. The work was real — but the signal got lost on the way to the page: a vague summary, unquantified projects, nothing a skimming recruiter could grab. The edited version isn't "prettier." It's a **cleaner compression** — the same career, squeezed down so the signal survives the thirty-second read.
+
 If you've made similar mistakes, take heart—find your courage! This blog shows how easy it is for an undirected soul to stumble, but the next will prove how a directed approach can turn things around. **It's okay to make mistakes, as long as you learn and improve**.
 
 Let's begin my walk of shame!

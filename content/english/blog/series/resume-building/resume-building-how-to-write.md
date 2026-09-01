@@ -32,11 +32,11 @@ With our content gathered, let's shift to shaping it effectively. Think of the *
 
 {{< figure src="/images/resume-building/how-to-write/editing-pillars.jpg" alt="Editing pillars"  >}}
 
-Our editing mindset focuses on three pillars:
+Our editing mindset focuses on three pillars. Think of them as three ways to fight signal loss — a resume is a lossy channel, and each pillar protects the signal differently:
 
-- **Brevity**: Keep statements short and sharp.
-- **Quantification**: Add numbers to show impact.
-- **Vocabulary**: Use industry-specific terms strategically.
+- **Brevity**: Keep statements short and sharp — drop the words that carry no information.
+- **Quantification**: Add numbers to show impact — they're the strongest signal, the part that survives a thirty-second skim when adjectives don't.
+- **Vocabulary**: Use industry-specific terms strategically — one precise keyword unpacks into a whole paragraph in the right reader's head.
 
 ---
 
