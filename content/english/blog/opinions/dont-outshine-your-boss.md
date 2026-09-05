@@ -18,7 +18,7 @@ In the IT context, a "blowback" would be **getting fired for doing a great job**
 
 #### The Blowback Blues
 
-Ravi was a good techie. He was curious, a self starter, a learner, and all things good. Unfortunately for him, **he was better than most around him, including his peers, leads, and managers**.
+Ravi was a good techie. He was curious, a self starter, a learner, and all things good. Unfortunately for him, he was better than most around him, including his peers, leads, and managers.
 
 As things turned out, Ravi landed with a manager who wasn't bright. As usual, he did great work and was well appreciated. While doing so, he became an object of envy for many around him, including his manager. But Ravi remained happily unaware.
 
@@ -26,7 +26,6 @@ He took all the glory himself and left nothing for his teammates. While people w
 
 Silently, the manager passed Ravi's negative feedback for the silliest of things. After a while, the company had to let people go. Among the many poor techies was a fabulous one—Ravi was fired.
 
-To understand this outcome, let's explore the underlying dynamics.
 
 #### What the Heck!
 
@@ -100,7 +99,6 @@ As techies, think of power when...
 
 While technology operates inside a computer, humans do so outside one. Regardless, studying humans like studying technology is important.
 
-{{< bigtext  >}}This dynamic isn't isolated; it's pervasive across various fields.{{< /bigtext  >}}
 
 #### All-Present
 
@@ -148,13 +146,13 @@ What Ravi's boss did was wrong. But his wrongdoing doesn't change the fact that 
 
 #### What to Do?
 
-Power gods need honoring. **We need to ensure that our superiors—lead, manager, architect, CTO, CEO—do not feel insecurity from us**. They are used to dealing with us in certain ways; they have control over the relationship. If we do something that reduces that control, they will resist.
+Power gods need honoring. We need to ensure that our superiors — lead, manager, architect, CTO, CEO — do not feel insecurity from us. They are used to dealing with us in certain ways; they have control over the relationship. If we do something that reduces that control, they will resist.
 
 Don't get me wrong—they love us and want good for us. **But their first priority is themselves, not us**. They love us the way we are, not the way we might become. So...
 
 ##### Share the Spotlight
 
-{{< bigtext >}}Give our superiors incentives to see us grow.{{< /bigtext >}}
+Give our superiors incentives to see us grow.
 
 After any achievement, **share credit with the team**. This ensures that the superiors are always appreciated. I don't recommend flattery as it's easy to be caught as ass kissing. Instead, selective truth is a safer bet. For example:
 
@@ -166,7 +164,7 @@ After any achievement, **share credit with the team**. This ensures that the sup
 
 Since the above will be true of most bosses, it won't be misunderstood as flattery.
 
-{{< bigtext >}}Our bosses usually don't have any incentives to see us grow.{{< /bigtext >}} When we share credit, we give them incentives to see us grow: **My success is your success!**
+Our bosses usually don’t have any incentives to see us grow. When we share credit, we give them incentives to see us grow: **My success is your success!**
 
 ##### Dim Our Shine
 
@@ -215,11 +213,11 @@ A Devdutt Pattanaik, the famous Indian mythologist, interview comes to mind.
 
 During the interview, Devdutt explains that Lord Krishna was the most brilliant of people during his times. In our context, **he was someone who could make others insecure just by being himself**.
 
-{{< bigtext >}}But Krishna was smart. He ensured that he never "looked" too threatening. To achieve that, he dressed differently. He wore yellow silk, wore a peacock feather, had henna on his hands, and alta on his feet.{{< /bigtext >}}
+But Krishna was smart. He ensured that he never "looked" too threatening. To achieve that, he dressed differently — yellow silk, a peacock feather, henna on his hands, alta on his feet.
 
 <p></p>
 
-{{< bigtext >}}Such behavior was feminine by those times' standards. However, it helped the kings and courtiers believe that he was supposedly "soft." Therefore, not a threat. The pretense allowed Krishna to do his work without too much resistance.{{< /bigtext >}}
+Such behaviour was considered feminine by the standards of the time. It helped the kings and courtiers believe he was "soft" — and therefore not a threat. The pretense let Krishna do his work without much resistance.
 
 Let's look at a few of his feats:
 
