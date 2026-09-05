@@ -10,16 +10,12 @@ author: "Deep Kulshreshtha"
 tags: ["cheat-codes", "workplace-psychology", "career-development"]
 draft: false
 weight: 2
-toc: true
+toc: false
 ---
 
 #### Recap
 
-Some people survive and thrive at tech companies without doing any meaningful work. They cheat their way through. As part of this blog series, we discuss the phenomenon.
-
-Such people use some trade tricks. We'll refer to these as "cheat codes."
-
-To dive deeper into these strategies, let's explore specific examples.
+*Previously:* we met the cheat code — the trick some folks use to thrive at tech companies without doing any meaningful work — and why it should worry you. This post walks through the forms it takes.
 
 ![Cheat Codes Image](/images/cheat-codes/forms-and-flavours/cheat-codes-cover.jpg)
 
@@ -28,8 +24,6 @@ To dive deeper into these strategies, let's explore specific examples.
 *A word or phrase that helps a gamer get to the next level without playing the actual game.*
 
 All examples are real-life cases. One of us was a witness to all the mentioned instances.
-
-This sets the stage for examining common cheat codes in action.
 
 #### Late Night Email
 
@@ -56,8 +50,6 @@ The gentleman received many accolades, appreciations, and rewards. This continue
 At this point, the whole team was asked to carry the weight of the project. The gentleman was working more than his fair share and deserved the team's help (obviously)!
 
 Late-night emails were misunderstood as a measure of good work.
-
-Building on this idea of misleading perceptions, let's look at a related tactic.
 
 #### Odd Work Hours
 
@@ -99,8 +91,6 @@ Regardless, the "overworker" is hailed as a hero owing to his sacrifices working
 
 ![Promotion Image](/images/cheat-codes/forms-and-flavours/promotion-reward.png)
 
-Shifting from time-based deceptions, consider how meetings can serve as a cover.
-
 #### Meeting-Ophilia
 
 *#Disguise #SymptomEqualsCause*
@@ -122,8 +112,6 @@ This cheat code is very commonly found across tech organizations, so I will not 
 As deadlines neared, a familiar story was repeated. *The team came together and pulled the project through.* This is fancy talk for: Others did Sharad's work by working overtime.
 
 Of course, Sharad was thanked for all the "contribution" he made to the project!
-
-Continuing with variations on busyness, let's examine multitasking as a facade.
 
 #### Travelling in 20 Boats
 
@@ -153,13 +141,13 @@ Folks like Rahul, when not able to deliver, choose the next best option. They ca
 
 I submit: A 20-boat traveler gets a warm, fuzzy feeling by "looking" busy rather than "being" busy. Thanks to the English language, we have phrases that help—teamwork, pull together, alliance, synergy, no "I" in team, etc.!
 
+> **Idea**: "Looking busy" and "being busy" are two different jobs — every cheat code optimizes the first.
+
 Sharad's calendar was proof of his productivity. Here, we have multiple workstreams. Multiple tasks are proof of someone's productivity. Sharad was indeed seen everywhere, but he was not responsible for any value addition anywhere (he was busy!).
 
 The value addition was delegated to his subordinates (fancy talk for asking others to do his work).
 
 The idea of being busy equaling productivity sells well. Unfortunately, management that buys into this idea fails their team.
-
-Exploring another form of apparent productivity, let's discuss excessive communication.
 
 #### Postmanship
 
@@ -213,8 +201,6 @@ Note: If the designs had issues, it's the engineer's fault or architect's fault,
 *The manager was just a postman; therefore safe!*
 
 Postmanship ends up shaking the idea of "meritocracy" in an organization or team. This is also what all cheat codes do.
-
-Beyond communication tricks, emotional manipulation can also play a role.
 
 #### Panic! Leveraged
 
@@ -273,8 +259,6 @@ My opinion is: During panic, stress, confusion, or any such situation, the first
 Not having a calm, composed self, most are unable to think straight and put two and two together.
 
 Furthermore, the smart cheaters present themselves as the calm solution, which is something management needs during trouble.
-
-Language can also be a tool for obfuscation, as we'll see next.
 
 #### Obscurity by Language
 
@@ -335,7 +319,7 @@ How about taking credit away and blaming?
 
 Obscurity by language is easy and yet very effective. It is one of the favorite tools for cheat code users—from rookies to pros. No wonder.
 
-Having explored this flavor, let's move on to another tactic involving time management.
+> **Principle**: Complex language is usually a mask, not a necessity — the harder an update is to read, the more worth asking what it hides.
 
 #### Analysis Blackhole
 
@@ -357,8 +341,6 @@ Analysis blackhole is a common phenomenon. This can be done by overestimation or
 - Development of a prototype or a POC (proof of concept) taking very long.
 
 Overestimation is done knowing that the work instead might be done in a tenth of the estimated time. Underreporting is done by showcasing less work than is actually achieved—an easy task.
-
-Finally, let's consider how personal excuses can be exploited.
 
 #### Dereliction
 
@@ -384,17 +366,19 @@ Thrice: Makes the believers doubt!
 
 Releases and deployments were really tricky, time-taking, and tiring for one of our projects. Releases used to take their toll on us developers.
 
-One of our cheat code colleagues was drop-dead gorgeous! She was also someone everyone knew to be an idiot (of course, a beautiful idiot).
+One of our colleagues, though, hit a personal snag almost every single time a release came due. Urgent personal work, a family member sick, their own sudden illness—the timing became so reliable that we started predicting the next "emergency" before the release even landed.
 
-She had consistent troubles during times of releases. This was strange! Urgent personal work, family member sick, she is sick—the situations became so common that we started guessing the upcoming trouble for the next releases.
-
-Jokes aside, I wish her well, and I hope she gets the sense to stop the silliness. Do you know someone similar?
+Life happens, and sometimes it genuinely lands at the worst possible moment. But when the trouble shows up for every crunch and never for the quiet weeks, the pattern speaks for itself. Do you know someone similar?
 
 #### Conclusion
 
 With this, we come to the end of cheat codes.
 
-We talked about cheat codes in some of their flavors and forms. This was not a comprehensive list—only ones I gathered from my experiences. As much as they work, my recommendation will be to not use them.
+We talked about cheat codes in some of their flavors and forms. This was not a comprehensive list—only ones I gathered from my experiences.
+
+And before I sound like a saint: I've reached for a few of these myself—the odd late-night email that looked busier than I actually was, the meeting I sheltered in when I should have been shipping. Spotting a cheat code, it turns out, is a lot easier than staying clean of one. That's part of why I can name them.
+
+As much as they work, my recommendation is to not use them.
 
 Why?
 
@@ -410,7 +394,7 @@ That is the topic we'll discuss in the next blog.
 
 Until then, long live honesty!
 
----
+<hr>
 
 ## Series Navigation
 

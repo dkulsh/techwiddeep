@@ -10,29 +10,23 @@ author: "Deep Kulshreshtha"
 tags: ["cheat-codes", "workplace-psychology", "career-development"]
 draft: false
 weight: 6
-toc: true
+toc: false
 ---
 
 #### Recap
 
-Some people thrive at tech companies without doing any meaningful work. They cheat their way through. As part of the blog series, we discuss this phenomenon.
+*Previously:* we defined the cheat code, then covered —
 
-Such people use tricks to game the system. We refer to these tricks as cheatcodes.
+- its forms and flavours,
+- why software is fertile ground for it,
+- the losses it inflicts,
+- how to avoid it.
 
-We've discussed:
-
-- Forms of cheatcodes
-- Reasons they thrive at software organizations
-- Losses cheatcodes create
-- Tips on avoiding them
-
-Now we discuss how to cure cheatcode culture.
+Now, the last step: how to cure a culture that's already infected.
 
 Once again, the list below is more of a recommendation set than a solution template. Feel free to read, research, investigate, and take common-sense steps, or reach out to me to discuss more.
 
 User discretion is advised before using a method.
-
-To begin addressing this issue, let's explore practical strategies.
 
 #### Avoid
 
@@ -40,7 +34,7 @@ To begin addressing this issue, let's explore practical strategies.
 
 First and foremost, avoid creating any more cheatcodes. Simple enough!
 
-To do that, use all ideas discussed in the previous blog. With prevention in mind, the next step is to examine reality objectively.
+To do that, use all ideas discussed in the previous blog.
 
 #### Look at Things as Is
 
@@ -87,8 +81,6 @@ And once we look at things as they are, we realize:
 
 Looking at things as they are (even with someone else's help) will help separate the signal from the noise. This is the first step in getting rid of cheatcodes.
 
-Building on this foundation of clear perception, the next principle helps prioritize efforts effectively.
-
 #### 80/20 Principle
 
 The 80/20 principle (also called Pareto's principle) states that most results are caused by very few causes. These causes are also called *the vital few*. For example:
@@ -116,7 +108,7 @@ Therefore, most cheatcoding can be resolved by fixing few people, processes, or 
 
 Resolving *the vital few* will give the most benefit. The few will give 80% results immediately. Results will cascade across the organization. Remaining 20% will take a much longer time.
 
-With priorities set, it's important to consider the outcomes of decisions over time.
+> **Principle**: Fix the vital few first — most cheatcoding traces to a few people, gaps, or practices.
 
 #### Resulting
 
@@ -140,6 +132,8 @@ But if I drive drunk all the time, then I am almost certain to end up in an acci
 
 In the short term, *the end result is not always related to the quality of the decision itself*.
 
+> **Principle**: Judge the decision, not just the outcome — good bets sometimes lose and bad bets sometimes win.
+
 In our context:
 
 - Firing a cheatcoder might cause some immediate issues. The attrition might cause some delays. The person might wean away some of the team's good programmers. He might create social media unrest, etc. But in the long term, the cheatcode-free team will perform better.
@@ -156,8 +150,6 @@ Poor decisions sometimes result in good outcomes. They end up becoming the norm.
 Decisions need to be evaluated objectively. The person responsible for fixing an organization needs to understand the concept of *resulting*. He cannot drive only based on the results.
 
 Remember: Poor bets will inherently encourage cheatcoding, even if they benefit in the short term. Good bets will automatically discourage cheatcoding, even if they lose in the short term.
-
-Beyond strategic principles, foundational qualities are essential for team members.
 
 #### Common Sense
 
@@ -179,7 +171,7 @@ Finally comes intellect. Like a good tool, intellect is great, but only when use
 
 Intellect without integrity and energy is of no value to an organization.
 
-As we wrap up these strategies, let's reflect on the broader implications.
+> **Principle**: Hire for integrity, then energy, then intellect — in that order; intellect without the first two works against you.
 
 #### Conclusion
 
@@ -202,7 +194,7 @@ Coming to the end, I hope I have measured up to my own standards.
 
 Take care and feel free to reach out to discuss more on the subject.
 
----
+<hr>
 
 ## Series Navigation
 

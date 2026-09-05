@@ -10,22 +10,16 @@ author: "Deep Kulshreshtha"
 tags: ["cheat-codes", "workplace-psychology", "career-development"]
 draft: false
 weight: 3
-toc: true
+toc: false
 ---
 
 #### Recap
 
-Some people thrive at tech companies without doing any meaningful work. They cheat their way through. As part of the blog series, we discuss this phenomenon.
-
-Such people use tricks to game the system. We refer to these tricks as cheatcodes.
+*Previously:* we defined the cheat code and catalogued the forms it takes. This post asks *why* — why cheatcodes exist at software companies, and why the industry breeds more of them than most.
 
 ![Image](/images/cheat-codes/why-tech-fertile/cheat-codes-cover.png)
 
-In the previous blog, cheatcodes have been explained. In this blog, we will talk about "why" cheatcodes exist at software companies. Also, why the software industry has more cheatcoders compared to other industries.
-
 Let's get started.
-
-To better understand this, let's explore how these cheatcodes might fare in other sectors.
 
 #### Cheating in Another Industry
 
@@ -59,8 +53,6 @@ Why is the tech industry a fertile ground for so many cheatcodes?
 
 I mean really! Pause reading any further. Take a minute to think about it. Bring in your inputs before you read any further.
 
-Building on this contrast, let's examine the fundamental nature of what tech companies produce.
-
 #### Nature of the Ware
 
 The answer to the above question begins with another question: What do software companies produce?
@@ -87,6 +79,8 @@ This is the starting point of our discussion.
 Wine, a dish, a piece of marble, a car, an egg, and other things exist in the real world. Software exists in the virtual world.
 
 Thus, *none of the five human senses—touch, smell, see, taste, and hear—help us evaluate software. This puts us at an immediate disadvantage.*
+
+> **Principle**: Software is invisible — none of the five senses can evaluate it — so bad work hides here in ways it never could in the physical trades.
 
 *Humans are not designed to evaluate software, a software engineer, or the work toward building software.*
 
@@ -134,7 +128,7 @@ Software deals with abstract concepts in a virtual world. And because the world 
 
 Cheating is easy in the IT industry. Hopefully, this first reason explains why. If not, let's connect over coffee.
 
-Lots to digest here. Take a walk before we consume more! Next, we'll explore the processes involved in creating this virtual product.
+Lots to digest here. Take a walk before we consume more!
 
 #### Production Practices
 
@@ -173,6 +167,8 @@ Enticing enough?
 *Humans are designed for audio/visual cues, and not words. This is how evolution designed humans.* (I realize the irony with the length of my blog here :D).
 
 This also means that mostly, my lengthy emails will escape scrutiny. A cheatcode opportunity! #*obscurityByLanguage*
+
+> **Idea**: A word-heavy process is a cheat code's best cover — words fade, and they bend to whoever reads them.
 
 Also, words are very momentary, fading, fleeting, ephemeral. This is the nature of words. How many conversations from today do you remember "word for word"?
 
@@ -266,8 +262,6 @@ There can be (in fact, there always are):
 
 So, we've taken a crunchy cone of a virtual product (software) and added a generous scoop of difficult business practices!
 
-Let's make this more interesting by considering the organizational structures that overlay these practices.
-
 #### Industrial Age Org Structures
 
 ![Image](/images/cheat-codes/why-tech-fertile/industrial-age-org.gif)
@@ -276,13 +270,13 @@ Let's go ahead and add a scoop of "ancient org structures" to our delicacy!
 
 Cheatcoders always have their fair representation at organizations. At the same time, there are always some people interested in good, honest hard work. Among the well-intended folks, there are hardly any that are willing to "bell the cat."
 
-I took help from game theory to explain the behavior. Here is an excerpt from the book "*The Art of Strategy*":
+I took help from game theory to explain the behavior. Calling out a cheatcoder is a collective-action problem—a many-player prisoners' dilemma. Everyone gains if the group acts, but as *The Art of Strategy* puts it, the question is "who will risk his life to bell the cat?"
 
-"The problem of collective action is a variant of the prisoners' dilemma, albeit one with many more than two prisoners. … The problem is, who will risk his life to bell the cat?
+"When people must act individually and hope that the momentum will build up, the question arises '*Who is going to be the first?*'. Such a leader will pay a high cost… most find the costs exceed the benefits."
 
-… How can an unpopular tyrant control large populations for long periods? Why can a lone bully terrorize a schoolyard? …
+That's the whole trap in one line: the first person to name the problem pays for it, while the reward—if any—is shared or arrives too late. So everyone waits for someone else to go first, and no one does.
 
-But the communication and coordination required for such action is difficult, and the oppressors, knowing the power of the masses, take special steps to keep it difficult. When people must act individually and hope that the momentum will build up, the question arises '*Who is going to be the first?*'. Such a leader will pay a high cost—a broken nose or possibly his life. His reward may be posthumous glory or gratitude. There are people who are moved by considerations of duty or honor, but most find the costs exceed the benefits."
+> **Principle**: Naming a cheatcoder is a collective-action problem — the first to speak pays the cost, so everyone waits.
 
 Hardly any team member would like to take a cheatcode issue forward to HR, managers, senior leaders, etc. The same folks would be comfortable sharing the most bitter, caustic, vitriolic feedback on online platforms like Glassdoor. But never to the folks who could really make a difference. I found this strange.
 
@@ -343,8 +337,6 @@ His friends helped him avoid trouble during the bad times. Most engineers will g
 
 Cheatcoders survive and thrive at industrially hierarchied software organizations. Any surprises?
 
-Beyond these structural issues, there's another subtle factor that enables cheatcoders to go unnoticed.
-
 #### Invisible Ships
 
 Ever heard of ships not seen or the invisible ships phenomenon?
@@ -377,8 +369,6 @@ The lack of knowledge about what is a cheatcode helps the cheatcode!
 
 Now, ask yourself: Do you see?
 
-Having explored these reasons, let's wrap up our discussion.
-
 #### In Conclusion
 
 We looked at reasons why the software industry provides space to cheatcoders. The reasons are few in number, but each has a big impact on enhancing the cheatcode landscape.
@@ -389,7 +379,7 @@ As we can imagine, cheatcodes create problems for both individuals and organizat
 
 ![Image](/images/cheat-codes/why-tech-fertile/conclusion.jpg)
 
----
+<hr>
 
 ## Series Navigation
 

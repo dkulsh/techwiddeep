@@ -10,30 +10,24 @@ author: "Deep Kulshreshtha"
 tags: ["cheat-codes", "workplace-psychology", "career-development"]
 draft: false
 weight: 5
-toc: true
+toc: false
 ---
 
 #### Recap
 
-Some people thrive at tech companies without doing any meaningful work. They cheat their way through. As part of the blog series, we discuss this phenomenon.
+*Previously:* we defined the cheat code, then covered —
 
-Such people use tricks to game the system. We refer to these tricks as cheatcodes.
+- its forms and flavours,
+- why software is fertile ground for it,
+- the losses it inflicts.
 
 ![Cheatcode Image](/images/cheat-codes/vaccinate-avoid/cheat-codes-cover.png)
-
-Until now, we've talked about:
-
-- Various forms of cheatcodes
-- Reasons they thrive at software organizations
-- Losses cheatcodes create
 
 Now we discuss how to avoid the cheatcode culture from getting established.
 
 Cheatcodes can take many forms. So, the below list is more of a recommendation set than a solution template. User discretion is advised.
 
 Let's get prepared!
-
-To build a strong foundation, let's start with the importance of awareness.
 
 #### Awareness
 
@@ -64,8 +58,6 @@ Another manager might've tried:
 Such solutions do not work or work to the benefit of the cheatcoder.
 
 To avoid the cheatcode menace, the first thing we can do is to be *aware* of the phenomenon.
-
-Building on awareness, the next step is to enhance visibility within the organization.
 
 #### Make the Invisible Visible
 
@@ -98,6 +90,8 @@ Therefore, visual cues will change behavior. This is a form of increasing transp
 The problem withered away without any external pressure or any disincentives. No developer lost any bonus or worked more than normal hours.
 
 Organizations can make the "invisible" visible. This will avoid cheatcode issues from creeping up.
+
+> **Principle**: Make the invisible visible and behaviour self-corrects — a public number changes conduct faster than pressure or punishment.
 
 ##### Encourage Visibility/Transparency
 
@@ -155,8 +149,6 @@ Superiors are not accountable to subordinates at most places. This is an establi
 
 The idea of transparency is to both *discourage cheatcodes* and *allow the visibility of a cheatcode as soon as possible*, from any layer within an organization.
 
-With visibility in place, it's crucial to address issues at their core.
-
 #### Dig to the Root
 
 **True story:**
@@ -192,9 +184,11 @@ I conducted a big training session. Next thing I see:
 
 This was a big turnaround for a single KT session.
 
-The turnaround proved something I felt was true: problems are sometimes "symptoms" of the real problems (better explained in the book called *Principles*).
+The turnaround proved something I felt was true: what looks like the problem is often just a symptom, and the real cause sits a layer beneath. (Ray Dalio makes the same point in *Principles*: treat the machine, not the symptom—diagnose the root before you reach for a fix.)
 
 All problems came my way because people initiating the problems did not know any better. The only person they knew could help was me. *People weren't lazy, just ignorant.*
+
+> **Idea**: Assume ignorance before malice — most "cheating" you see is people who don't know better.
 
 So, training and not reprimanding was the solution.
 
@@ -243,8 +237,6 @@ Either way, the organization wins.
 
 Listening is a simple and useful tool. It helps keep cheatcoders away.
 
-To further deter poor performance, ensure everyone has a stake in the outcomes.
-
 #### Skin in the Game
 
 Nassim Taleb wrote a book by the same name. The book explains the concept in detail.
@@ -273,8 +265,6 @@ What is your opinion about the below scenarios?
 
 Skin in the game immediately creates a disincentive for poor-quality work. Therefore, it discourages cheatcoding.
 
-Finally, apply fundamental principles to guide your approach.
-
 #### Common Sense
 
 Anyone working with a tech team needs to understand certain simple "common sense" ideas.
@@ -302,6 +292,8 @@ Anyone working with a tech team needs to understand certain simple "common sense
 
    More leaders ought to realize that requirement documents, software lifecycles, deployment tools are just tools to deliver the code. The tools aren't the deliverables. Code is!
 
+> **Principle**: Business practices are tools, not deliverables — meetings and docs enable the code; they aren't the code.
+
 3. **Vague for managers, clear for techies.**
 
    Engineering work does not prosper with ambiguity.
@@ -326,7 +318,7 @@ Let's go...
 
 ![Conclusion Image](/images/cheat-codes/vaccinate-avoid/conclusion.jpg)
 
----
+<hr>
 
 ## Series Navigation
 
