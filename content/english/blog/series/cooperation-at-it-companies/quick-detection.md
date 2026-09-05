@@ -3,7 +3,7 @@ title: "Achieve Co-operation | Quick Detection"
 meta_title: "Quick Detection of Behavior for Cooperation in IT Companies"
 description: "Learn how quick detection of behavior helps achieve cooperation at IT companies through immediate feedback and effective performance monitoring systems."
 date: 2022-07-31T00:00:00Z
-image: "/images/cooperation part 2/detection-detective.png"
+image: "/images/cooperation-at-it-companies/detection-detective.png"
 categories: ["Business", "Management"]
 author: "Deep Kulshreshtha"
 tags: ["cooperation", "detection", "performance-monitoring", "feedback"]
@@ -18,7 +18,7 @@ How quick detection of behavior helps achieve cooperation at IT companies.
 
 *Previously:* we saw why the usual cooperation systems — bonuses, appraisals, team-building — don't work on their own, and resolved to redesign them around a few characteristics. Continuing from [How to Achieve Co-operation](/blog/series/cooperation-at-it-companies/achieve-cooperation/), we begin with the first pillar.
 
-![Behavior Detection](/images/cooperation part 2/behavior-detection.png)
+{{< figure src="/images/cooperation-at-it-companies/behavior-detection.png" alt="Behavior Detection" >}}
 
 #### Quick Detection of Behavior
 
@@ -79,7 +79,7 @@ Now cheating has become more complex, with additional dimensions:
 - Internal teams
 - Processes
 
-![Complex Detection](/images/cooperation part 2/complex-detection.jpeg)
+{{< figure src="/images/cooperation-at-it-companies/complex-detection.jpeg" alt="Complex Detection" >}}
 
 Leadership cannot always scrutinize each dimension, so cheating is detected much later. This incentivizes laziness for developers.
 
@@ -98,7 +98,7 @@ Unfortunately, these factors have other influences:
 - Product owners might not be competent to review technology.
 - Bugs might be beyond the current scope.
 
-![Detection Complexity](/images/cooperation part 2/detection-complexity.jpeg)
+{{< figure src="/images/cooperation-at-it-companies/detection-complexity.jpeg" alt="Detection Complexity" >}}
 
 With all these complexities, detection and punishment become slow and inaccurate, raising the temptation to cheat.
 

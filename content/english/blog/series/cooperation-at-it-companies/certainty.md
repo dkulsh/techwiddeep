@@ -3,7 +3,7 @@ title: "Achieve Co-operation | Certainty"
 meta_title: "Certainty in Performance Systems for Cooperation in IT Companies"
 description: "Explore how certainty in rewards and punishments drives cooperation at IT companies, with real-world examples and practical insights on performance management."
 date: 2022-08-15T00:00:00Z
-image: "/images/cooperation part 2/certainty-guarantee.jpg"
+image: "/images/cooperation-at-it-companies/certainty-guarantee.jpg"
 categories: ["Business", "Management"]
 author: "Deep Kulshreshtha"
 tags: ["cooperation", "certainty", "performance-management", "rewards"]
@@ -22,7 +22,7 @@ How "certainty" helps achieve cooperation at IT companies.
 
 Employees should have confidence that good behavior will be rewarded and that bad behavior will be punished. The higher this confidence, the higher the cooperation.
 
-![Certainty Confidence](/images/cooperation part 2/certainty-confidence.jpg)
+{{< figure src="/images/cooperation-at-it-companies/certainty-confidence.jpg" alt="Certainty Confidence" >}}
 
 ##### Lucky Draw
 
@@ -86,7 +86,7 @@ The organization saved a few thousand dollars, only to lose many times that. Pen
 
 The same rewards or penalties with a high degree of certainty drive higher cooperation.
 
-![Certainty Probability](/images/cooperation part 2/certainty-probability.jpg)
+{{< figure src="/images/cooperation-at-it-companies/certainty-probability.jpg" alt="Certainty Probability" >}}
 
 - 20% chance of reward: Hard work doesn't seem enticing enough.
 
