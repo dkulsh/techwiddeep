@@ -1,223 +1,173 @@
 ---
 title: "Achieve Co-operation | Nature of (dis)Incentives"
-meta_title: "Understanding Incentives and Disincentives in IT Companies"
-description: "Understanding why the *right kind* of reward or punishment matters in organizational behavior."
-date: 2022-08-02
-image: "/images/rewards.png"
-categories: ["IT", "Teamwork", "Leadership"]
+meta_title: "Nature of Rewards and Punishments for Cooperation in IT Companies"
+description: "Explore how the type and nature of rewards and punishments affects cooperation at IT companies, with real-world examples and practical insights."
+date: 2022-08-15T00:00:00Z
+image: "/images/cooperation part 2/reward-types.jpeg"
+image_max_width: 500  # Set any pixel value you want
+categories: ["Business", "Management"]
 author: "Deep Kulshreshtha"
-tags: ["blog-series", "cooperation", "teamwork", "IT culture"]
+tags: ["cooperation", "incentives", "rewards", "performance-management"]
 draft: false
 weight: 3
 toc: false
 ---
 
+How the "type of a reward" helps achieve cooperation at IT companies
 
+#### Recap
 
-#### How “Type of a Reward” Helps Achieve Cooperation at IT Companies
+*Previously:* pillar 1 was **quick detection** — reward or punish fast, or the signal doesn't stick. Pillar 2 is the **nature** of the reward/punishment: the wrong *kind* backfires even when it's timely.
 
----
+#### Nature of Rewards and Punishments
 
-#### **Backstory**
+What the organization assumed was a reward, in fact, it was a punishment. The subject is best described with real-life examples. So, here we go.
 
-Achieving cooperation and delivering is a priority for IT companies.
+##### Promoted to Quit
 
-As part of this blog series, we look at *“systematic”* concepts that help achieve cooperation.  
-We’ve looked at:
+*I was managing a very difficult project. Taking care of technical, managerial, design, architecture, client engagement, and other aspects. The right people became happy. And leadership promoted me to a 'Manager' position.*
 
-- [**Detection of behavior**]({{< relref "quick-detection.md" >}})
+*2 months later - I quit the job.*
 
-Today we talk about…
+**What the organization assumed was a reward, to me, was a punishment!**
 
-- **Nature of rewards/punishments**
+Why?
 
----
+A common idea is - a manager supersedes an engineer.
 
-#### **What the Organization Thought Was a Reward...**
+There are Techies and there are Managers. Both add value and are needed at IT organizations.
 
-The subject is best described with real-life examples. So, here we go…
+Personally, I have been interested in technical work. I do not have the aptitude or interest to be a manager.
 
----
-
-##### **Promoted to Quit**
-
-I was managing a very difficult project — taking care of technical, managerial, design, architecture, client engagement, and other aspects.
-
-The right people became happy. And leadership promoted me to a **‘Manager’** position.
-
-**2 months later – I quit the job.**
-
-> What the organization assumed was a reward, to me, was a **punishment**!
+So, to me - the idea that "a manager supersedes an engineer" is just managerial hubris.
 
 ---
 
-##### **Why?**
+*When done in a standalone manner - Tech Management has no "Skin in the Game". If you have seen managers use a lot of complex words to discuss a simple problem, then you've witnessed the concept.*
 
-There are **Techies** and there are **Managers**. Both add value and are needed at IT organizations.
-
-A common idea is — **a manager supersedes an engineer**.
-
-Personally, I have been interested in **technical work**. I do not have the aptitude or interest to be a manager.
-
-So, to me – the idea that _“a manager supersedes an engineer”_ is just **managerial hubris**.
+*Growth gets stunted without 'Skin in the Game'. This is one reason I keep away from Management.*
 
 ---
 
-##### **Management Without Skin in the Game**
+Back to the subject.
 
-When done in a standalone manner – Tech Management has no **“Skin in the Game”**.  
+The promotion was assumed to be a reward. When in fact, it was a punishment for me!
 
-> Growth gets stunted without 'Skin in the Game'.
+Point being - understanding the *nature* of rewards is important.
 
-If you’ve seen managers use a lot of complex words to discuss a simple problem — then you’ve witnessed this concept in action.
+> **Principle**: The wrong *kind* of reward is a punishment — a promotion only rewards someone who actually wants the new job.
 
----
+##### Rewards
 
-Back to the subject...
+Let us look at the various ways organizations "reward" employees:
 
-The **promotion** was assumed to be a **reward**. When in fact, it was a **punishment for me!**
+![Reward Categories](/images/cooperation part 2/reward-categories.png)
 
-###### Point Being – Understanding the Nature of Rewards is Important.
+1. Paying more $$
 
----
-
-#### **Common Organizational Rewards**
-
-Let us look at the various ways organizations “reward” employees:
-
-1. **Paying more $$**  
    Performance bonus, salary hike, etc.
 
-2. **Promotions**  
+2. Promotions
+
    A better job title, more responsibilities, bigger team to supervise
 
-3. **Social Stature**  
-   Appreciation months, employee of the month programs, social credit – LinkedIn appreciations, etc.
+3. Social stature
 
-4. **Team Building**  
-   Bowling alleys, dinners, parties, and other activities
+   Appreciation months, employee of the month programs, social credit - LinkedIn appreciations etc.
 
----
+4. Team building
 
-But each reward has a **“next-level” effect**.
+   Bowling alley, dinners, parties, and other activities etc.
 
-Such an effect, while important, is less understood.  
+But each reward has a "next level" effect. Such an effect, while important, is less understood. Here is another story to drive the point.
 
-Here’s another story to understand …
+##### Social Outcast
 
----
+The Director of an org told me that he wanted to "overload his employees".
 
-##### **Social Outcast**
+He explained - since single youngsters did not have many other things to do. They could (and did) contribute more to the organization.
 
-The Director of an org told me that he wanted to **“overload his employees”**.
+One of his "bright boys" was a guy named Nikhil. The poster boy did nothing but work - day and night, weekdays and weekends. Of course he was rewarded for the work with faster promotion and salary hikes.
 
-He explained — since single youngsters did not have many other things to do, they could (and did) contribute more to the organization.
+**Sounds fair right? But, devil in the details. Remember the "next level" effect.**
 
-One of his “bright boys” was a guy named **Nikhil**.  
-The poster boy did nothing but work — day and night, weekdays and weekends.
+**Message to team was - work 24\*7, to get your deserved appreciation.**
 
-Of course, he was rewarded for the work with faster promotion and salary hikes.
+Few could compete with Nikhil's work ethic. So, most did not get their deserved promotions. Many quit.
 
----
+Also, once the team found out that Nikhil was responsible for them receiving poor bonuses. They implemented social sanctions on him. In turn, this brought down team productivity.
 
-Sounds fair, right?
+Of course the director did not realize that - **Nikhil had become a social outcast**.
 
-But — **devil in the details.** Remember the **“next-level” effect**…
+![Social Outcast](/images/cooperation part 2/social-outcast.jpg)
 
----
+**An Outlier + Comparative rewards = Reduced productivity of the team**
 
-##### **Message to Team: Work 24x7 to Get Appreciation**
+Rewards cannot be comparative to an outlier.
 
-Few could compete with Nikhil’s work ethic. So, most did **not** get their deserved promotions.
-Many **quit**.
+Once again - Visibility (nature) of Rewards is Important.
 
-Also, once the team found out that **Nikhil was responsible for them receiving poor bonuses**, they implemented **social sanctions** on him.
-
-This brought down **team productivity**.
-
-Of course, the director did not realize that Nikhil had become a **social outcast**.
+> **Idea**: Rewarding an outlier *by comparison* punishes everyone else — and the team makes him pay for it.
 
 ---
 
-#### **An Outlier + Comparative Rewards = Reduced Team Productivity**
-
-> Rewards **cannot be comparative** to an outlier.
-> 
-> And the **visibility (nature) of rewards** is important.
+*My take:* *Being the nerd that he was - rewarding Nikhil in silo would've been a better idea.*
 
 ---
 
-##### **My Take:**
-Being the nerd that he was — rewarding Nikhil in **silo** would’ve been a better idea.
+#### Nature of Punishment
 
----
+Exactly the same way, the "nature of punishments" matters too.
 
-#### **Nature of Punishments**
+##### Incorrect Punishment
 
-Exactly the same way, the **“nature of punishments”** matters too.
+I've written about a techie called Rahul. He was a Director at an organization and an underperformer. Of course he wasn't able to deliver on his tasks. And then used to choose the next best option.
 
----
+Get help in the name of "teamwork". He called his subordinates and asked them to put in long hours. Rahul's team bore the added burden of what he failed to do.
 
-##### **Incorrect Punishment**
+Rahul was reprimanded. But he did not care.
 
-I’ve written about a techie called **Rahul**.  
-He was a Director at an organization and an **underperformer**.
+His behavior invited social sanctions. But he did not care.
 
-Of course, he wasn’t able to deliver on his tasks. And then used to choose the next best option — get help in the name of “teamwork”.
+*Why? Wrong type of punishment.*
 
-He called his subordinates and asked them to put in long hours. **Rahul’s team bore the added burden** of what he failed to do.
+What would've happened in case Rahul wasn't helped?
 
----
+He would've had to stay up long nights, all by himself. Right? I bet he would've either quit or made corrections. And everyone would've been better off.
 
-Rahul was reprimanded.  
-But he did **not** care.
+You see - **The nature of the punishment matters**.
 
-His behavior invited **social sanctions**.  
-But he did **not** care.
+#### Wrap Up
 
----
+People want (or avoid) different things …
 
-##### **Why? Wrong Type of Punishment**
+- Challenging work
 
-What would’ve happened in case Rahul wasn’t helped?
+- Work from home flexibility
 
-Sure, deliverables would've been delayed and client would've been upset.
+- More time
 
-But Rahul would’ve had to stay up long nights, all by himself. Right?
+- Compensation
 
-I bet he would’ve either quit or made corrections.
-And **everyone would’ve been better off.**
+- Job Titles
 
+- Social status and more.
 
-> You see — **The nature of the punishment matters.**
+![Incentive Preferences](/images/cooperation part 2/incentive-preferences.jpg)
 
----
+Achieving cooperation requires the "right incentive or disincentives".
 
-#### **Wrap Up**
+As they say: **To each thy own!**
 
-People want (or avoid) different things…
-
-- Challenging work  
-- Work-from-home flexibility  
-- More time  
-- Compensation  
-- Job titles  
-- Social status  
-- ...and more.
-
----
-
-Achieving cooperation requires the **right incentives** or **disincentives**.
-
-> As they say: **To each thy own!**
-
----
-
-<div align="right">
 Excerpts from: The Art of Strategy
-</div>
+
+Next, we discuss the "**Clarity**" of punishments/ rewards.
 
 ---
 
-##### ✅ Coming up next:  
-[**The “Clarity” of Punishments/Rewards**]({{< relref "clarity.md" >}})
+## Series Navigation
+
+**← Previous**: [Quick Detection of Behaviour](/blog/series/cooperation-at-it-companies/quick-detection/)  
+**Next →**: [Clarity for Cooperation](/blog/series/cooperation-at-it-companies/clarity/)
+
+**Series Progress**: Part 3 of 7 | [View All Posts](/blog/series/cooperation-at-it-companies/)
