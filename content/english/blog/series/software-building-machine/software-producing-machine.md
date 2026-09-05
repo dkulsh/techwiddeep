@@ -8,7 +8,7 @@ image_max_width: 400  # Set any pixel value you want
 categories: ["Software Development", "Business Strategy"]
 author: "Deep Kulshreshtha"
 tags: ["software-engineering", "business-analysis", "team-management"]
-draft: false
+draft: true
 weight: 1
 toc: true
 ---
