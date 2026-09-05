@@ -3,7 +3,7 @@ title: "Achieve Co-operation | Size"
 meta_title: "Size of Rewards and Punishments for Cooperation in IT Companies"
 description: "Learn how the size of rewards and punishments affects cooperation at IT companies, with practical examples and insights on finding the right balance."
 date: 2022-08-15T00:00:00Z
-image: "/images/cooperation part 2/size-big-small.jpeg"
+image: "/images/cooperation-at-it-companies/size-big-small.jpeg"
 image_max_width: 500  # Set any pixel value you want
 categories: ["Business", "Management"]
 author: "Deep Kulshreshtha"
@@ -23,7 +23,7 @@ How the size of a reward or punishment affects cooperation at IT companies
 
 The size of a reward or penalty should be proportional to the size of the contribution (or lack thereof).
 
-![Size Proportional](/images/cooperation part 2/size-proportional.png)
+{{< figure src="/images/cooperation-at-it-companies/size-proportional.png" alt="Size Proportional" >}}
 
 *Let a thief go, and he steals again.* (If a punishment is too small, it isn't effective.)
 
@@ -38,7 +38,7 @@ A general rule is to *keep it conservative*.
 
 #### Too Big Rewards
 
-![Size Greed Ego](/images/cooperation part 2/size-greed-ego.gif)
+{{< figure src="/images/cooperation-at-it-companies/size-greed-ego.gif" alt="Size Greed Ego" >}}
 
 Big rewards can lead to blind spots like greed and ego.
 
@@ -106,7 +106,7 @@ As a reminder of the general rule: *Keep it conservative*. Meaning, penalties ne
 
 How do we know the right size of a reward or penalty? To be honest, I am not fully sure, but I know a working analogy.
 
-![Size Right Amount](/images/cooperation part 2/size-right-amount.jpg)
+{{< figure src="/images/cooperation-at-it-companies/size-right-amount.jpg" alt="Size Right Amount" >}}
 
 When eating, how do I know when I am full? Well, my stomach tells me!
 

@@ -3,7 +3,7 @@ title: "Achieve Cooperation | Repetition"
 meta_title: "Repetition and Repeat Engagement for Cooperation in IT Companies"
 description: "Explore how repeat engagement and repetition affects cooperation at IT companies, with insights on long-term relationships and review systems."
 date: 2022-08-15T00:00:00Z
-image: "/images/cooperation part 2/repetition-iterate.jpeg"
+image: "/images/cooperation-at-it-companies/repetition-iterate.jpeg"
 categories: ["Business", "Management"]
 author: "Deep Kulshreshtha"
 tags: ["cooperation", "repetition", "long-term-relationships", "performance-management"]
@@ -20,7 +20,7 @@ How "repeat engagement" affects cooperation at IT companies.
 
 #### Repetition
 
-![Repetition Tourist Food](/images/cooperation part 2/repetition-tourist-food.png)
+{{< figure src="/images/cooperation-at-it-companies/repetition-tourist-food.png" alt="Repetition Tourist Food" >}}
 
 *Why is most food of poor quality at tourist attractions?*
 
@@ -69,7 +69,7 @@ In the same breath:
 
 #### Litmus Test
 
-![Repetition Litmus Test](/images/cooperation part 2/repetition-litmus-test.jpg)
+{{< figure src="/images/cooperation-at-it-companies/repetition-litmus-test.jpg" alt="Repetition Litmus Test" >}}
 
 Repetition is used as a litmus test across the industry.
 
@@ -123,7 +123,7 @@ The opposite happens during economic downturns. Employees want to keep the engag
 
 #### Review Sites
 
-![Repetition Review Sites](/images/cooperation part 2/repetition-review-sites.png)
+{{< figure src="/images/cooperation-at-it-companies/repetition-review-sites.png" alt="Repetition Review Sites" >}}
 
 Technology has played a big role in creating repetition. Think of review sites—Yelp, Glassdoor, Google reviews, Amazon reviews, Goodreads, etc.
 
@@ -145,7 +145,7 @@ Thus, review sites have increased the cost of stupidity by introducing *repetiti
 
 #### Wrap Up
 
-![Repetition Pillars](/images/cooperation part 2/repetition-pillars.png)
+{{< figure src="/images/cooperation-at-it-companies/repetition-pillars.png" alt="Repetition Pillars" >}}
 
 *Repetition* is the last pillar to achieve cooperation at an IT company. Choices between a long-term and a short-term game become very different for the same players.
 
@@ -164,7 +164,7 @@ While systems like performance reviews, HR practices, rewards, etc., help, any s
 
 Hope the clarity helped. Happy team building!
 
-![Repetition Conclusion](/images/cooperation part 2/repetition-conclusion.jpg)
+{{< figure src="/images/cooperation-at-it-companies/repetition-conclusion.jpg" alt="Repetition Conclusion" >}}
 
 Excerpts from: *The Art of Strategy*
 

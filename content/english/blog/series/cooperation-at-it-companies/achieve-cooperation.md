@@ -3,7 +3,7 @@ title: "Achieve Co-operation at IT Companies"
 meta_title: "Achieve Co-operation at IT Companies - Building Effective Systems"
 description: "Explore systematic approaches to achieving cooperation and delivering results in IT companies through effective performance systems, bonuses, and team building strategies."
 date: 2022-07-31T00:00:00Z
-image: "/images/cooperation part 2/cooperation-intro.jpeg"
+image: "/images/cooperation-at-it-companies/cooperation-intro.jpeg"
 categories: ["Business", "Management"]
 author: "Deep Kulshreshtha"
 tags: ["cooperation", "it-companies", "performance-systems", "team-building"]
@@ -34,7 +34,7 @@ These are all to build teams and so cooperation.
 
 Bonus: A monetary incentive for a certain behavior.
 
-![Money Incentives](/images/cooperation part 2/money-incentives.jpeg)
+{{< figure src="/images/cooperation-at-it-companies/money-incentives.jpeg" alt="Money Incentives" >}}
 
 Let us start with a few questions:
 
@@ -75,7 +75,7 @@ Like the autumn months, the greenery in the office landscape dries and starts to
 
 It's a time for revenge, grievances, proving, and other things. Many times it is not for performance reviews, and is for everything else.
 
-![Appraisal System](/images/cooperation part 2/appraisal-system.png)
+{{< figure src="/images/cooperation-at-it-companies/appraisal-system.png" alt="Appraisal System" >}}
 
 **But why?** Here are some reasons appraisal systems give us heartburns.
 
@@ -83,7 +83,7 @@ It's a time for revenge, grievances, proving, and other things. Many times it is
   *We cannot see, touch, smell, taste, or feel software. This puts us at an immediate disadvantage while evaluating a piece of code or a techie.*  
   This is a major reason performance reviews are difficult.  
 
-![Performance Matrix](/images/cooperation part 2/performance-matrix.jpeg)
+{{< figure src="/images/cooperation-at-it-companies/performance-matrix.jpeg" alt="Performance Matrix" >}}
 
 A detailed blog on the topic @ [Why IT industry is fertile ground for Cheatcodes](https://techwiddeep.com/why-it-industry-is-a-fertile-ground-for-cheatcodes/)
 
@@ -150,7 +150,7 @@ As always, I speak only about the tech industry. Let's begin...
 
 Pillar 1: [Quick Detection of Behaviour](/blog/series/cooperation-at-it-companies/quick-detection/)
 
-![Quick Detection](/images/cooperation part 2/quick-detection.png)
+{{< figure src="/images/cooperation-at-it-companies/quick-detection.png" alt="Quick Detection" >}}
 
 <hr>
 

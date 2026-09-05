@@ -3,7 +3,7 @@ title: "Achieve Co-operation | Clarity"
 meta_title: "Clarity in Performance Systems for Cooperation in IT Companies"
 description: "Learn how clarity in expectations, boundaries, and consequences helps achieve cooperation at IT companies through clear performance standards and communication."
 date: 2022-08-15T00:00:00Z
-image: "/images/cooperation part 2/clarity-confused.jpeg"
+image: "/images/cooperation-at-it-companies/clarity-confused.jpeg"
 image_max_width: 500  # Set any pixel value you want
 categories: ["Business", "Management"]
 author: "Deep Kulshreshtha"
@@ -50,7 +50,7 @@ Pankaj is a troublemaking engineer. He does the work, but loves to try out new t
 
 Should he be reprimanded or encouraged? Clarity once again becomes important.
 
-![Calculated Risks](/images/cooperation part 2/calculated-risks.jpg)
+{{< figure src="/images/cooperation-at-it-companies/calculated-risks.jpg" alt="Calculated Risks" >}}
 
 How would you clarify the limits of acceptable behavior for Pankaj? What risks are okay?
 
@@ -73,7 +73,7 @@ In other words, boundaries of acceptable behavior need to be simple for them to 
 
 ##### Surprises
 
-![Surprises Stress Test](/images/cooperation part 2/surprises-stress-test.png)
+{{< figure src="/images/cooperation-at-it-companies/surprises-stress-test.png" alt="Surprises Stress Test" >}}
 
 > **Idea**: Surprises are stress tests for clarity.
 
@@ -103,7 +103,7 @@ Some deliverables became timely (from us 10%). But, the overall deliverables of 
 
 What was more important? Individual deliverables or team deliverables? I believe both are important. But the point is... leadership lacked clarity.
 
-![Team Deliverables](/images/cooperation part 2/team-deliverables.jpeg)
+{{< figure src="/images/cooperation-at-it-companies/team-deliverables.jpeg" alt="Team Deliverables" >}}
 
 This lack of clarity killed the most productive organs in the team (and further delayed work).
 

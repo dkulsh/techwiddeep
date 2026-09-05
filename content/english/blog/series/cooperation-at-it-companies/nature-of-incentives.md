@@ -3,7 +3,7 @@ title: "Achieve Co-operation | Nature of (dis)Incentives"
 meta_title: "Nature of Rewards and Punishments for Cooperation in IT Companies"
 description: "Explore how the type and nature of rewards and punishments affects cooperation at IT companies, with real-world examples and practical insights."
 date: 2022-08-15T00:00:00Z
-image: "/images/cooperation part 2/reward-types.jpeg"
+image: "/images/cooperation-at-it-companies/reward-types.jpeg"
 image_max_width: 500  # Set any pixel value you want
 categories: ["Business", "Management"]
 author: "Deep Kulshreshtha"
@@ -61,7 +61,7 @@ Point being - understanding the *nature* of rewards is important.
 
 Let us look at the various ways organizations "reward" employees:
 
-![Reward Categories](/images/cooperation part 2/reward-categories.png)
+{{< figure src="/images/cooperation-at-it-companies/reward-categories.png" alt="Reward Categories" >}}
 
 1. Paying more $$
 
@@ -99,7 +99,7 @@ Also, once the team found out that Nikhil was responsible for them receiving poo
 
 Of course the director did not realize that - **Nikhil had become a social outcast**.
 
-![Social Outcast](/images/cooperation part 2/social-outcast.jpg)
+{{< figure src="/images/cooperation-at-it-companies/social-outcast.jpg" alt="Social Outcast" >}}
 
 **An Outlier + Comparative rewards = Reduced productivity of the team**
 
@@ -153,7 +153,7 @@ People want (or avoid) different things …
 
 - Social status and more.
 
-![Incentive Preferences](/images/cooperation part 2/incentive-preferences.jpg)
+{{< figure src="/images/cooperation-at-it-companies/incentive-preferences.jpg" alt="Incentive Preferences" >}}
 
 Achieving cooperation requires the "right incentive or disincentives".
 
