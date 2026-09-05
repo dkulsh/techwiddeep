@@ -78,7 +78,6 @@ Stupid designations are created with this design. Employees do the same job for 
 Let's not imagine a group of convoluted beings conspiring in a room. **The standards are more "monkey see, monkey do".** A few organizations lead, and the industry copies.
 
 **Companies bank on a steady supply of title-chasing morons.**
-<!-- Also, companies know that there is a steady supply of morons—those that will take a less-than-standard salary for a fancy title. -->
 
 Companies know that, on the one hand, they will get away with such bullshit; on the other hand, the person is not worth paying more than what he is already paid (*since the guy is busy playing social status games, he is not invested in improving himself*).
 
@@ -114,7 +113,7 @@ Do not get me wrong — I want you to think big. But act small.
 
 When people ask, just tell them that **you make software for banks** or something. Nobody gives a shit whether you are the "**Senior Mega Ultra Database Administrator**" or the "**Cosmic Voluminous Chief Technical Officer**."
 
-**Dream big, but don’t sweat the label.** Understanding this mindset is key to overcoming personal barriers.
+**Dream big, but don’t sweat the label.**
 
 #### Ego: The Real Enemy
 
@@ -162,7 +161,7 @@ How many are married or in love with their job titles? How many are fooling them
 
 Humans are social animals. Due to our social value system, we are dependent on validations and approvals.
 
-From a seminar some years back, the speaker mentioned that he analyzed the LinkedIn profiles of all IITians that passed since the year 2000. More than 90% were working at a job and had the designation of "Co-Founder" in the past.
+From a seminar some years back, the speaker said he’d gone through the LinkedIn profiles of IITians who passed out since 2000 — and by his telling, a large share were working regular jobs while listing "Co-Founder" among their past designations.
 
 I wonder how many were more focused on their job titles (Co-Founder, CEO, CFO, etc.) and less on adding value.
 
@@ -170,7 +169,6 @@ I wonder how many were more focused on their job titles (Co-Founder, CEO, CFO, e
 
 Yes, there is a difference!
 
-> Titles feed ego, not growth.
 
 
 
@@ -189,7 +187,7 @@ But let's be honest too. While this trick might work with low-skill, low-pay emp
 **So, use it, don't abuse it**.
 
 
-## In Conclusion
+#### In Conclusion
 
 Gen. Bipin Rawat, the current CDS (Chief of Defence Staff) then COAS (Chief of Army Staff), was being interviewed some years ago. The interview was conducted around his retirement.
 

@@ -21,7 +21,6 @@ Admittedly, I have a bad habit of ensuring you, the reader, understand the conte
 
 You will see this habit in action.
 
-To build a strong foundation, let's first consider the needs of organizations.
 
 ## What Companies Want
 
@@ -29,7 +28,7 @@ Covid or no Covid,{{< bigtext class="big-bold-text" >}} organizations need and w
 
 Anything else is bullshit.
 
-While so, companies need to select the few good candidates from the crowd of morons.
+While so, companies still need to pick the few strong candidates out of a very crowded field.
 
 ![Companies want sharp people](/images/find-jobs-the-hard-way/companies-want-sharp-people.jpg)
 
@@ -65,7 +64,7 @@ This is the reason we see many companies using online test platforms.
 
 **I know that the criteria used by websites are bullshit**. This is regardless of the platform's performance in filtering candidates.
 
-These platforms test certain concepts. But **99% of people in the tech industry do not understand, remember, or use the concepts—meaning the evaluations are inefficient and can be optimized; an entrepreneurial opportunity.**
+These platforms test certain concepts. But **The vast majority of people in the tech industry never understand, remember, or use the concepts—meaning the evaluations are inefficient and can be optimized; an entrepreneurial opportunity.**
 
 While my opinion stands, do companies have a good alternative to online platforms?
 
@@ -81,14 +80,8 @@ Companies want a signal that you are a worthwhile candidate. *And the signal cha
 
 ![Provide good signal](/images/find-jobs-the-hard-way/provide-good-signal.jpg)
 
-Now that we've explored what companies seek, let's shift perspective to how they view candidates.
 
-#### The View from the Other Side
-
-
-I’ve interviewed candidates who could parrot concepts but crumbled when asked to apply them. **Knowing a concept isn’t the same as using it.** Online tutorials? Same issue—polished, controlled, and far from the chaos of actual projects. **Ever nailed a course but blanked on a real-world coding challenge?**
-
-##### The Business Mindset
+## The View from the Other Side
 
 What do companies see when they look at you?
 
@@ -124,9 +117,8 @@ Why??
 
 ![College degree torture](/images/find-jobs-the-hard-way/college-degree-torture.jpg)
 
-Understanding this disconnect reveals deeper issues in how we learn.
 
-#### The Transfer Mirage
+### The Transfer Mirage
 
 ![Transfer mirage scam](/images/find-jobs-the-hard-way/transfer-mirage-scam.jpg)
 
@@ -149,11 +141,9 @@ But my interviewees couldn't.
 > *The idea of 'transfer' is *not* true. More than a mirage, such an idea is a scam.*
 
 
-Excerpt from: Scott Young, "Ultralearning."
+Excerpt from Scott Young, *Ultralearning*:
 
-*…. in almost all the empirical work to date, on the role of example solutions. A student who has studied examples often cannot solve problems that deviate slightly from the example solution.*
-
-*... Students receive honors grades in college-level physics courses. The same students are frequently unable to solve basic problems and questions encountered in a form slightly different from that on which they have been formally instructed and tested."*
+*Students receive honors grades in college-level physics courses, yet are frequently unable to solve basic problems in a form slightly different from that on which they were instructed and tested.*
 
 **Transfer trap—traps us into thinking that using a piece of information in one context helps us use it in another.** Simply *not* true.
 
@@ -161,7 +151,6 @@ And this is the reason we go through the torture of college and end up with poor
 
 But here we are. Since getting upset gets us nowhere, what do we do?
 
-With this awareness, let's turn to practical solutions.
 
 ## What to Do
 
@@ -173,19 +162,11 @@ Since our problem is indirect learning, our solution is: **Direct learning**
 
 Here is a true story that describes it.
 
-Excerpt from: Scott Young, "Ultralearning."
+Excerpt from Scott Young, *Ultralearning*:
 
-*Vatsal Jaiswal moved to Canada to become an architect. But just a few years after the 2007 market crash, getting a job was nearly impossible. Firms were laying off even experienced architects.*
+*Vatsal Jaiswal moved to Canada to become an architect, but a few years after the 2007 crash, firms were laying off even experienced architects. Jaiswal sensed the companies didn’t see him as useful — his schooling had focused on design and theory, on projects isolated from the reality of building codes, construction costs, and the software firms actually use. Hiring him would mean training him, which few firms could afford.*
 
-*.... Vatsal sensed that the companies didn't see him as a useful employee. He had studied architecture in school, but his program had focused on design and theory. He had trained in projects that were isolated from reality. The reality of building codes, construction costs, and tricky software. Because his portfolio of school projects didn't resemble real-world projects. So, firms thought hiring him would involve training, something few firms could afford.*
-
-*... He needed to show them that, rather than being a burden, he could get to work straight away and be valuable from day one.*
-
-*To do this, he would need to learn how architects actually drew building plans with all the details. To do that, he found a job at a print shop, the kind that does printing for architectural blueprints. The job allowed Jaiswal to absorb details about how the drawings were put together.*
-
-*Next, Jaiswal self-learned a design software called Revit. The software was commonly used at architecture firms.*
-
-*Finally, with Revit and his new knowledge, he created a new portfolio. After a few months of work, he was ready. New portfolio in hand—Jaiswal submitted it again, this time to just two architecture firms. **To his surprise, they both immediately offered him a job**.*
+*So he set out to close that gap. He took a job at a print shop that printed architectural blueprints, absorbing how real drawings are put together. He taught himself Revit, the design software common at architecture firms. Then he built a new portfolio and submitted it to just two firms.* ***To his surprise, both immediately offered him a job.***
 
 Jaiswal's story highlights a few points:
 
