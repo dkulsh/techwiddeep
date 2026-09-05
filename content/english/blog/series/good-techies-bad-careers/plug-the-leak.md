@@ -14,14 +14,7 @@ toc: false
 
 ##### Recap
 
-The *best engineers* often don’t get the *best careers*. They miss out on opportunities, promotions, or assignments despite their talent. Instead, tier-2 or tier-3 players often succeed. This phenomenon *hurts techies* and prevents organizations from fully leveraging their team's strengths.
-
-This blog series explores why this happens and how to address it.
-
-
-Now, let's explore some remedies to the problem. The following is more a guideline than a map. I share what I can, with an open hand for help, to whoever asks.
-
-To better address these remedies, we first need to examine our underlying beliefs.
+*Previously:* we traced the paradox to blindspots, built the multiplication model (one zero-level skill zeroes your value), and catalogued the skills whose absence does the damage — English, dependability, temper, presentation, selling. Now, the repair. What follows is more a guideline than a map; I share what I can, with an open hand for help, to whoever asks.
 
 ---
 
@@ -65,7 +58,7 @@ The third image is what the world is like!
 
 **Your personal experiences make up maybe 0.00000001% of what's happened in the world but maybe 80% of how you think the world works.**
 
-People [believe what they've seen](http://www.collaborativefund.com/blog/were-all-out-of-touch/). This happen exponentially more than what they read about has happened to other people, if they read about other people at all.
+People [believe what they've seen](http://www.collaborativefund.com/blog/were-all-out-of-touch/). This happens exponentially more than what they read about has happened to other people, if they read about other people at all.
 
 We're all biased to our own personal history. Everyone.
 
@@ -97,7 +90,7 @@ In the IT industry, beliefs might look like:
 
   Translating to **not taking risks or not putting in backbreaking work, since these will spoil the fun**. Such an engineer will not work hard.
 
-> Our beliefs sometimes limit us from achieving more.
+> **Idea**: Our beliefs quietly limit what we attempt — and we rarely notice them doing it.
 
 I write this blog on a MacBook Pro. This machine is a good example for our discussion.
 
@@ -136,8 +129,6 @@ Poor looks, bad communication, etc., are ways by which techies themselves create
 
 So, the next time we techies feel judgmental about someone, let's **pause our judgment and play our curiosity.** Maybe we'll figure that it is less of the other person and more of us.
 
-Building on this understanding of perceptions, let's explore how to adopt better habits by observing successful individuals.
-
 ---
 
 #### Be a Good Copier
@@ -167,6 +158,7 @@ Here are the common characteristics I see...
   - They seem **pumped up**, rain or shine.
   - They speak **loud and clear**, reflecting their energy levels.
   - Their **posture is upright**.
+
 During PM Modi's first term, he went on many foreign trips. Upon landing, many journalists were tired of the long trip, but Modi seemed energetic. (Without political affiliations) Point is—**successful people are high-energy individuals**.
 
 - Other characteristics
@@ -197,8 +189,6 @@ At the same time, **I simply do not want to be a level 0 on my presentations.** 
 
 So, the next time you want to get better, look at the best and learn from them.
 
-Before implementing these changes, it's important to reflect on your personal approach to transformation.
-
 ---
 
 #### Before the Change
@@ -216,8 +206,6 @@ But again, this is just me. Are you a full-thrust propeller? Or are you a step-b
 Square pegs for square holes and round ones for round holes. Choose the method that suits your personality.
 
 {{< figure src="/images/good-techies-bad-careers/change-approach.png" alt="Change Approach" >}}
-
-With this self-awareness in place, let's dive into the actual process of change.
 
 ---
 
@@ -261,8 +249,6 @@ While I advise you to be mindful of your change preferences, do not take an eter
 
 As Nike says... **just do it**.
 
-Once you've begun making changes, persistence is key to seeing results.
-
 ---
 
 #### After the Change
@@ -287,15 +273,11 @@ Also, tracking progress is important for growth. But certain skills cannot be me
 
 **I have found that these skills are more difficult to learn and more valuable**. Mindfulness is not taught in college because it cannot be graded. But not having a grading system does not mean we should not learn these skills. We still own that responsibility. So, measure or no measure, we ought to march on.
 
-Beyond personal efforts, the surroundings we choose can significantly influence our progress.
-
 ---
 
 ##### Environment
 
-*"Environment is the invisible hand that shapes human behavior. We tend to believe our habits are a product of our motivation, talent, and effort. Certainly, these qualities matter. But the surprising thing is, especially over a long time period, your personal characteristics tend to get overpowered by your environment."*
-
--James Clear
+James Clear puts it well: *"over a long time period, your personal characteristics tend to get overpowered by your environment."* Which means the real lever isn't just willpower — it's choosing the room you spend your time in.
 
 As an Indian, when I traveled abroad, I observed some immediate environment change effects.
 
@@ -328,6 +310,8 @@ If our environment influences our behaviors, then we can choose our environments
 T. Harv Eker says something on the lines of: *"If someone has a leaky bucket, then no matter how much water might be put in the bucket with the best possible efficiency, the water will finally drain away."*
 
 **Missing skills are like holes in a techie's bucket**. Technology might fill the bucket with lots of water, but holes will drain all the water away.
+
+> **Idea**: Skills fill the bucket; blindspots are the holes. Plug the holes before pouring in more water.
 
 {{< figure src="/images/good-techies-bad-careers/leaky-bucket-analogy.png" alt="Leaky Bucket Analogy" >}}
 
