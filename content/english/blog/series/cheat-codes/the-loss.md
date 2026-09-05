@@ -10,18 +10,14 @@ author: "Deep Kulshreshtha"
 tags: ["cheat-codes", "workplace-psychology", "career-development"]
 draft: false
 weight: 4
-toc: true
+toc: false
 ---
 
 #### Recap
 
-Some people thrive at tech companies without doing any meaningful work. They cheat their way through. As part of the blog series, we discuss this phenomenon.
-
-Such people use tricks to game the system. We refer to these tricks as cheat codes.
+*Previously:* we defined the cheat code, catalogued its forms, and unpacked why tech is such fertile ground for it. Now, the bill — the losses cheat codes inflict on both organizations and individuals.
 
 ![Image](/images/cheat-codes/the-loss/cheat-codes-loss-cover.png)
-
-We've talked about various forms of cheat codes and the reasons they thrive at software organizations. Now, let's explore the losses they cause to both organizations and individuals.
 
 Cheat codes create many troubles. Some are immediate, while others are ripple effects. Ripple effects have bigger impacts on both individuals and organizations. Let's examine them.
 
@@ -44,6 +40,8 @@ The construction industry has an advantage. They can see any faults in the pilla
 In the tech domain, loss is *not* visible to the naked eye. The fact that other pillars take added load is often not known to management or leaders.
 
 This means that many techies end up taking more load than required, without even getting a pat on the back.
+
+> **Idea**: When one pillar shirks, the load doesn't vanish — it lands, invisibly, on the strongest people around it.
 
 Here is my experience.
 
@@ -72,6 +70,8 @@ If this wasn't enough, my manager received all the bonuses and salary hikes. �
 
 This means the inefficient cog in the system was moved to a position of higher authority, allowing an even bigger impact.
 
+> **Principle**: Promote a cheatcoder and you don't contain the damage — you scale it.
+
 Large organizations end up becoming more and more inefficient. If you've known a startup versus a large IT organization, this should make sense.
 
 Invisible load causes:
@@ -79,8 +79,6 @@ Invisible load causes:
 - Best techies to move out of an organization.
 - Second- or third-rate techies to be promoted, leading to sub-standard leaders for larger teams.
 - Organization to become more inefficient in the long term.
-
-Building on this, let's look at how such environments shape behaviors.
 
 ##### Training Lethargy
 
@@ -132,8 +130,6 @@ This means:
 - For the organization, cheat coding created an inefficient team and "trained" the team to stay inefficient.
 - Lethargy was a compounding loss to the organization (of competitiveness, new business, financial, and more).
 
-These patterns extend to how teams operate under pressure.
-
 #### Rocking Chair Mode
 
 ![Image](/images/cheat-codes/the-loss/rocking-chair-mode.jpg)
@@ -157,7 +153,7 @@ I've known teams whose work cycle was always in firefighting mode. In firefighti
 
 An organization ended up building a website in 20,000 hours!
 
-For laymen, latest frontend technologies allow basic applications to be built within one hour. I want to allow a few minutes for the numbers to sink in: 1 hour versus 20,000 hours.
+Now, "a website" spans everything from a weekend scaffold to a genuine enterprise product—so forget any exact ratio. But even granting every fair complication, this was *many times* the effort the work honestly needed. Sit with that for a second: a five-figure-hour bill for something a healthy team would have shipped in a fraction of it.
 
 This brings me to the point: the loss to individuals versus the organization.
 
@@ -195,13 +191,13 @@ High maintenance costs do two things:
 
 Money is lost.
 
-Beyond individual impacts, these issues can spread like an infection.
-
 #### Infection
 
 "Environment is the invisible hand that shapes human behavior. We tend to believe our habits are a product of our motivation, talent, and effort. Certainly, these qualities matter. But the surprising thing is, especially over a long time period, your personal characteristics tend to get overpowered by your environment."
 
 -James Clear
+
+> **Principle**: Over time, environment overpowers character — culture trains people faster than they resist it.
 
 Good, smart, motivated individuals do join a cheat code team. But one of two things happens:
 
@@ -230,8 +226,6 @@ For the individual, the longer the bug survives, the more harm it does to the te
 It takes a truly strong mind to reform oneself or an organization.
 
 ![Image](/images/cheat-codes/the-loss/strong-mind.jpg)
-
-This infected environment often leads to broader toxicity.
 
 #### Toxicity
 
@@ -270,8 +264,6 @@ For organizations, this toxicity results in:
 - Caustic Glassdoor reviews.
 - Money down the drain!
 
-Such toxicity stifles innovation and progress.
-
 #### No Sailings to New Seas
 
 **True story...**
@@ -307,8 +299,6 @@ The same happens with individuals in perpetual "rut" work:
 - People stop experimenting. New technologies offer efficient solutions to existing problems. When people stop trying, solutions are not sought.
 - Techies get stuck in their careers. They do not get jobs and complain about lack of opportunities.
 
-In summary, these issues prevent growth and fulfillment.
-
 #### Conclusion
 
 James Clear in his book *Atomic Habits* mentions he became a good athlete but wasn't able to join professional sports. Even so, he fulfilled his potential.
@@ -325,7 +315,7 @@ This brings me to my next point: What steps can be taken to prevent cheat code i
 
 ![Image](/images/cheat-codes/the-loss/conclusion.png)
 
----
+<hr>
 
 ## Series Navigation
 

@@ -10,7 +10,7 @@ author: "Deep Kulshreshtha"
 tags: ["cheat-codes", "workplace-psychology", "career-development"]
 draft: false
 weight: 1
-toc: true
+toc: false
 ---
 
 Some people thrive at tech companies without doing any meaningful work. I found this interesting.
@@ -35,9 +35,9 @@ Some folks are able to game the system to their unfair advantage. Here's an exam
 
 This behavior is very common at, and very hurtful to, software companies. At the same time, this inefficiency is little understood. This surprises me.
 
-My intent is to explain the phenomenon in a simple and understandable language.
+> **Idea**: Some people don't just survive without doing the work — they *thrive*. Understanding how is the whole game.
 
-To better understand the implications, let's explore why this matters to you.
+My intent is to explain the phenomenon in a simple and understandable language.
 
 #### Why Should You Care
 
@@ -66,8 +66,6 @@ Knowledge is power. Without knowledge, the weak tend to get walked over. If you 
 
 In short, this understanding might save your career, team, organization, or all three.
 
-Now that we've established the importance, you might wonder about my qualifications to discuss this topic.
-
 #### What Does a Blogger Know About Management Inefficiencies?
 
 ![Image](/images/cheat-codes/intro-to-cheatcodes/management-inefficiencies-quote.jpg)
@@ -83,8 +81,6 @@ I quote a Shane Parrish blog (knowing well that quoting another blog makes the a
 "Knowledge is hard to come by."
 
 "It takes work and commitment, and I think we owe it to ourselves to take it out of the box it comes in and experiment with it. We should blow past conformity and *apply all the knowledge at our disposal to the problems and challenges we face every day*."
-
-Building on this perspective, let me share why I feel equipped to address these issues.
 
 #### Qualified?
 
@@ -102,8 +98,6 @@ Also, I have the talent for introversion! While this is a drawback when courting
 
 I have used my talent to look beneath the surface and understand issues a bit more than some others.
 
-With this background in mind, let's define what success looks like for this blog series.
-
 #### Success Criteria
 
 I will consider my blog series successful when...
@@ -112,8 +106,6 @@ I will consider my blog series successful when...
 - Importantly, my reasons are able to carry the weight of my opinions (fancy dialogue, impressed with myself). Also, that I am able to share information objectively and without bias.
 
 Hopefully, the material will be helpful.
-
-To guide you through the content, here's the planned sequence of topics.
 
 #### Sequence
 
@@ -133,8 +125,6 @@ The topic is serious. We'll try to flavor it with some easy-going language, ligh
 
 Additionally, I'll tend to present you with questions on a continuous basis; active engagement helps understand the subject better.
 
-Before diving in, a quick note on the intent and scope.
-
 #### Disclaimer
 
 ![Image](/images/cheat-codes/intro-to-cheatcodes/disclaimer-icon.png)
@@ -153,7 +143,7 @@ Let's get going!
 
 ![Image](/images/cheat-codes/intro-to-cheatcodes/lets-get-going.png)
 
----
+<hr>
 
 ## Series Navigation
 
