@@ -1,208 +1,161 @@
 ---
 title: "Achieve Co-operation at IT Companies"
-meta_title: "Mastering Teamwork and Collaboration in IT Companies"
-description: "Learn effective strategies for fostering cooperation and collaboration in IT companies. Discover how to build strong teams and create a positive work environment."
-date: 2022-07-31
-image: "/images/achieve-cooperation.jpeg"
-categories: ["IT", "Teamwork", "Leadership"]
+meta_title: "Achieve Co-operation at IT Companies - Building Effective Systems"
+description: "Explore systematic approaches to achieving cooperation and delivering results in IT companies through effective performance systems, bonuses, and team building strategies."
+date: 2022-07-31T00:00:00Z
+image: "/images/cooperation part 2/cooperation-intro.jpeg"
+categories: ["Business", "Management"]
 author: "Deep Kulshreshtha"
-tags: ["blog-series", "cooperation", "teamwork", "IT culture"]
+tags: ["cooperation", "it-companies", "performance-systems", "team-building"]
 draft: false
 weight: 1
 toc: false
 ---
 
-> *"Achieving cooperation and delivering is a priority for IT companies. Their bread and butter too!"*
+#### Intro
 
-And yet, Missed timelines, delayed projects, stretching programs, over-budgeted portfolios — all too common.
+> Achieving cooperation and delivering is a priority for IT companies. Their bread and butter too!
 
----
+Missed timelines, delayed projects, stretching programs, over-budgeted portfolios are common. Equally so within the IT industry.
 
-#### 🛠️ The "Systems" Created to Solve These
+To solve these problems, organizations create systems. Like:
 
-To address these, organizations come up with **systems** like:
+- Bonuses
+- Performance reviews
+- HR practices
+- Team exercises
+- Parties, excursions, etc.
 
-- Bonuses  
-- Performance reviews  
-- HR practices  
-- Team exercises  
-- Parties, excursions, etc.  
+These are all to build teams and so cooperation.
 
-These are all meant to **build teams** — and *cooperation*.
+**As part of this blog series, we look at "systematic" concepts that achieve cooperation. Or ought to.**
 
----
+#### Bonuses
 
-#### 🔍 What This Blog Series Is About
+Bonus: A monetary incentive for a certain behavior.
 
-As part of this blog series, we'll look at **"systematic" concepts** that aim to achieve cooperation.
+![Money Incentives](/images/cooperation part 2/money-incentives.jpeg)
 
-But we'll **start with what DOESN'T work.**
+Let us start with a few questions:
 
----
-
-#### 💸 Bonuses
-
-**Bonus:** A monetary incentive for a certain behaviour.
-
-##### 🤔 Let's Ask a Few Questions:
-
-- What behaviour should an IT company reward?
-  - Faster delivery – even if with some bugs?
-  - Quality delivery (zero P1 bugs) – even if delayed?
-  - Scalable design – with added development cost?
-  - More lines of code – even when it's repeated?
+- What behavior should an IT company reward?
+  - Faster delivery - even if with some bugs.
+  - Quality delivery (zero P1 bugs) - even if delayed.
+  - Scalable design - with added development cost.
+  - More lines of code - even when it's repeated.
   - Meeting timelines?
-  - Documentation?
+  - Documentation??
 
-> Answering these is **NOT easy** — because companies go through cycles where the desired behaviour **changes**.
+Answering the above questions is not easy, because companies go through cycles where the desired behavior changes.
 
-##### 🔄 Changing Scenarios
+*A startup needs fast delivery, whereas a large organization prefers quality. Furthermore...*
 
-- A startup needs **fast delivery**, while a large org prefers **quality**. And a startup might mature into a large company.
-- A large company might have a project needing **startup-style agility**.
-- Fast delivery might mean **zero documentation**, but …
-- A handover or attrition might demand **extensive documentation**.
+- *The startup might mature into a large organization.*
+- *And a large organization might have a new project that needs a startup-type handling.*
+- Fast delivery might mean zero documentation. On the other hand...
+- A handover or attrition might need loads of documentation.
 
-**So how do you give the bonus?**  
+In such changing scenarios, how do you give the bonus? Do we reward a different behavior each time?
 
-Do we reward **different behaviours every time**?
+#### Appraisal Reviews
 
----
+Performance review months at IT companies are the most unusual times.
 
-#### 📋 Appraisal Reviews
+- English suddenly becomes the language of communication.  
+  Especially with folks from the vernacular languages. *You see - vernacular is the casual mode of communication (but not during appraisal season).*
+- Unlike regular meetings that stretch unnecessarily, "review" meetings are short. (They are discomforting for both the appraisee and the appraiser.)
+- Eye contacts are avoided. (*Lest they tell the truth.*)
 
+Like the autumn months, the greenery in the office landscape dries and starts to die. In anticipation of the upcoming winters!
 
-Performance review months at IT companies are the **most unusual times**.
+- A lot of HR meetings happen.
+- Coffee time gossip floats in the air.
+- Folks of the same designation huddle with hushed voices.
+- A curtain builds between the "us" and "them".
 
-- **English** suddenly becomes the language of communication.  
+It's a time for revenge, grievances, proving, and other things. Many times it is not for performance reviews, and is for everything else.
 
-  Especially among vernacular speakers. (Vernacular is casual — but not during appraisals!)
+![Appraisal System](/images/cooperation part 2/appraisal-system.png)
 
-- **Regular meetings** stretch unnecessarily.  
-  
-  'Review' meetings are short — *discomforting* for both sides.
+**But why?** Here are some reasons appraisal systems give us heartburns.
 
-- **Eye contact? Avoided.** (Lest it reveals too much!)
+- Virtual Nature of a Software  
+  *We cannot see, touch, smell, taste, or feel software. This puts us at an immediate disadvantage while evaluating a piece of code or a techie.*  
+  This is a major reason performance reviews are difficult.  
 
-🌿  _Like Autumn, the greenery in the office fades — in anticipation of the coming winter._
+![Performance Matrix](/images/cooperation part 2/performance-matrix.jpeg)
 
-- A lot of **HR meetings** happen.
-- **Coffee-time gossip** floats around.
-- Folks of the same designation **huddle in whispers**.
-- A **curtain** builds between *"us" and "them"*.
+A detailed blog on the topic @ [Why IT industry is fertile ground for Cheatcodes](https://techwiddeep.com/why-it-industry-is-a-fertile-ground-for-cheatcodes/)
 
-It's a time for **revenge**, **grievances**, **proving** — and sometimes *anything but performance reviews*.
+- Human Variables  
+  Humans are complex creatures. With our experiences and preferences, we are a recipe for imperfection.  
+  Here are some factors that add to the broken system.  
 
+  - Being Judged is Discomforting  
+    An Indian girl dresses up to be "seen" by a guy's family. Ask her how she feels. Anxiety, stress, tense, pressure would be some of the words used.  
+    Being judged in a professional environment is not very different. It creates anxiety.  
 
----
+  - Comparison  
+    "Apples to Oranges" do happen (and wastefully so).  
 
-##### 🧠 But Why? What's Broken?
+  - Biases  
+    People bring their biases into performance discussions too. Dress code might become more important than the actual code.  
 
+  - Only Critiques, No Suggestions  
+    Critiquing is easy and recommending is difficult. Many a time - with only criticism and no help. Appraisals turn into a humiliation exercise.  
 
-###### 🖥️ The Virtual Nature of Software
+  - One Sided
+  - Standard/Bureaucratic
+  - Phony Feedbacks
 
-We **cannot see, touch, or feel** software.  
-This puts us at a **major disadvantage** while evaluating code or a developer.
+IT companies depend on such systems for their growth. A system with so many flaws is at best unhelpful, and at worst a hypocrisy.
 
-> This is a *MAJOR* reason why performance reviews are so difficult.
+#### Team Building - Parties, Excursions
 
-📝 *Detailed post:* [Why IT industry is fertile ground for Cheatcodes]
+We pick the next tool set - from the HR's playbook. A team bowling event, a dine-out, paintball battles, secret santa, treasure hunts, cultural events, and more.
 
----
+I admit - these do build camaraderie. Just like going to the gym once a quarter builds our body!
 
-###### 👤 Human Variables
+While the events help, they are too few and far between to achieve any reasonable result.
 
-Humans are **complex**. Our experiences and preferences make us imperfect.
+I submit - **team building events delay any upcoming attrition at an organization**. That's it. Raising a team's productivity is too far-fetched a goal for these events to be able to achieve.
 
-Some issues with performance reviews:
+> **Idea**: Team-building events mostly delay attrition — expecting them to lift productivity is like expecting a quarterly gym visit to keep you fit.
 
-- **Being Judged is Discomforting**  
-  Imagine an Indian girl dressing up to meet a guy's family.  
-  She'll describe it as anxious, stressful, tense.  
-  Being judged at work? *No different.*
+#### To Be or Not to Be - 'Tis the Question
 
-- **Comparison**  
-  *Apples to oranges* — it happens, and is **wasteful**.
+With all the flaws of bonuses, appraisal systems, or team building systems, do we abandon them?
 
-- **Biases**  
-  Dress code sometimes gets more weight than the **actual code**.
+**I disagree**. Abandoning such systems would create a "socialist" structure. One with no disincentive to be lazy, and no incentive to work hard.
 
-- **Only Critiques, No Suggestions**  
-  Criticism is easy. Suggestions? Not so much.  
-  Appraisals often become a **humiliation exercise**.
-
-- **One-sided**  
-- **Standard / Bureaucratic**  
-- **Phony Feedback**
-
-> And **IT companies depend on these** for growth.  
-> A system so flawed is at best **unhelpful**, and at worst **hypocritical**.
-
----
-
-##### 🎉 Team Building — Parties, Excursions
-
-Next up — the **HR playbook**:
-
-- Bowling events  
-- Dine-outs  
-- Paintball  
-- Secret Santa  
-- Treasure hunts  
-- Cultural events  
-
-✅ These **do** build camaraderie.  
-❌ But only like **going to the gym once a quarter** builds your body!
-
-> These events help — but are too **rare** to be effective.
-
-**My view?**  
-Team building events delay **attrition**, and *that's it*.  
-Raising productivity? *Too far-fetched*.
+No software company can survive such neglecting techies.
 
 ---
 
-#### 🧭 To BE or Not To Be?
+*During Soviet Union times, everyone stood the same risk of going to the Gulags.* ***So, everyone stopped working.***
 
-With all the flaws of:
+*You see - when everyone stands the same chance of being imprisoned. Being lazy and sent to Siberia sounds better than working hard and going there!*
 
-- Bonuses  
-- Appraisals  
-- Team Building events  
-
-**Do we abandon them?**
-
-**I disagree.**  Abandoning these creates a **socialist** structure:  
-- No disincentive to be lazy  
-- No incentive to work hard  
-
-No software company can survive that.
-
-🧊 Remember the Soviet Union?  
-
-Everyone had the **same risk** of going to the Gulags. So — everyone stopped working!
-
-> Why work hard and get jailed… when you could be lazy and still end up in Siberia?
-
-Same logic applies in an IT company.
+*Same would happen at an IT organization.*
 
 ---
 
-#### 🏗️ So, what do we do ?
+The answer then is to redesign the systems with some important characteristics.
 
-**Redesign the systems** — but with the **right characteristics**.
+#### The Pillars of a Cooperation Achieving System
 
----
+This is where our blog series begins. In the next set of blogs, we talk about pillars of a cooperation achieving system.
 
-##### 🌱 The Pillars of a Cooperation-Achieving System
+As always, I speak only about the tech industry. Let's begin...
 
-This is where our **blog series begins**.  
+Pillar 1: [Quick Detection of Behaviour](/blog/series/cooperation-at-it-companies/quick-detection/)
 
-In the upcoming posts, we'll talk about **pillars of a cooperation-achieving system**.
+![Quick Detection](/images/cooperation part 2/quick-detection.png)
 
----
+<hr>
 
-**Let's begin.**
+## Series Navigation
 
+**Next →**: [Quick Detection of Behaviour](/blog/series/cooperation-at-it-companies/quick-detection/)
 
-##### 🧱 Pillar 1: [Quick Detection of Behaviour]({{< relref "quick-detection.md" >}})
+**Series Progress**: Part 1 of 7 | [View All Posts](/blog/series/cooperation-at-it-companies/)

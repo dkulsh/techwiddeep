@@ -1,182 +1,140 @@
 ---
 title: "Achieve Co-operation | Quick Detection"
-meta_title: "Quick Detection of Cooperation Issues in IT Teams"
-description: "Learn how to quickly identify and address cooperation issues in IT teams before they escalate. Discover early warning signs and practical solutions."
-date: 2022-08-01
-image: "/images/quick-detect.jpeg"
-categories: ["IT", "Teamwork", "Leadership"]
+meta_title: "Quick Detection of Behavior for Cooperation in IT Companies"
+description: "Learn how quick detection of behavior helps achieve cooperation at IT companies through immediate feedback and effective performance monitoring systems."
+date: 2022-07-31T00:00:00Z
+image: "/images/cooperation part 2/detection-detective.png"
+categories: ["Business", "Management"]
 author: "Deep Kulshreshtha"
-tags: ["blog-series", "cooperation", "teamwork", "IT culture"]
+tags: ["cooperation", "detection", "performance-monitoring", "feedback"]
 draft: false
 weight: 2
 toc: false
 ---
 
-#### How quick 'detection' of behaviour helps achieve cooperation at IT companies
+How quick detection of behavior helps achieve cooperation at IT companies.
+
+#### Recap
+
+*Previously:* we saw why the usual cooperation systems — bonuses, appraisals, team-building — don't work on their own, and resolved to redesign them around a few characteristics. Continuing from [How to Achieve Co-operation](/blog/series/cooperation-at-it-companies/achieve-cooperation/), we begin with the first pillar.
+
+![Behavior Detection](/images/cooperation part 2/behavior-detection.png)
+
+#### Quick Detection of Behavior
+
+If I, as a software developer, am being lazy, then even before I can be punished, my cheating must be detected. More importantly, it must be done quickly.
+
+If the detection is fast and accurate, the punishment (or reward) can be immediate and precise.
+
+- If I cheat, immediate punishment reduces my profit and increases its cost.
+- If I perform, an immediate reward increases my ROI.
+
+Immediacy thus boosts the prospects of successful cooperation within an organization.
+
+Conversely, if my performance is rewarded quickly, it reinforces the behavior. If not, I might attribute rewards to luck, communication, attendance, or other factors.
 
 ---
 
-##### **Backstory**
+A good example is Pavlov's experiment. Ivan Pavlov rang a bell each time he fed his dogs. As expected, the dogs salivated upon seeing the food. Eventually, they associated the bell with food.
 
-Achieving co-operation and delivering is a priority for IT companies. Their bread and butter too!
+Later, Pavlov simply rang the bell, and the dogs salivated. Had the food been served hours after the bell, would we see the same results? No!
 
-Missed timelines, delayed projects, stretching programs, over-budgeted portfolios are common — especially in IT.
+If the stimulant and stimulus are too far apart, the behavior will not be reinforced.
 
-To solve these problems, organizations create systems like performance bonuses, HR practices, team exercises, parties, and excursions.  
+The same principle applies to software engineers.
 
-All of this is aimed at one thing — **building co-operation**.
-
-As part of this blog series, we look at *systematic* concepts that achieve cooperation — or ought to.
-
-Continuing from [_How to Achieve Co-operation_]({{< relref "achieve-cooperation.md" >}}) , we now begin with **Pillar 1**.
+> **Principle**: If the reward drifts too far from the behaviour, the behaviour stops sticking — a yearly review turns laziness into a great investment.
 
 ---
 
-#### **Quick Detection of Behaviour**
+##### Quick Detection
 
-If I, a software developer, am being lazy — then before I can be punished, my cheating **must be detected**.  
+Consider a team of 10 developers where Deep is a lazy one.
 
-Even more importantly, it must be detected **quickly**.
+His code fails to address all use cases, is buggy, poorly designed, and delivered late.
 
-If detection is **fast and accurate**, then the **punishment or reward** can also be **immediate and accurate**.
+Deep's lead quickly notifies their manager. The manager reviews the details and issues a guilty verdict.
 
-- If I cheat, quick punishment reduces my benefit and increases the cost.
-- If I perform well, a quick reward increases my ROI.
+Within a few days, Deep is critiqued and asked to improve. Since the reprimand is immediate, he gains little benefit from his lethargy.
 
-> Immediacy increases the likelihood of cooperation in an organization.
+The ROI on lethargy is very low, and Deep is likely to correct his behavior quickly.
 
-On the flip side, if performance is rewarded too late, I might think the reward is due to other factors —  
-like luck, attendance, or just being visible.
+On the other hand, waiting a year for a performance review makes the ROI huge for Deep.
 
----
+#### Slow Detection
 
-##### **Pavlov's Experiment**
+From the same team of 10 developers, suppose some collude to avoid work. They make an understanding with their lead, who hides their mistakes and covers for them. In turn, the developers support the lead when needed.
 
-A classic example: **Pavlov's dogs**.
+Together, they devise tricks to divert accountability, redirecting questions to the business team, product owner, architect, or manager.
 
-Ivan Pavlov rang a bell each time he fed his dogs. At first, they salivated at the sight of food.  
+If you think this is uncommon in large organizations, think again.
 
-But soon, they began to salivate **just by hearing the bell** — they associated sound with food.
+Now cheating has become more complex, with additional dimensions:
 
-Now imagine if the food came **hours** after the bell. Would the dogs behave the same way?  
-**Nope !**
+- MVP version (minimum viable product)
+- Delivery time
+- Quality
+- Requirements
+- Cross-commit teams
+- Internal teams
+- Processes
 
-> If the stimulant and stimulus are too far apart, the behaviour doesn't stick.
+![Complex Detection](/images/cooperation part 2/complex-detection.jpeg)
 
-**Same goes for software engineers.**
+Leadership cannot always scrutinize each dimension, so cheating is detected much later. This incentivizes laziness for developers.
 
----
+In fact, many leaders are incapable of verifying all dimensions and only review final stages, such as:
 
-#### **Quick Detection**
-
-Let's take an example.
-
-You have a team of 10 developers. **Deep is a lazy one!**
-
-His code is buggy, doesn't handle all cases, is late, and poorly designed.
-
-Now if Deep's lead quickly escalates the issue. And management reviews it fast, then:
-
-- Deep gets **immediate feedback**.
-- He is **reprimanded within days**.
-- The **ROI on his lethargy is low**, and chances are, Deep corrects himself quickly.
-
-> But wait a full year for a performance review?
->
-> The ROI of being lazy becomes **HUGE**.
-
----
-
-#### **Slow Detection**
-
-Let's say some devs in the same team start **colluding**.  
-
-They strike a deal with the Lead — hide their issues in exchange for extra effort when needed.
-
-They learn how to **divert accountability**:
-
-- Pass questions to Product Owners.
-- Blame Business Analysts.
-- Escalate to Architects or Managers.
-
-> Think this doesn't happen in big organisations ? Think again.
-
-Now, cheating becomes **multi-dimensional**:
-
-- MVP version
-- Delivery timelines
-- Code quality
-- Requirements shifting
-- Team inter-dependencies
-- Internal politics
-- Process workarounds
-
-**Leadership can't monitor everything. Period !**
-
-So detection happens late — giving more room to slack off.
-
-Even capable leaders may only review end-stage deliverables like:
-
-- Bug counts
+- Number of bugs
 - Client feedback
-- Software polish
+- Sales team review
+- Delivered software feel
+
+This introduces more complexity.
+
+Unfortunately, these factors have other influences:
+
+- The client might give poor feedback to promote a competitor.
+- Product owners might not be competent to review technology.
+- Bugs might be beyond the current scope.
+
+![Detection Complexity](/images/cooperation part 2/detection-complexity.jpeg)
+
+With all these complexities, detection and punishment become slow and inaccurate, raising the temptation to cheat.
+
+I claim that all large IT companies, including Infosys, TCS, Cognizant, and Wipro, face this problem.
+
+If the system detects lethargy slowly and only partially, then being lazy might seem appealing.
+
+#### The Scale Problem
+
+Consider an organization with about 100 employees and a hierarchy of around five layers.
+
+Management must answer additional questions:
+
+- Has cheating occurred?
+- At which hierarchy or hierarchies did it occur?
+- Who has cheated?
+
+The scale problem compounds other issues, such as collusion, complexities, monitoring ability, and external factors.
+
+If resolving these is slow, people have incentives to cheat.
+
+#### Wrap Up
+
+Quick detection is essential for generating cooperation in an IT company. An annual or quarterly review does not serve this purpose well.
+
+In other words, a good performance review system requires quick detection of behavior.
+
+Excerpts from: *The Art of Strategy*
+
+Next, we discuss the "[Nature of Rewards](/blog/series/cooperation-at-it-companies/nature-of-incentives/)" in a performance system.
 
 ---
 
-###### **Even more Complexity!**
+## Series Navigation
 
-Unfortunately, even the above signals aren't reliable:
+**← Previous**: [Achieve Co-operation at IT Companies](/blog/series/cooperation-at-it-companies/achieve-cooperation/)  
+**Next →**: [Nature of (dis)Incentives](/blog/series/cooperation-at-it-companies/nature-of-incentives/)
 
-- A client may give bad feedback to promote a **competitor**.
-- Product Owners may not understand **tech quality**.
-- Bugs might be **out of scope**.
-
-> Slow and partial detection === High temptation to cheat.
-
-This issue plagues **large IT firms** like Infosys, TCS, Cognizant, Wipro — you name it.
-
-When systems detect issues **late**, **lazy behaviour becomes incentivized**.
-
----
-
-#### **The Scale Problem**
-
-Take an org with ~100 employees and a 5-layer hierarchy.
-
-Management now has to figure out:
-
-- **Has cheating occurred?**
-- **At which layer(s)?**
-- **Who was involved?**
-
-This is on top of:
-
-- Collusion  
-- Complexity  
-- Monitoring limits  
-- Accountability gaps
-
-> Slow answers === High incentives to cheat.
-
-This is not an isolated problem. It's **systemic** in all large companies.
-
----
-
-#### **Wrap Up**
-
-To generate co-operation in an IT company, **quick detection** is essential.
-
-**Annual or quarterly reviews**?  Forget about it !!
-
-> A good performance system **must include quick detection of behaviour**.
-
----
-<div align="right">
-Excerpts from: The Art of Strategy
-</div>
----
-
-
-##### ✅ Coming up next:  
-
-[**The "Nature of Rewards" in a Performance System**]({{< relref "nature-of-incentives.md" >}})
+**Series Progress**: Part 2 of 7 | [View All Posts](/blog/series/cooperation-at-it-companies/)
