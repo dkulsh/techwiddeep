@@ -7,7 +7,7 @@ image: "/images/software-building-machine/software-machine-cover.jpg"
 categories: ["Software Development", "Business Strategy"]
 author: "Deep Kulshreshtha"
 tags: ["software-engineering", "business-analysis", "team-management"]
-draft: false
+draft: true
 weight: 1
 ---
 
