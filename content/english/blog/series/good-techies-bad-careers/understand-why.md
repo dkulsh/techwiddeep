@@ -15,11 +15,7 @@ toc: false
 
 ##### Recap
 
-The *best engineers* often don’t get the *best careers*. They miss out on opportunities, promotions, or assignments despite their talent. Instead, tier-2 or tier-3 players often succeed. This phenomenon *hurts techies* and prevents organizations from fully leveraging their team's strengths.
-
-This blog series explores why this happens and how to address it.
-
-To delve deeper, let's explore the concept of an engineer's "total value."
+*Previously:* the best engineers often don't get the best careers — we met Ravi, fired despite real talent, and Tripti, who kept her seat with weaker tech. The culprit is a **blindspot**: a skill you're missing without seeing that you're missing it. So why does one missing skill cost so much?
 
 #### Addition vs Multiplication
 
@@ -44,10 +40,11 @@ Individual skills themselves might be a collection of other skills. e.g.
 
 So, from our previous blog Tripti's total value might be calculated as:
 
-- **Tech**: 2 (database) + 3 (backend) + 1 (frontend) = 6
+- **Tech**: 1 (database) + 1 (backend) + 1 (frontend) = 3
 - **Communication**: 1 (English) + 3 (verbal) + 3 (written) = 7
-- **People**: 1 (politeness) + 3 (listening) + 3 (awareness) = 7
-- **Risk**: 1 + 3 + 3 = 3 (example breakdown)
+- **People**: 1 (politeness) + 3 (listening) + 3 (empathy) = 7
+- **Awareness**: 2 + 3 + 3 = 8
+- **Risk**: 1 + 1 + 1 = 3
 
 
 {{< figure src="/images/good-techies-bad-careers/skills-multiplication-formula.png" alt="Skills Multiplication Formula" >}}
@@ -61,9 +58,9 @@ Visual depiction...
 
 {{< figure src="/images/good-techies-bad-careers/skills-visual-representation.png" alt="Skills Visual Representation" caption="Visual representation of skill interactions" >}}
 
-**Tripti has low ratings in some areas like. technology, eisk etc. Even so the ratings are enough for her to be able to manage**. (*passing marks*)
+**Tripti has low ratings in a few areas — technology, risk — but even those are enough for her to manage** (*passing marks*).
 
-But, what if any one skill had the value of 0? Lets calculate again:
+But, what if any one skill had the value of 0? Let's calculate again:
 
 3 (tech) × 7 (comm.) × **0** (people) × 8 (awareness) × 3 (risk) = **ZERO**
 
@@ -78,13 +75,13 @@ With the multiplying effect, the total value comes down to Zero. This is what ha
 
 {{< bigtext >}}Since, any big number multiplied by zero equals zero. So, regardless of Ravi's tech skills, his final value to the company was 0.{{< /bigtext >}}
 
+> **Principle**: One zero-level skill zeroes your whole value — no amount of technical brilliance multiplies past a zero.
+
 ---
 
 This is what happens with many engineers. **One missing skill reduces their total value to the marketplace**.
 
 500 × 0 = zero and 500,000 × 0 = zero. Regardless of what effort is put towards technical improvement, **the end result is always zero**. (*folks would be better off focussing on the 'zero level' skills*)
-
-We've understood - some skills have an additive effect, while others have a multiplying effect on the value of an engineer. Let's take some examples to understand.
 
 #### Real World Examples
 
@@ -167,8 +164,6 @@ Did you notice: All engineers discussed were great at tech work.
 
 {{< bigtext >}}Think of someone with 5 hands but no eyes. Would such a person be valuable to you ?{{< /bigtext >}}
 
-These examples illustrate common pitfalls. Now, let's address potential objections.
-
 #### Objections
 
 {{< figure src="/images/good-techies-bad-careers/image9-223w251h.png" alt="Objections Handling" >}}
@@ -210,8 +205,6 @@ Notice that all 3 have different graphs. **Each brings a unique value to the tea
 {{< bigtext >}}People should be different. I submit that they should not have any 0 level skill.{{< /bigtext >}}
 
 Having the skill level of 1, and *not* 0… makes a world of difference.
-
-With these objections addressed, consider how engineers approach learning new skills.
 
 #### How Engineers Think About New Skills
 
@@ -261,8 +254,6 @@ Once Pradeep's new avatar is presentable, then he can choose to focus on either�
 This model should help techies understand **what skill ought to be at the top of their stack or queue** (*the techie inside wakes!*)
 
 First things first… alright! **Which is supposed to be first**, is often not well understood.
-
-Understanding this model reveals why some individuals have inherent advantages.
 
 ##### Why Some Have Advantage
 

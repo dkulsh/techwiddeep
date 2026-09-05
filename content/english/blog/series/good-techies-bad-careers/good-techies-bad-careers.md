@@ -83,19 +83,19 @@ One day, the organization had to downsize. Among the list of many incompetent de
 
 Another techie in the same team was a lesser developer. Let's call her Tripti.
 
-I would call her **a downright idiot**, but let's just agree that she was less competent than Ravi. Tripti wasn't fired despite the downsizing. This surprised me.
+She was less competent than Ravi, yet wasn't fired despite the downsizing. This surprised me.
 
 Her characteristics:
 
 - Struggled with basic programming logic despite years of experience.
 - Had *fair communication* and *people skills*.
-- Leveraged help from others to complete tasks, possibly due to charm or interpersonal abilities.
+- Got things done by enlisting help from others.
 
-Whenever she wasn't able to finish her work, she took help. Maybe it was her feminine charm or people skills, maybe both. But *she mostly got the work done*.
+Whenever she got stuck, she leaned on her people skills to get help — and *she mostly got the work done*.
 
 That's what matters anyway!
 
-{{< figure src="/images/good-techies-bad-careers/successful-colleague-example.jpeg" alt="Girl" >}}
+{{< figure src="/images/good-techies-bad-careers/successful-colleague-example.jpeg" alt="Colleague" >}}
 
 Tripti had gaps in tech skills. But **she was able to cover her gaps with her people skills. This has helped her avoid trouble to date.**
 
@@ -121,8 +121,6 @@ Better technical minds getting beaten is a common phenomenon. I've known MNCs, s
 **Question:** Perhaps I am biased towards one versus the other?
 
 Far from it. The blog is not a criticism of Tripti or techies like her. **It's recognition of the fact that she survived without technical skills. She must have some other skills that aren't commonly acknowledged.**
-
-Building on these stories, let's see how the narrative unfolded further.
 
 ## Story Continues
 
@@ -161,6 +159,8 @@ If another vehicle is in the blindspot area, then despite checking both mirrors,
 
 ***Blindspot* as a term has become synonymous with mistakes we make without realizing the consequences they create *(because we cannot see the consequence)*.**
 
+> **Idea**: The most dangerous career mistakes are the ones you can't see you're making.
+
 As part of this blog series, I intend to help techies see their blindspots.
 
 ##### Sequence
@@ -180,7 +180,7 @@ Before diving in, a quick note on the intent.
 
 {{< figure src="/images/good-techies-bad-careers/disclaimer-icon.png" alt="Disclaimer Image" >}}
 
-My goal is to help techies see their *weaknesses*, not to judge. I share *my perspective*, which may cause discomfort but is essential for growth.
+My goal is to help techies see their *weaknesses*, not to judge — and I've had my share. I dressed like a fool for years, and chased every new tech fad believing that alone would carry me, until some blunt feedback set me straight. So I write this from the same chair you're in, not from above it. I share *my perspective*, which may cause discomfort but is essential for growth.
 
 Let's get going!
 

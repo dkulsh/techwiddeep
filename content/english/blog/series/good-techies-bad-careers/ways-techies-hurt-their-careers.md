@@ -15,11 +15,7 @@ toc: false
 
 ##### Recap
 
-The *best engineers* often don’t get the *best careers*. They miss out on opportunities, promotions, or assignments despite their talent. Instead, tier-2 or tier-3 players often succeed. This phenomenon *hurts techies* and prevents organizations from fully leveraging their team's strengths.
-
-This blog series explores why this happens and how to address it.
-
-Now, let's examine the impacts of lacking zero-level skills and the benefits of developing them. To better understand these effects, consider real-world examples from the tech industry.
+*Previously:* we saw the paradox — great techies, stalled careers — named its cause (blindspots), and built the model behind it: skills *multiply* across domains, so a single zero-level skill drags your whole value toward zero. This part puts faces to that zero — the specific skills whose absence quietly sinks careers.
 
 #### English Vinglish
 
@@ -38,8 +34,6 @@ We've already talked about Ramesh. He is a great techie with many contributions 
 I know others like Ramesh—poor with English—who were asked to leave the organization. Leadership felt they added little value.
 
 Poor command of language impacts in many ways, from being unable to get a job to losing one.
-
-These language barriers extend beyond job security, affecting daily interactions and team dynamics.
 
 #### Dumb and Dumber
 
@@ -66,8 +60,6 @@ They are so consistent in their poor performance that:
 **One flaw—poor accountability—makes all their good qualities vanish into thin air.**
 
 Arpan and Praveen are relevant in the organization, but never in any relevant role.
-
-Beyond dependability issues, emotional control plays a crucial role in career progression.
 
 #### Anger Management
 
@@ -99,8 +91,6 @@ Rahul is too valuable to be punished. At the same time, not valuable enough to b
 
 **What Rahul doesn't realize is that he might retire like Dean in another 30 years.**
 
-Building on the theme of communication, politeness can make or break professional relationships.
-
 #### Thank You for Smoking
 
 "You don't understand!" said Piyush complainingly.
@@ -124,6 +114,8 @@ From a subordinate to a supervisor, these sound rude, even when unintentional. H
 - "Maybe **I wasn't able to explain** ?"
 
 The second way moves the onus of any mistake to oneself. Taking blame away from the listener makes a big difference.
+
+> **Idea**: Put the onus of a misunderstanding on yourself, not the listener — "was I able to explain this well?" opens people up.
 
 {{< figure src="/images/good-techies-bad-careers/communication-politeness.jpg" alt="Communication Politeness" >}}
 
@@ -158,15 +150,13 @@ Notice the "we." He made himself part of the group, giving the person at fault c
 
 Essentially, **Babar was conscious of his words from the listener's perspective. Words were his superpower.**
 
-Shifting from verbal skills, physical presentation also influences professional perceptions.
-
 #### Beauty and the Beast
 
 When Samurai (Japanese warriors) went to battle, they wore armor and masks. One function of the armor was protection. Another was to evoke *fear* in the enemy.
 
 Samurai focused on a purely cosmetic feature during the most serious time—a war, no less. **They understood the value of their looks and used it to their advantage.**
 
-> Looks have social value.
+> **Principle**: Looks have social value.
 
 Coming from a small-town culture, I learned the value of dressing sharp late. When I left my city for college, I observed a disconnect. Simply put, **everyone looked *nice*, and I did not.**
 
@@ -202,8 +192,6 @@ Presentability is a bottleneck in many engineers' careers.
 
 {{< figure src="/images/good-techies-bad-careers/presentability-bottleneck.jpg" alt="Presentability Bottleneck" >}}
 
-Beyond appearance, the ability to promote oneself effectively is key to career advancement.
-
 #### Selling
 
 *"Please don't ignore my post.*
@@ -214,11 +202,11 @@ Beyond appearance, the ability to promote oneself effectively is key to career a
 
 *Desperately looking for a job and ready to join immediately."*
 
-Would you hire this guy? What if I told you this is a real message from someone's LinkedIn profile?
+This is a real message from a LinkedIn profile. Reading it, you feel for him — but feeling for someone and *hiring* them are different things.
 
-**Success and opportunities go to people who deserve them, not those who beg for them.** Imagine a guy proposing to a girl saying, **"Please don't ignore me, but I am desperately looking for a girlfriend!"**
+**Opportunities go to people who look able, not to people who look desperate.**
 
-With such an opening, the guy would have a lifetime supply of virginity. 😁😁
+However unfair that sounds, desperation tends to repel the very help it's asking for.
 
 {{< bigtext >}}Selling skills are important.{{< /bigtext >}}
 
@@ -239,9 +227,7 @@ We have been selling all our lives. Do these ring a bell?
 
 Selling, negotiating, and similar skills are essential. People lacking them face troubles.
 
-*PS: I reached out to the LinkedIn guy and informed him that he needs to work on his skills.*
-
-Networking complements selling skills by opening doors to new opportunities.
+*PS: I did message him privately with a few specific suggestions — desperation is a fixable presentation problem, not a character flaw.*
 
 #### Do I Have To?
 
@@ -254,8 +240,6 @@ Think of skills as the tires of a car. When all tires are inflated, the car driv
 I survived without dressing up. *But I thrived when I looked sharp*. Life became colorful.
 
 We upgrade ourselves when we develop our skills—from a Maruti to a Honda, from a Honda to a Mercedes, from a Mercedes to a Ferrari!
-
-Now, let's explore how a well-rounded skill set benefits professionals in real scenarios.
 
 #### On the Other Side
 
@@ -310,7 +294,7 @@ We see that a rounded personality helps:
 
 We've seen the drawbacks of zero-level skills on a techie's career. We've also seen the benefits of rounded skills. While some suffer, others use holistic skills as their leverage.
 
-> A successful career needs multiple skills.
+> **Principle**: A successful career needs multiple skills.
 
 Humans have many intelligences. Some people are good at organizing, others at creativity, and others still at charming. While **some are natural abilities, others can be pursued actively.**
 
