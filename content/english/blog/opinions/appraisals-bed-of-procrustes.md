@@ -28,8 +28,6 @@ The point of the story is... **Procrustes had arbitrary and rigid standards of e
 
 ![Procrustes bed illustration](/images/appraisals-bed-of-procrustes/procrustes-bed-illustration.png)
 
-This ancient tale illustrates how rigid standards can lead to harmful outcomes, a pattern we still see today.
-
 #### Procrustean Ways
 
 We observe such ways commonly in our society.
@@ -38,7 +36,7 @@ We observe such ways commonly in our society.
 
 - Students scoring **above 90% are smart** (or those that clear IIT/IIM). All others are idiots.
 
-- Someone with a **$20 lakh per annum package** is better. And one with $8 lakh per annum is not as good.
+- Someone with a **₹20 lakh per annum package** is better. And one with ₹8 lakh per annum is not as good.
 
 Ever been judged by lines of `code` or hours clocked? The IT industry loves its Procrustean beds:
 
@@ -68,21 +66,14 @@ So, comparing 1 high-complexity issue to several low-complexity ones is poor thi
 
 Who has put in better work?
 
-Procrustean standards would say the developer. However, we know from experience that the 20% lines of code are more valuable. *Ever been shortchanged by a dumb metric?*
+Procrustean standards would say the developer. However, we know from experience that the 20% lines of code are more valuable.
 
 **Procrustean standards don't work in the real world!**
 
 
 Take a brilliant programmer from Kerala, coding like a wizard but struggling with English. The IT industry often shuns them for not fitting the “eloquent techie” mold. Yet, a kid like [Abhishek](https://www.newindianexpress.com/specials/2018/may/22/16-year-old-boy-from-kerala-wins-googles-international-open-source-software-code-in-contest-1817714.html) won Google’s open-source contest. Procrustean standards would’ve crushed him.
 
-> Arbitrary metrics kill talent instead of nurturing it.
-
-Imagine:
-- Sachin Tendulkar flunking school exams.
-- Angela Merkel missing the “36-24-36” beauty mark.
-- Richard Branson sidelined for ADHD.
-
-> Procrustean standards rob the world of genius.
+> **Idea**: A metric is a bed you cut people to fit — measure lines, hours, or tickets and you amputate everything that doesn’t fit the number.
 
 ##### Kill the Unfit
 
@@ -117,9 +108,9 @@ Economics tells us: If the "number of tickets" is the goal, then engineers targe
 
 More so, engineers purposefully create issues so they can be solved later and give them credit. Meaning, rewarding problem-solvers results in promoting the problems.
 
-*Explained this in another blog post:* [*The Cobra Effect - techwiddeep.com*](https://techwiddeep.com/the-cobra-effect/)
+*Explained this in another blog post:* [*The Cobra Effect*]({{< relref "the-cobra-effect.md" >}})
 
-> When metrics are the goal, quality takes a backseat.
+> **Principle**: The goal is to *deliver software* — hours, lines, tickets, and meetings are only means. Reward delivery, never the proxy.
 
 - Reward **12 hours**? People find busywork to fill it.
 - Count **tickets**? Every tiny task becomes one.
