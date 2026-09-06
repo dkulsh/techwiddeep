@@ -14,7 +14,7 @@ toc: false
 
 During British rule in India, the government grew concerned about cobra snakes and offered bounties for dead cobras. Initially, this strategy succeeded. However, creative individuals soon began breeding cobras to claim the rewards.
 
-When the British realized the issue, they abruptly ended the program. Without incentives, breeders released the snakes, leading to a yet another incrase population of the deadly reptiles.
+When the British realized the issue, they abruptly ended the program. Without incentives, breeders released the snakes, leading to yet another increase in the deadly reptile population.
 
 ##### Perverse Incentives
 
@@ -32,8 +32,6 @@ Sometimes, the reason is that rewarding problem-solvers promote the problems the
 {{< bigtext >}}If the incentive is to close a bug or resolve an issue, there is no incentive to avoid the problem in the first place.{{< /bigtext >}}
 
 If the incentive is to kill a cobra, it also sustains the cobra population.
-
-Now, let's add another dimension to the discussion.
 
 #### Visible vs. Invisible Work
 
@@ -55,11 +53,11 @@ Solving a bug usually requires:
 
    **This brings social status to the person.**
 
-> Solving an issue is a "visible" exercise, whereas avoiding one is an "invisible" one.
+> **Idea**: Solving a problem is *visible* work; preventing one is *invisible*. We reward what we can see — the cobra-killers, not the cobra-preventers.
 
 ![Visible Work](/images/cobra-effect/visible1.png)
 
-All of the above are visible tasks; {{< bigtext >}}they are also easy to reward.{{< /bigtext >}}
+All of the above are visible tasks; **they are also easy to reward.**
 
 In contrast, avoiding problems involves less noticeable efforts.
 
@@ -95,7 +93,7 @@ Do you focus on killing cobras or also on avoiding them? Do you choose invisible
 
 **Visible tasks are easier and more rewarding. Invisible tasks are difficult and not always rewarded.**
 
-{{< bigtext >}}Technology is opaque, and details of code or modules are hard to discern. You know more than your superiors do. {{< /bigtext >}} (I know it, and you know it).
+Technology is opaque, and details of code or modules are hard to discern. You know more than your superiors do. (I know it, and you know it).
 
 So, the next time you discover something important, informing the right parties is your responsibility, even if it isn't part of your defined role.
 
@@ -104,8 +102,6 @@ But why bother?
 That's a fair question. Consider this perspective: Job descriptions often include terms like "self-driven," "ownership," and "leader." **These imply that part of your salary compensates you for taking ownership**.
 
 If the business analyst, QA team, or manager becomes the scapegoat, **then you lack ownership and may not deserve your full salary**.
-
-Now, let's flip the equation.
 
 #### Seeking More Salary
 
@@ -126,7 +122,7 @@ My question is, are you focused on the short term or the long term?
 - **Short term**: Doing as told and keeping bosses happy might be better.
 - **Long term**: Performing invisible and difficult tasks is a stronger bet, even at the risk of being disliked or unrewarded.
 
-{{< bigtext >}}In the long term, your proactiveness *will* benefit you.{{< /bigtext >}}
+In the long term, your proactiveness *will* benefit you.
 
 
 #### Corporations: Rethink Rewards
@@ -161,6 +157,8 @@ In these cases, incentives become perverse, producing the opposite of the intend
 A public acknowledgment or thank-you note might suffice, but a promotion, raise, or bonus could have the opposite effect.
 
 Instead, rewards should tie to end goals, such as signoff, project delivery, handover to support, or meeting deadlines. In these cases, people focus on getting the job done rather than just solving more bugs.
+
+> **Principle**: Reward the end goal — delivery, sign-off, deadlines — not the bug count. Reward a signal and the signal becomes the goal.
 
 #### Final Advice
 
