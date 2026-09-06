@@ -28,8 +28,6 @@ Only our manager understood the complete software development cycle. **He was ou
 
 **Essentially, the manager was a shepherd for us sheep. And the "need for such a shepherd" created the need for the project manager role.**
 
-This evolution sets the stage for understanding their decline.
-
 #### Tasks
 
 People in the manager's role typically had some 5+ years of experience. And they did tasks such as:
@@ -46,8 +44,6 @@ In other words, his role was to "**oil the software-creating engine.**" An impor
 
 ![Oil Engine](/images/verge-extinction-pm/oil_engine1.jpeg)
 
-Building on these tasks, let's explore their characteristics.
-
 ##### Shallow
 
 **Shallow task**: one that takes less time to learn
@@ -56,8 +52,6 @@ Building on these tasks, let's explore their characteristics.
 Most, if not all, of a manager's tasks were "shallow" in nature. Meaning, the learning curve of each task was low. An average person could take up any one task after 1-2 weeks of training. Such **"shallow" nature of the tasks became the undoing of the role**.
 
 The shallow nature of the tasks also created a low entry barrier to this role. *The low entry barrier allowed many incompetents to become full-fledged managers in 3 to 6 months. But that's just me ranting.*
-
-This shallow aspect ties into another key factor.
 
 ##### Non-Core
 
@@ -76,6 +70,8 @@ A manager role had its need. He had the most understanding of the development pr
 #### Automation Age
 
 The age of tools began. Remember the "shallow" nature of tasks. A shallow task is easy to automate. So, many companies did!
+
+> **Idea**: Whatever is shallow — quick to learn — gets automated first. A role that only *oils* the engine, without ever touching the code, is the first to be optimized away.
 
 ![Automation](/images/verge-extinction-pm/automation.jpeg)
 
@@ -98,9 +94,7 @@ Version control: Git, Bitbucket, and others.
 - Repository confusions removed
 - Code check-ins risks averted
 
-A lot of work got automated, and **each automation chipped away at the manager's tasks**. Till one day, companies realized: **if half the tasks are automated, why pay a full-time employee for the remaining half? Managers became overpaid for their roles.**
-
-This shift prompted a reevaluation from the business side.
+A lot of work got automated, and **each automation chipped away at the manager's tasks**. Till one day, companies realized: **if half the tasks are automated, why pay a full-time employee for the remaining half? See where I am going? Managers became overpaid for their roles.**
 
 ##### Organization's Perspective
 
@@ -122,8 +116,6 @@ Sure, the software costs more, but it earns even more. Based on the cost-profit 
 ![Saving](/images/verge-extinction-pm/saving1.png)
 
 > *(Opportunity: If a company needs new software, then it also needs someone with knowledge to manage it. More on this below.)*
-
-Beyond automation, external factors accelerated the change.
 
 #### Business Changes
 
@@ -195,9 +187,9 @@ I believe that if someone does work that directly results in code, then his job 
 
 **Also, don't hide behind certifications**. *Certifications are good to keep the learner in us alive. That's it. In the real world, nobody cares about them. When software comes to take our jobs, no certificate will help*.
 
-When deciding, ask yourself: {{< bigtext >}}Does it take at least 6 months to get good at my job? If the answer is yes, your job is safe.{{< /bigtext >}}
+When deciding, ask yourself:
 
-These adaptations align with emerging trends in the industry.
+> **Principle**: If it takes six months or more to get good at your job, it's safe. If not, automation is already coming for it.
 
 #### New Age Roles
 

@@ -37,8 +37,6 @@ Meetings are necessary. After all, they help foster collaboration, are needed to
 
 Listing the pitfalls, my list of critiques is as follows.
 
-This **starts with the issue of over-invitation**.
-
 ---
 
 ##### Panchayat
@@ -61,8 +59,6 @@ Meanwhile, the meeting was held to discuss whether we should add a new column in
 ---
 
 ##### Democracy
-
-The structure of meetings often mimics flawed systems.
 
 Panchayat has a panch or a village head. *He is both a strongman and a strongly respected man*. For the most part, his word is final.
 
@@ -98,7 +94,7 @@ Meaning, he can choose to address or dismiss concerns, allow disagreements, or p
 
 ##### An Instrument to 'Feel' Like Working, Instead of Working
 
-Our brains are the highest consumers of our daily caloric intake; up to 40%. But I doubt the science. This is because **when I meet some morons, their bodies seem fine, but their brains are starved for food**.
+Our brains are the highest consumers of our daily caloric intake; up to 40%. But I doubt the science. This is because **some people I meet seem physically fine, yet their brains look starved for food**.
 
 ![Meeting](/images/meetings-clusterfuck/meeting1.jpeg)
 
@@ -109,6 +105,8 @@ Another fact is that humans are designed to conserve our energies. No surprises 
 Combining the two facts, what is a quick fix to conserving energy, i.e., **not thinking while seeming to think !!**
 
 Meetings, of course! This is a reason many like to "meet" rather than take a pen and paper and work through problems themselves.
+
+> **Idea**: A meeting is how we get to feel like we're thinking without doing the hard part — actually thinking.
 
 True story:
 
@@ -173,8 +171,6 @@ But of course, Sharad was thanked for all the "contributions" he made to the pro
 
 Need I say more?
 
-Now that we've covered the problems, let's explore some practical solutions.
-
 ---
 
 #### To Dos
@@ -188,8 +184,6 @@ Having said that, I use every one of the below. And they have worked well for me
 ---
 
 ##### Less a Coordinator and More a Captain
-
-First, take control of your meetings.
 
 As a techie and organizer of my meetings, I don't passively ride the ship. Instead, **I actively guide it—compass, anchor, and all**.
 
@@ -209,8 +203,6 @@ What I do is against the popular wisdom of running meetings. But **I don't run s
 
 > In my plane, I am not an attendant. I am usually the pilot.
 
-Next, be intentional about who attends.
-
 ---
 
 ##### Be Mindful
@@ -229,9 +221,7 @@ PS : *A side effect of this behavior is—the best techies in the team are alway
 
 *I respect his time; he reciprocates. This in turn raises my productivity compared to others in the organization. The intent wasn't selfish, but the side effect helps.*
 
-> Reduce participants to increase participation.
-
-Lastly, maintain focus by addressing disruptions.
+> **Principle**: Reduce participants to increase participation.
 
 ---
 

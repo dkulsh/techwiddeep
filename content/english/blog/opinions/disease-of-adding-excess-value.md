@@ -41,7 +41,7 @@ Imagine I pitch a solid idea to the boss. Instead of a simple “Great job!” t
 
 My idea is now your idea – and I walk out of your office less enthused about it than when I walked in. (I got so irritated that I left the call.)
 
-> Adding too much value can sap motivation and derail progress.
+> **Idea**: Improving someone’s idea by 5% can cut their commitment to it by 50% — because it’s no longer *their* idea.
 
 ![Value addition problem concept](/images/disease-of-adding-excess-value/value-addition-problem.jpg)
 
@@ -56,7 +56,7 @@ From our story, Rohit's fatal error was not that he had an opinion (to which he 
 - They think they're contributing to a situation with helpful comments, but others see it as butting in.
 - They think they have all the answers, but others see it as arrogance.
 
-And, this issue extends beyond surface-level interactions.
+But oh! The problem runs deeper.
 
 #### The Deeper Damage
 
@@ -89,7 +89,7 @@ That is, despite knowing leaders are wrong, subordinates follow "stupid instruct
 
 "*What goes around comes around*," poor orders style!
 
-> Suggestions from leaders become orders, whether they mean it or not.
+> **Principle**: A boss’s suggestion lands as an order — smart or stupid. The higher you sit, the more you must know when to *stop* adding value.
 
 Here is a sweet story to drive the point home:
 
@@ -107,7 +107,7 @@ Sweet!
 
 While the company head was smart enough to know that Blass' was just a suggestion, most employees aren't. And herein lies the problem.
 
-##### The Autonomy Killer
+##### Institutionalizing Mediocrity
 
 "I learned a very hard lesson. **My suggestions become orders. If they're smart, they're orders. If they're stupid, they're orders**. If I want them to be orders, they are orders. And, if I don't want them to be orders, they are orders anyway."
 
@@ -140,9 +140,9 @@ Do you see the problem when everything is channeled via one central authority?
 
 On the other hand, Houthis engage the enemy as soon as they see it. Though a much smaller force, and with much lesser equipment, they are able to resist a much bigger force.
 
-This is what happens at companies. This is the reason **Twitter works with 13 employees and AngelList with 30**. Yet both companies are worth billions of dollars. *I bet the employees at these organizations are independent thinkers*.
+This is, figuratively, what happens at companies. This is the reason **Twitter works with 13 employees and AngelList with 30**. Yet both companies are worth billions of dollars. *I bet the employees at these organizations are independent thinkers*.
 
-Companies that allow autonomous thinking always beat ones that quell autonomous thinking. (Also discussed at [A Case for Independent Thinking](https://techwiddeep.com/a-case-for-independent-thinking/))
+Companies that allow autonomous thinking always beat ones that quell autonomous thinking. (Also discussed at [A Case for Independent Thinking]({{< relref "independent-thinking.md" >}}))
 
 ![Autonomous thinking concept](/images/disease-of-adding-excess-value/autonomous-thinking.jpg)
 

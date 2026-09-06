@@ -23,8 +23,6 @@ Not only was the contract fresh, but the team was as well. Eager to impress the 
 
 For non-techies: *Scala is a JVM (Java Virtual Machine) based programming language. It is known to be blazing fast and requires fewer lines of code. Additionally, Scala's style is a mix of object-oriented and functional programming*.
 
-This sets the stage for understanding the challenges ahead.
-
 
 ##### The Hidden Cost of Cool
 
@@ -37,9 +35,7 @@ Yet most people don't realize that while **the complexity of writing 10 lines ge
 
 This means that while it might be easy to code in a functional programming language, it is **damn hard** to debug it.
 
-**Complexity, like energy, is never destroyed**. While it can change its shape, form, or location, it will never be destroyed.
-
-Building on this technical insight, let's return to the story.
+> **Idea**: Complexity, like energy, is never destroyed — it only changes form. A language that hides the cost of *writing* code just shifts it onto *debugging*.
 
 #### Continued
 
@@ -52,8 +48,6 @@ Recall that debugging functional code is difficult. Suddenly, developers' lives 
 Any new programming language has a smaller ecosystem around it. That is, there are few developers, still-maturing tools, and smaller support communities. Using the supply-demand formula, we know that when something is scarce, it costs more. This means that when a programming language has few developers, they command high salaries.
 
 Back to our story: The marketplace did not have many Scala developers in the first place. Unfortunately, the few who were found and did qualify could not be hired. Their asking salaries were way above the company's budget. So much so that the **work ground to a halt.**.
-
-These challenges led to a pivotal decision.
 
 
 #### The Bitter End
@@ -73,8 +67,6 @@ Essentially, techies were eager to ride the "new technology bandwagon." The same
 
 Moral of the story: **Techies overvalue technology, and sometimes it hurts them badly!**
 
-Now, let's explore why such issues persist.
-
 #### Why
 
 This IT fiasco is all too common. **Why do smart pros make dumb tech choices?**
@@ -91,7 +83,7 @@ Learning and adopting new technologies is great. But the problem occurs when tec
 
 We become biased toward anything we stay in proximity to, such bias shouldn't be a surprise (it also explains the poor decisions). Instead, the surprise is that organizations do not take proactive steps to avoid the biases.
 
-_PS: POBO sounds like a Java phrase—POJO (Plain Old Java Object), hence funny to techies._
+_PS: POBO sounds like a Java phrase—POJO (Plain Old Java Object), hence funny to techies._ _(I know, it's a poor joke; I'm sometimes speechless at my own sense of humour.)_
 
 
 ##### Pluralistic Ignorance
@@ -108,7 +100,7 @@ When my decision to choose technology is based on the other guy's choice, then I
 
 ##### The Resume Objective Fiasco
 
-Look at resumes: that pointless "Objective" section? "To excel in a dynamic environment..." Blah blah. **Adds zero value, yet everyone's got one—pluralistic ignorance in action!** Ever copied a trend without questioning why?
+Look at resumes: that pointless "Objective" section? "To excel in a dynamic environment..." Blah blah. **Adds zero value, yet everyone's got one—pluralistic ignorance in action!**
 
 ##### Follow the leader
 
@@ -116,6 +108,8 @@ Techies foolishly think: "Google uses Scala, so let's use it too." Never mind th
 
 - **Google processes petabytes of data every day**
 - **Our complete application is less than a few gigabytes**
+
+> **Principle**: Pick technology for the problem in front of you — not for the résumé, and not because the competitor next door did.
 
 Pluralistic ignorance is another reason for poor tech decisions. That is, **it ignores real proof in favor of social proof, only to pay later.**
 
@@ -190,17 +184,11 @@ Finally, let me ask: Are engineers valued as the best solution providers?
 
 No. They are treated as a stepchild.
 
-Exactly my point! Let's tie these ideas together.
-
 #### Wrap Up
 
 We saw John's tech bias torpedo his project, unpacked the causes, and spotlighted the underrated. **Techies overvalue tech—and it bites back.** Acknowledge biases first. Ask: **What's this tech's drawback?** Balance hype with reality to avoid egg on your face.
 
 
 ![Conclusion](/images/tot-techies-technology/image6-190w246h.jpg)
-
-We started by discussing how John's organization hurt itself by its tech bias. Then we went on to understand the causes of such poor decisions. Finally, we looked at the other side of the bias—the undervalued resources.
-
-Wrapping up, I mention the point again: **We techies overvalue technology, and the bias comes back to bite us in the ass.** The number one thing we can do is acknowledge our biases. Once we do, steps toward mitigating them become easier.
 
 I'm all for innovation, but with eyes wide open.
