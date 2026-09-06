@@ -29,9 +29,9 @@ Notice, the duller the job, the fancier the titles.
 
 Since the jobs are mundane, unfulfilling, and with poor social standing, people's egos need to be inflated by something. Maybe give them a sense of purpose. **Fancy titles give people the image boost they need**.
 
-> Dull jobs need ego boosts to keep folks hooked.
+> **Idea**: Dull jobs need ego boosts to keep folks hooked — and a fancy title is the cheapest one to hand out.
 
-**While their self-image improves temporarily, their salaries don't**.
+**While their self-image improves temporarily, their salaries and lives don’t**.
 
 
 #### The Title Trick: Ego’s Candy
@@ -114,6 +114,8 @@ Do not get me wrong — I want you to think big. But act small.
 When people ask, just tell them that **you make software for banks** or something. Nobody gives a shit whether you are the "**Senior Mega Ultra Database Administrator**" or the "**Cosmic Voluminous Chief Technical Officer**."
 
 **Dream big, but don’t sweat the label.**
+
+> **Principle**: Judge a job by the work, the pay, and the learning. The title is the last line item — never the first.
 
 #### Ego: The Real Enemy
 
