@@ -11,12 +11,56 @@ draft: false
 toc: false
 ---
 
-*Another one from Gordon Livingston's* Too Soon Old, Too Late Smart*. It quietly changed how I read people — including myself: the trait that makes someone excellent at work is often the exact trait that makes them hard to live with.*
 
-> There are certain personality characteristics highly correlated with professional success: dedication to work, attention to detail, ability to manage time, conscientiousness. People who have these traits are generally excellent students and productive workers. They can also be difficult to live with. In one's personal life, keeping of lists, perfectionist attitudes, devotion to effort over pleasure and friendships, lack of flexibility, and stubbornness do not wear as well.
->
-> Such a list of paradoxes is endless: the relentless pursuit of pleasure brings pain; the greatest risk is not taking any; the long-sought promotion brings more money and more headaches. Only by embracing our mortality can we be happy in the time we have.
->
-> — Gordon Livingston, *Too Soon Old, Too Late Smart*
+There are certain personality characteristics that are highly correlated with professional success:
 
-*The one thing I'd add:* next time you beat yourself up over a weakness, remember it's usually the shadow of a strength. Too rigid? That's your knack for organization. Too impulsive? That's your creative spark. The goal isn't to erase the trait — it's to know which room you're in.
+- Dedication to work
+- Attention to detail
+- Ability to manage time
+- Conscientiousness
+
+People who have these traits are generally excellent students and productive workers. However, **they can also be difficult to live with**.
+
+Think about it! Those who demand much of themselves have high standards for those around them.
+
+In a work situation, this is usually an adaptive approach. In one's personal life, the following traits do not wear as well and tend to alienate those who value closeness, relaxation, and tolerance:
+
+- Keeping of lists
+- Perfectionist attitudes
+- Devotion to effort over pleasure and friendships
+- Lack of flexibility
+- Stubbornness
+
+**A certain amount of separation is necessary to succeed in the different areas of our lives**. Juggling our multiple responsibilities—worker, partner, parent, friend—is a challenge. We think of ourselves as the same person whatever we may be doing at the moment. But our different roles demand different attitudes.
+
+
+#### Paradoxes
+
+If we try to impose a businesslike decision-making structure on our families, then we are likely to encounter resentment and resistance.
+
+**Conversely, if our style tends to be impulsive, superficial, and pleasure-seeking, then we may find it difficult to succeed at work.**
+
+Such a list of paradoxes is endless:
+
+- The relentless pursuit of pleasure brings pain
+- The greatest risk is not taking any
+
+A favorite:
+
+- Everything in life is a good news/bad news story
+  - The long-sought promotion brings more money and more headaches
+  - The dream vacation puts us in debt
+  - Experience has taught us well, but we get too old to use the knowledge
+  - Youth is wasted on the young
+
+The final one:
+
+- *Only by embracing our mortality can we be happy in the time we have*
+
+{{< bigtext >}}Therefore, our ability to experience pleasure requires either a healthy denial or a courageous acceptance of our situation.{{< /bigtext >}}
+
+---
+
+Next time you beat yourself up over a weakness, remember — it is also your strength. Too rigid? That’s your knack for organization. Too impulsive? That’s your creative spark.
+
+*Excerpt From: Gordon Livingston, “Too Soon Old, Too Late Smart”*

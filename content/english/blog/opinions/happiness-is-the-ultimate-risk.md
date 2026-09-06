@@ -11,14 +11,50 @@ draft: false
 toc: false
 ---
 
-*This is Gordon Livingston, not me — from* Too Soon Old, Too Late Smart*, the book he wrote after losing two sons a year apart. I've never shaken his point that safety, past a certain point, becomes its own kind of cage.*
+#### Advantages of Unhappiness
 
-> Sometimes I tell people there might be advantages to their depression — one of them being that it's a safe position. The same goes for chronic pessimism. Because their expectations are chronically low, pessimists are seldom disappointed. When I suggest that our expectations, good or bad, are usually met, they are skeptical.
->
-> To be happy is to take the risk of losing that happiness. All significant accomplishments require taking risks — the risk of failure in invention, in exploration, or in love.
->
-> It is not so much what occurs, but how we define events and respond, that determines how we feel. To the degree that one's choices become constrained by a need for anxiety avoidance, one's life shrinks.
->
-> — Gordon Livingston, *Too Soon Old, Too Late Smart*
+Sometimes, I tell people that there might be advantages to their depression. One of the benefits is that it is a safe position.
 
-*The one thing I'd add:* the safest-looking career move — the stable seat, the role you've outgrown but won't leave — is often the riskiest, because it quietly shrinks you while you're not looking. Happiness, like any bet worth making, is only on offer to people willing to risk losing it.
+The same goes for chronic pessimism. It is hard to disillusion pessimists. They are already discouraged and so immune to unhappy surprises. Because their expectations are chronically low, pessimists are seldom disappointed (they also see themselves as realists). When I suggest to them that our expectations, good or bad, are usually met, they are skeptical since it has been so long since they have anticipated anything but the worst.
+
+**To be happy is to take the risk of losing that happiness.**
+
+All significant accomplishments require taking risks: the risk of failure
+
+- in invention,
+- in exploration, or
+- in love.
+
+We live in a society that is risk-averse. Enormous time and energy is devoted to promoting "safety" in all we do. We are taught to
+
+- buckle our seat belts,
+- lock our doors,
+- refrain from smoking,
+- get an annual physical, and
+- consult our doctors before exercise.
+
+Also,
+
+- we worry about the weather,
+- obsess about our children's security,
+- live in houses with alarm systems, and
+- arm ourselves against intruders.
+
+
+#### Making Changes
+
+It is often hard to sell unhappy people on the idea of making the necessary changes—ones that might alter behaviors contributing to their chronic discouragement.
+
+Our feelings depend on our interpretation of what is happening to us and around us—our attitudes.
+
+**It is not so much what occurs, but how we define events and respond that determines how we feel.**
+
+Those who struggle emotionally have lost their ability to choose behaviors that could make them happy.
+
+Consider a person so disabled by worry that he can no longer function comfortably in the world. Every decision is measured by whether it will increase or decrease anxiety. To the degree that one's choices become constrained by a need for anxiety avoidance, one's life shrinks. As this happens, the anxiety gets reinforced. Soon the sufferer becomes fearful, not of anything external, but of anxiety itself. People become afraid to drive, to shop, sometimes even to leave their houses. At this point, some patients feel their choices in life have become very constricted, so they withdraw from human contact.
+
+But we have the ability to choose happy behaviors.
+
+At the same time, **happiness is the ultimate *risk***. To be happy is to take the risk of losing that happiness.
+
+*Excerpt from: Gordon Livingston. "Too Soon Old, Too Late Smart"*

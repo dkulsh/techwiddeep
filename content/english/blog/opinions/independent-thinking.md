@@ -11,14 +11,81 @@ draft: false
 toc: false
 ---
 
-*I didn't write the passage below — Hugh MacLeod did, in* Ignore Everybody and 39 Other Keys to Creativity*. I keep coming back to it because, years into building software, I've watched it come true: the teams that reward thinking pull away from the teams that reward compliance. He just says it more bluntly than I could.*
 
 > **Companies that squelch thinking can no longer compete with companies that champion thinking.** Nor can you bully a subordinate into becoming a genius.
->
-> Since the modern corporation was invented, thinking has been sacrificed in favour of the "team player." Fair enough — there was more money in doing it that way. There's only one problem: team players aren't very good at creating value on their own. They need a team in order to exist. So now corporations are awash with non-autonomous thinkers — millions of human tapeworms making love to their PowerPoint presentations, feasting on the thinking of others.
->
-> If you can think independently, if you can articulate passion, if you can override the fear of being wrong — then your company needs you more now than it ever did.
->
-> — Hugh MacLeod, *Ignore Everybody and 39 Other Keys to Creativity*
 
-*The one thing I'd add, from the software trenches:* this is an economic claim, not just a moral one. A handful of autonomous engineers routinely out-ship a whole floor of "I don't know, what do you think?" — it's why a lean startup runs circles around a far bigger team. Independent thinking isn't a nice-to-have; it's the cheapest leverage a company has. *(I go further on this in [The Disease of Adding Excess Value]({{< relref "disease-of-adding-excess-value.md" >}}).)*
+---
+
+Since the modern, scientifically conceived corporation was invented in the early half of the twentieth century, thinking has been sacrificed in favour of forwarding the interests of the "team player."
+
+Fair enough. There was more money in doing it that way; that's why they did it.
+
+---
+
+#### There's only one problem.
+Team players are not very good at creating value on their own. They are not autonomous; they need a team in order to exist.
+
+**So now corporations are awash with non-autonomous thinkers.**
+
+---
+
+#### The Cycle of Indecision
+
+- **Developer to Lead** – *"I don't know. What do you think?"*
+- **Lead to Manager** – *"I don't know. What do you think?"*
+- **Manager to Business Analyst** – *"I don't know. What do you think?"*
+- **Analyst to Client** – *"I don't know. What do you think?"*
+- **Client back to the Analyst** – *"I don't know. What do you think?"*
+- **Analyst back to the Manager** – *"I don't know. What do you think?"*
+
+And so on.
+
+![Infinite Loop](https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif)
+
+*(The corporate version of "Who's on First?")*
+
+---
+
+#### The Parasitic Corporate Culture
+Creating an economically viable entity where lack of original thought is handsomely rewarded creates a rich, fertile environment for parasites to breed.
+
+And that's exactly what's been happening.
+
+Now we have millions upon millions of human tapeworms thriving in the Western world:
+- Making love to their PowerPoint presentations.
+- Feasting on the thinking of others.
+
+---
+
+#### The Critical Question
+What happens to an ecology when the parasite level reaches critical mass?
+
+##### The ecology dies.
+
+---
+
+#### The Power of Independent Thought
+If you can think,
+if you can think independently,
+if you can articulate passion,
+if you can override the fear of being wrong —
+
+**then your company needs you more now than it ever did.**
+
+And now your company can no longer pretend that isn't the case.
+
+---
+
+#### A Call to Action
+**So dust off your horn and start tooting it.**  🎺
+
+And if you don't see yourself as a particularly strong thinker, that's not reality—that's a self-imposed limitation.
+
+Only you can decide whether you want to carry that around with you forever.
+
+##### Life is short.
+
+---
+
+###### Hugh MacLeod
+*(Ignore Everybody and 39 Other Keys to Creativity)*
