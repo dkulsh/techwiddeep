@@ -33,7 +33,6 @@ In a work situation, this is usually an adaptive approach. In one's personal lif
 
 **A certain amount of separation is necessary to succeed in the different areas of our lives**. Juggling our multiple responsibilities—worker, partner, parent, friend—is a challenge. We think of ourselves as the same person whatever we may be doing at the moment. But our different roles demand different attitudes.
 
-This leads us to explore some inherent paradoxes in life.
 
 ## Paradoxes
 
@@ -62,8 +61,6 @@ The final one:
 
 ---
 
-Next time you beat yourself up over a weakness, remember—it is also your strength! Too rigid? That’s your knack for organization shining. Too impulsive? That’s your creative spark. **Embrace the paradox, and you’ll find balance.**
-
-So, what’s one trait you’ve cursed that might actually be a strength? How will you lean into it?
+Next time you beat yourself up over a weakness, remember — it is also your strength. Too rigid? That’s your knack for organization. Too impulsive? That’s your creative spark.
 
 *Excerpt From: Gordon Livingston, “Too Soon Old, Too Late Smart”*
