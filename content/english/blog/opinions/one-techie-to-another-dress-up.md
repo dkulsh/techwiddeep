@@ -31,6 +31,8 @@ Later I moved to the US for work, and got the opposite surprise. Westerners are 
 
 That stint flipped my perspective. Dressing well isn't only cultural — it's a statement. It isn't always about vanity; often it's about respect, for yourself and for the people around you. ![European style icon](/images/one-techie-to-another-dress-up/european-style-icon-2.png)
 
+Back in a tier-2 Indian city, I notice the same inattention to dressing all over again — hence this post.
+
 
 #### Why Bother?
 
@@ -47,6 +49,8 @@ Ask yourself:
 - Would the better-packaged one sell for more?
 
 Good packaging does boost value. If we engineers are the product, our clothes are the packaging, and our employers are the clients paying our salaries. Would your "client" pay more for a sharper-looking you? I think they would.
+
+> **Idea**: If you’re the product, your clothes are the packaging — and packaging moves the price.
 
 
 #### Dress Like a King, Get Treated Like One
@@ -66,7 +70,7 @@ Your wardrobe is saying something whether you like it or not. Dress *better* tha
 
 An engineer who looks sharp in the middle of a P1 outage is saying, "I value myself; I'm in control." A manager with polished shoes amid chaos is saying, "I've got this."
 
-> Your clothes are a non-verbal megaphone. You can't *not* communicate — so choose deliberately.
+> **Principle**: You can’t *not* communicate — your clothes speak before you do. So choose deliberately.
 
 Leaders read these signals. A VP who sees a well-dressed engineer thinks, "If they nail the small stuff like shoes, they probably nail the big stuff too." Guess who comes to mind at promotion time.
 

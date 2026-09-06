@@ -14,7 +14,7 @@ toc: false
 
 Blowback is a term coined by the CIA. It intends to highlight unintended consequences of our actions.
 
-In the IT context, a "blowback" would be **getting fired for doing a great job**. Let's unpack this sneaky trap with a real tale, a power play primer, and tips to dodge the drama. Ready to play smart?
+In the IT context, a "blowback" would be **getting fired for doing a great job**. Sometimes doing a good job can have blowbacks. We unpack the phenomenon here.
 
 #### The Blowback Blues
 
@@ -108,7 +108,7 @@ In that case, I have a question for you. {{< bigtext  >}}If Ravi were the manage
 
 My take—**exact same thing**! Ravi would've got his subordinate fired.
 
-> Power affects everyone.
+> **Idea**: Swap Ravi and the manager, and the ending is identical — this is about power, not one bad boss. Power affects everyone.
 
 ![Power](/images/dont-outshine-boss/power.png)
 
@@ -191,6 +191,8 @@ In these cases, we need to ensure that our abilities are muted. So...
   While he might be friendly, he is not your friend.
 
 {{< bigtext >}}Appearing less than you are is always a safe bet.{{< /bigtext >}} Since we are no longer a threat, no "corrective" action needs to be taken against us.
+
+> **Principle**: Never let those above you feel diminished by you — share the credit upward, and mute your shine when it threatens their standing.
 
 #### ⚠⚠ Decide for Yourself ⚠⚠
 

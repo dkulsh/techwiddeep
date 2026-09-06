@@ -21,6 +21,8 @@ Admittedly, I have a bad habit of ensuring you, the reader, understand the conte
 
 You will see this habit in action.
 
+But before we get selfish, we ought to get selfless. Before we try to *get* a job, we need to *give* something — in this case, our attention.
+
 
 ## What Companies Want
 
@@ -76,7 +78,7 @@ No.
 
 Companies want a signal that you are a worthwhile candidate. *And the signal changes over time*.
 
-> Your job is to provide a clear signal of your worth, whatever the method.
+> **Principle**: A hiring signal is whatever proves your worth cheaply — and it changes over time. Your job is to always carry a current one.
 
 ![Provide good signal](/images/find-jobs-the-hard-way/provide-good-signal.jpg)
 
@@ -138,7 +140,7 @@ Not the case in my experience.
 
 But my interviewees couldn't.
 
-> *The idea of 'transfer' is *not* true. More than a mirage, such an idea is a scam.*
+> **Idea**: "Transfer" is a myth — knowing a concept in a classroom doesn’t mean you can use it on a real project. So learn directly: build the thing.
 
 
 Excerpt from Scott Young, *Ultralearning*:
@@ -164,9 +166,9 @@ Here is a true story that describes it.
 
 Excerpt from Scott Young, *Ultralearning*:
 
-*Vatsal Jaiswal moved to Canada to become an architect, but a few years after the 2007 crash, firms were laying off even experienced architects. Jaiswal sensed the companies didn’t see him as useful — his schooling had focused on design and theory, on projects isolated from the reality of building codes, construction costs, and the software firms actually use. Hiring him would mean training him, which few firms could afford.*
+*Vatsal Jaiswal moved to Canada to become an architect, but a few years after the 2007 crash, firms were laying off even experienced architects. Jaiswal sensed the companies didn’t see him as useful — his schooling had focused on design and theory, on projects isolated from the reality of building codes, construction costs, and the software firms actually use. Hiring him would mean training him, something few firms could afford.*
 
-*So he set out to close that gap. He took a job at a print shop that printed architectural blueprints, absorbing how real drawings are put together. He taught himself Revit, the design software common at architecture firms. Then he built a new portfolio and submitted it to just two firms.* ***To his surprise, both immediately offered him a job.***
+*He needed to show them the opposite: that rather than being a burden, he could get to work and be valuable from day one. So he set out to close the gap. He took a job at a print shop that printed architectural blueprints, absorbing how real drawings are put together. He taught himself Revit, the design software common at architecture firms. Then he built a new portfolio and submitted it to just two firms.* ***To his surprise, both immediately offered him a job.***
 
 Jaiswal's story highlights a few points:
 
