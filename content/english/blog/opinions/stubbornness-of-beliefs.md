@@ -30,7 +30,7 @@ This irrational, circular information-processing pattern is called **motivated r
 
 Suddenly, **everything you see seems to confirm it.** Sound familiar?
 
-This tendency to cling to beliefs sets the stage for understanding our discomfort when they are challenged. **It’s not about truth; it’s about feeling right.**
+**It’s not about truth; it’s about feeling right.**
 
 #### You Can't Handle the Truth
 
@@ -52,7 +52,7 @@ Also, it doesn't take much for any of us to believe something. Once we believe i
 
 ##### The Self-Narrative Shield
 
-We know, **beliefs are stubborn beasts.**.
+We know, **beliefs are stubborn beasts.**
 
 Even when directly confronted with facts that disconfirm our beliefs, we don't let facts get in the way. As Daniel Kahneman pointed out, we just want to think well of ourselves and feel that the narrative of our life story is a positive one. Being wrong doesn't fit into that narrative.
 
@@ -64,13 +64,13 @@ If we think of beliefs as only 100% right or 100% wrong, when confronting new in
 
 It feels bad to be wrong, so we choose the second option.
 
-> Information that disagrees with us is an assault on our self-narrative.
+> **Principle**: Hold beliefs as probabilities, not as 100%-right-or-wrong. If being wrong means flipping your whole self-image, you'll defend the belief instead of updating it.
+
+> **Idea**: Information that agrees with us gets waved through; information that disagrees is treated as an assault on our self-narrative — so we swat it away.
 
 We'll work hard to swat that threat away.
 
 On the flip side, when additional information agrees with us, we effortlessly embrace it.
-
-Understanding this rigidity highlights the broader implications of our belief systems.
 
 #### Why Is This Important?
 

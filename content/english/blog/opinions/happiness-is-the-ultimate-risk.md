@@ -8,7 +8,7 @@ categories: ["Opinions", "Psychology", "Self-Improvement"]
 author: "Deep Kulshreshtha"
 tags: ["happiness", "risk-taking", "personal development", "psychology"]
 draft: false
-toc: true
+toc: false
 ---
 
 ![Happiness risk illustration](/images/happiness-is-the-ultimate-risk/happiness-risk-illustration.jpg)
@@ -42,7 +42,6 @@ Also,
 - live in houses with alarm systems, and
 - arm ourselves against intruders.
 
-This emphasis on safety extends into our emotional lives, where avoiding risks can lead to stagnation.
 
 ## Making Changes
 
@@ -58,6 +57,6 @@ Consider a person so disabled by worry that he can no longer function comfortabl
 
 But we have the ability to choose happy behaviors.
 
-At the same time, **happiness is the ultimate *risk*. To be happy is to take the risk of losing that happiness.
+At the same time, **happiness is the ultimate *risk***. To be happy is to take the risk of losing that happiness.
 
 *Excerpt from: Gordon Livingston. "Too Soon Old, Too Late Smart"*
